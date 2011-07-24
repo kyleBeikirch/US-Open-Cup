@@ -1,1 +1,0 @@
-Project for the unofficial site for the US Open Cup thecup.us
