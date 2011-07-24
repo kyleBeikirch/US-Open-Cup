@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+	<imagePath>http://thecup.us/brackets/2011/region_1_qualifying/</imagePath>
+	<team>
+		<id>0</id>
+		<name>NY Pancyprian Freedom</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>PancyprianFreedom.jpg</logo>
+	</team>
+	
+	<team>
+		<id>1</id>
+		<name>Danbury United</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>DanburyUnited.jpg</logo>
+	</team>
+	
+	<team>
+		<id>2</id>
+		<name>Mass. Premier Soccer</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>MPS.jpg</logo>
+	</team>
+	
+	<team>
+		<id>3</id>
+		<name>East Providence Sports</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>EPS.jpg</logo>
+	</team>
+	
+	<team>
+		<id>4</id>
+		<name>New Jersey</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo></logo>
+	</team>
+	
+	<team>
+		<id>5</id>
+		<name>MDCVSA</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo></logo>
+	</team>
+	
+	<team>
+		<id>6</id>
+		<name>Phoenix Majors</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>PhoenixMajors.jpg</logo>
+	</team>
+	
+	<team>
+		<id>7</id>
+		<name>Maryland</name>
+		<shortName></shortName>
+		<league>-1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo></logo>
+	</team>
+</teams>

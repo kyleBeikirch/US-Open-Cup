@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bracket>
+	<year>2011 USASA Region I Qualifier</year>
+	<round name="Quarter Finals" date="June 9">
+	
+		<game id="0">
+			<homeID>1</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>0</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+		
+		<game id="1">
+			<homeID>3</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>2</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+		
+		<game id="2">
+			<homeID>5</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>4</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+	
+		<game id="3">
+			<homeID>7</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>6</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+	</round>
+	
+	<round name="Semifinals" date="May 22nd">
+		<game id="4">
+			<homeID>-1</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>-1</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+	
+		<game id="5">
+			<homeID>-1</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>-1</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+		
+	</round>
+	
+	<round name="Final" date="June 19th">
+	
+		<game id="6">
+			<homeID>-1</homeID>
+			<homeScore>-1</homeScore>
+			<awayID>-1</awayID>
+			<awayScore>-1</awayScore>
+			<extraTime></extraTime>
+			<date></date>
+			<time></time>
+			<location></location>
+			<stadium></stadium>
+			<report></report>
+		</game>
+	</round>
+	
+	
+</bracket>
