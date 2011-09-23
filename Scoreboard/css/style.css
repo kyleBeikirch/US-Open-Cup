@@ -1,15 +1,30 @@
 .scoreCard {
 	width: 100px;
-	height: 50px;
-	background-color:#00ff00;
+	height: 54px;
 	float: left;
 	border-style:solid;
-	border-width:2px;
+	border-width:1px;
+	margin: 0px 5px;
+}
+
+.title{
+	height: 18px;
+	background-color:#666;	
+}
+
+.home{
+	height: 18px;
+	background-color:#CCC;	
+}
+
+.away{
+	height: 18px;
+	background-color:#999;	
 }
 
 
 #scoreHolder{
 	width: 960px;
-	height: 55px;
+	height: 56px;
 	overflow: hidden;
 }

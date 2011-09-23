@@ -13,7 +13,7 @@ function xmlParser(xml) {
     $(xml).find("game").each(function() {
 		
 		console.log($(this).find("stadium"));
-		$("#scoreHolder").append('<div class="scoreCard"></div>');
+		$("#scoreHolder").append('<div class="scoreCard"><div class="title"></div><div class="home"></div><div class="away"></div></div>');
         //$(".main").append('<div class="book"><div class="title">' + $(this).find("Title").text() + '</div><div class="description">' + $(this).find("Description").text() + '</div><div class="date">Published ' + $(this).find("Date").text() + '</div></div>');
         //$(".book").fadeIn(1000);
 
