@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+	<imagePath></imagePath>
+	<team>
+		<id>0</id>
+		<name>Chicago Fire</name>
+		<shortName>CHC</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>chicagoFire.jpg</logo>
+	</team>
+	<team>
+		<id>1</id>
+		<name>Columbus Crew</name>
+		<shortName>CMB</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>columbusCrew.jpg</logo>
+	</team>
+	<team>
+		<id>2</id>
+		<name>FC Dallas</name>
+		<shortName>FCD</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>fcDallas.jpg</logo>
+	</team>
+	<team>
+		<id>3</id>
+		<name>Sporting Kansas City</name>
+		<shortName>SKC</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>sportingKC.jpg</logo>
+	</team>
+	<team>
+		<id>4</id>
+		<name>Los Angeles Galaxy</name>
+		<shortName>LAG</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>laGalaxy.jpg</logo>
+	</team>
+	<team>
+		<id>5</id>
+		<name>New York Red Bulls</name>
+		<shortName>NYRB</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>nyRedBulls.jpg</logo>
+	</team>
+	
+	<team>
+		<id>6</id>
+		<name>Real Salt Lake</name>
+		<shortName>RSL</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>realSaltLake.jpg</logo>
+	</team>
+	
+	<team>
+		<id>7</id>
+		<name>Seattle Sounders FC</name>
+		<shortName>SEA</shortName>
+		<league>0</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>seattleMLS.jpg</logo>
+	</team>
+	
+	<team>
+		<id>8</id>
+		<name>Charleston Battery</name>
+		<shortName>CAB</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>charlestonBattery.jpg</logo>
+	</team>
+	
+	<team>
+		<id>9</id>
+		<name>Charlotte Eagles</name>
+		<shortName>CHE</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>charlotteEagles.jpg</logo>
+	</team>
+	
+	<team>
+		<id>10</id>
+		<name>Dayton Dutch Lions</name>
+		<shortName>DAY</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>dutchLions.jpg</logo>
+	</team>
+	
+	<team>
+		<id>11</id>
+		<name>FC New York</name>
+		<shortName>FCNY</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>FCNY.jpg</logo>
+	</team>
+	
+	<team>
+		<id>12</id>
+		<name>Harrisburg City Islanders</name>
+		<shortName>HAR</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>harrisburgCityIslanders.jpg</logo>
+	</team>
+	
+	<team>
+		<id>13</id>
+		<name>Los Angeles Blues</name>
+		<shortName>LAB</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>laBlues.jpg</logo>
+	</team>
+	
+	<team>
+		<id>14</id>
+		<name>Orlando City SC</name>
+		<shortName>OSC</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>orlandoCity.jpg</logo>
+	</team>
+	
+	<team>
+		<id>15</id>
+		<name>Pittsburgh Riverhounds</name>
+		<shortName>PIT</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>pittsburghRiverhounds.jpg</logo>
+	</team>
+	
+	<team>
+		<id>16</id>
+		<name>Richmond Kickers</name>
+		<shortName>RCH</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>richmondKickers.jpg</logo>
+	</team>
+	
+	<team>
+		<id>17</id>
+		<name>Rochester Rhinos</name>
+		<shortName>ROC</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>rochesterRhinos.jpg</logo>
+	</team>
+	
+	<team>
+		<id>18</id>
+		<name>Wilmington Hammerheads</name>
+		<shortName>WIL</shortName>
+		<league>1</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>wilmingtonHammerHeads.jpg</logo>
+	</team>
+	
+	<team>
+		<id>19</id>
+		<name>Carolina Dynamo</name>
+		<shortName>CAR</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>carolinaDynamo.jpg</logo>
+	</team>
+	
+	<team>
+		<id>20</id>
+		<name>Central Florida Kraze</name>
+		<shortName>CFK</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>floridaKraze.jpg</logo>
+	</team>
+	
+	<team>
+		<id>21</id>
+		<name>Chicago Fire PDL</name>
+		<shortName>CHC</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>chicagoFire.jpg</logo>
+	</team>
+	
+	<team>
+		<id>22</id>
+		<name>Chivas El Paso Patriots</name>
+		<shortName>ELP</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>elPasoPatriots.jpg</logo>
+	</team>
+	
+	<team>
+		<id>23</id>
+		<name>Kitsap Pumas</name>
+		<shortName>KSP</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>kitsapPumas.jpg</logo>
+	</team>
+	
+	<team>
+		<id>24</id>
+		<name>Reading United AC</name>
+		<shortName>REA</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>readingAC.jpg</logo>
+	</team>
+	
+	<team>
+		<id>25</id>
+		<name>Real Colorado Foxes</name>
+		<shortName>COL</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>coloradoFoxes.jpg</logo>
+	</team>
+	
+	<team>
+		<id>26</id>
+		<name>Ventura County Fusion</name>
+		<shortName>VEN</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>venturaCounty.jpg</logo>
+	</team>
+	
+	<team>
+		<id>27</id>
+		<name>Western Mass Pioneers</name>
+		<shortName>WEM</shortName>
+		<league>2</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>WesternMassPioneers.jpg</logo>
+	</team>
+	
+	<team>
+		<id>28</id>
+		<name>Brooklyn Italians</name>
+		<shortName>BRK</shortName>
+		<league>3</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>brooklynItalians.jpg</logo>
+	</team>
+	
+	<team>
+		<id>29</id>
+		<name>Chattanooga FC</name>
+		<shortName>CHT</shortName>
+		<league>3</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>chattanooga.jpg</logo>
+	</team>
+	
+	<team>
+		<id>30</id>
+		<name>Hollywood United</name>
+		<shortName>HWD</shortName>
+		<league>3</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>hollywoodFC.jpg</logo>
+	</team>
+	
+	<team>
+		<id>31</id>
+		<name>Madison 56ers</name>
+		<shortName>MDN</shortName>
+		<league>3</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>madison56.jpg</logo>
+	</team>
+	
+	<team>
+		<id>32</id>
+		<name>AAC Eagles</name>
+		<shortName>Aeg</shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>aacEagles.jpg</logo>
+	</team>
+	
+	<team>
+		<id>33</id>
+		<name>ASC New Stars</name>
+		<shortName>ASC</shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>ariaSC.jpg</logo>
+	</team>
+	
+	<team>
+		<id>34</id>
+		<name>Doxa Italia</name>
+		<shortName>DOX</shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>doxaItalia.jpg</logo>
+	</team>
+	
+	<team>
+		<id>35</id>
+		<name>DV8 Defenders</name>
+		<shortName>DV8</shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>dv8.jpg</logo>
+	</team>
+	
+	<team>
+		<id>36</id>
+		<name>Iowa Menace</name>
+		<shortName>IWA</shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>iowaMenace.jpg</logo>
+	</team>
+	
+	<team>
+		<id>37</id>
+		<name>NY Pancyprian Freedoms</name>
+		<shortName></shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>PancyprianFreedom.jpg</logo>
+	</team>
+	
+	<team>
+		<id>38</id>
+		<name>Phoenix SC</name>
+		<shortName></shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>PhoenixMajors.jpg</logo>
+	</team>
+	
+	<team>
+		<id>39</id>
+		<name>Regals FC</name>
+		<shortName>RFC</shortName>
+		<league>4</league>
+		<mainColor></mainColor>
+		<secondColor></secondColor>
+		<logo>regalsFC.jpg</logo>
+	</team>
+</teams>
