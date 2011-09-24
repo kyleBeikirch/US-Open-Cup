@@ -4,27 +4,37 @@
 	float: left;
 	border-style:solid;
 	border-width:1px;
-	margin: 0px 5px;
+	margin: 0px 5px 10px 5px;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	
 }
 
-.title{
+.title, .home, .away{
 	height: 18px;
-	background-color:#666;	
+	padding-left: 5px;
+	padding-top: 3px;
+	overflow: hidden;	
+}
+
+.title{	
+	background-color:#666;
+	color: #999;	
 }
 
 .home{
-	height: 18px;
-	background-color:#CCC;	
+	background-color:#CCC;
+		
 }
 
 .away{
-	height: 18px;
 	background-color:#999;	
 }
 
 
 #scoreHolder{
 	width: 960px;
-	height: 56px;
+	height: 60px;
 	overflow: hidden;
 }
