@@ -10,12 +10,9 @@ $(document).ready(function() {
 
 
 function teamParser(xml){
-	
+		
 	var jsonData = XMLObjectifier.xmlToJSON(xml);
 	teamData = jsonData.team;
-	console.log(teamData);
-	
-	
 	$.ajax({
 	       type: "GET",
 	       url: "http://thecup.us/brackets/2011/us_open/data/2011bracket.xml",
@@ -34,7 +31,7 @@ function bracketParser(xml) {
 		var awayID = $(this).find("awayID").text();
 		var awayData = teamData[awayID];
 		var awayName = awayData.name[0].Text;
-		$("#scoreHolder").append('<div class="scoreCard"><div class="title">' + $(this).find("date").text() + '</div><div class="home">' + homeName + '</div><div class="away"> ' + awayName + '</div></div>');
+		if(homeID !== -1  && awayID !== -1) $("#scoreHolder").append('<div class="scoreCard"><div class="title">' + $(this).find("date").text() + '</div><div class="home"><div class="teamName">' + homeName + '</div><div class="gameScore">' +$(this).find("homeScore").text() + '</div></div><div class="away"><div class="teamName">' + awayName + '</div><div class="gameScore">' + $(this).find("awayScore").text() + '</div></div>');
 
     });
 
