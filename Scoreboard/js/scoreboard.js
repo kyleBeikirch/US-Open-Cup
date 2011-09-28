@@ -31,9 +31,13 @@ function bracketParser(xml) {
 		var awayID = $(this).find("awayID").text();
 		var awayData = teamData[awayID];
 		var awayName = awayData.name[0].Text;
-		if(homeID !== -1  && awayID !== -1) $("#scoreHolder").append('<div class="scoreCard"><div class="title">' + $(this).find("date").text() + '</div><div class="home"><div class="teamName">' + homeName + '</div><div class="gameScore">' +$(this).find("homeScore").text() + '</div></div><div class="away"><div class="teamName">' + awayName + '</div><div class="gameScore">' + $(this).find("awayScore").text() + '</div></div>');
+		if(homeID !== -1  && awayID !== -1) $(".items").append('<div class="scoreCard"><div class="title">' + $(this).find("date").text() + '</div><div class="home"><div class="teamName">' + homeName + '</div><div class="gameScore">' +$(this).find("homeScore").text() + '</div></div><div class="away"><div class="teamName">' + awayName + '</div><div class="gameScore">' + $(this).find("awayScore").text() + '</div></div>');
 
     });
+
+	$(".scrollable").scrollable();
+	var api = $(".scrollable").data("scrollable");
+	api.end();
 
 };
 
