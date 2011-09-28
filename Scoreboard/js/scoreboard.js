@@ -28,16 +28,26 @@ function bracketParser(xml) {
 		var homeID = $(this).find("homeID").text();
 		var homeData = teamData[homeID];
 		var homeName = homeData.name[0].Text;
+		var homeScore = $(this).find("homeScore").text();
+		if(homeScore === "-1") homeScore = "";
 		var awayID = $(this).find("awayID").text();
 		var awayData = teamData[awayID];
 		var awayName = awayData.name[0].Text;
-		if(homeID !== -1  && awayID !== -1) $(".items").append('<div class="scoreCard"><div class="title">' + $(this).find("date").text() + '</div><div class="home"><div class="teamName">' + homeName + '</div><div class="gameScore">' +$(this).find("homeScore").text() + '</div></div><div class="away"><div class="teamName">' + awayName + '</div><div class="gameScore">' + $(this).find("awayScore").text() + '</div></div>');
+		var awayScore = $(this).find("awayScore").text()
+		if(awayScore === "-1") awayScore = "";
+		if(homeID !== -1  && awayID !== -1) $(".items").prepend('<div class="scoreCard"><div class="title">' + $(this).find("date").text() + '</div><div class="home"><div class="teamName">' + homeName + '</div><div class="gameScore">' + homeScore + '</div></div><div class="away"><div class="teamName">' + awayName + '</div><div class="gameScore">' + awayScore + '</div></div>');
 
     });
 
-	$(".scrollable").scrollable();
+	$(".scrollable").scrollable({});
 	var api = $(".scrollable").data("scrollable");
-	api.end();
+	var scrollLength = api.getSize();
+	api.onBeforeSeek(function()
+	{
+		if(api.getIndex() > scrollLength - 10) return false;
+	});
+	
+	
 
 };
 
