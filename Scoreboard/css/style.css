@@ -58,3 +58,19 @@
 	width:20000em;
 	position:absolute;
 }
+
+#nextBtn{
+	width: 17px;
+	height: 46px;
+	position: relative;
+	top: -50px;
+	left: 985px;
+	
+}
+
+#prevBtn{
+	width: 17px;
+	height: 46px;
+	float: left;
+	padding-right: 5px;
+}
