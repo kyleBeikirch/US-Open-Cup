@@ -23,10 +23,11 @@
 # Design Files #
 ############
 *.psd
+*.ai
 
 # Design Files #
 ############
-*design/*
+design/*
 logos/*
 uploads/*
 
