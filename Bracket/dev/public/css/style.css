@@ -35,9 +35,19 @@ body{
   position: absolute;
 }
 
+.roundName{
+  text-align: center;
+  font-weight: bold;
+}
+
+.roundDate{
+  text-align: center;
+  font-size: 12px;
+}
+
 .bracketGame{
   position: absolute;
-  left: 0px;
+  left: 5px;
 	width: 110px;
 	height: 34px;
 	background-image: url('../images/bracketBG.png');
