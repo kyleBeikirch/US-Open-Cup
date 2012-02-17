@@ -1,1089 +1,1089 @@
 {
-  "bracket": {
-    "year": "2011 Lamar Hunt US Open Cup",
-    "round": [
-      {
-        "-name": "First Round",
-        "-date": "June 14",
-        "game": [
-          {
-            "-id": "0",
-            "homeID": "37",
-            "homeScore": "2",
-            "awayID": "28",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "7:30 pm ET",
-            "location": "Queens, NY",
-            "stadium": "Belson Stadium, St. Johns Univeristy",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "66",
-                  "-player": "Stefan Dimitrov",
-                  "-team": "37"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "80",
-                  "-player": "Kordel Samuel",
-                  "-team": "28"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "81",
-                  "-player": "Stelios Andreou",
-                  "-team": "37"
+    "bracket": {
+        "round": [
+            {
+                "-date": "June 14", 
+                "-name": "First Round", 
+                "game": [
+                    {
+                        "-id": "0", 
+                        "awayID": "28", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "37", 
+                        "homeScore": "2", 
+                        "location": "Queens, NY", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "66", 
+                                    "-player": "Stefan Dimitrov", 
+                                    "-team": "37", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "80", 
+                                    "-player": "Kordel Samuel", 
+                                    "-team": "28", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "81", 
+                                    "-player": "Stelios Andreou", 
+                                    "-team": "37", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Belson Stadium, St. Johns Univeristy", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "1", 
+                        "awayID": "27", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "homeID": "11", 
+                        "homeScore": "3", 
+                        "location": "Garden City, NY", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": " ", 
+                                    "-player": "Jhonny Arteaga", 
+                                    "-team": "11", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": " ", 
+                                    "-player": "Jhonny Arteaga", 
+                                    "-team": "11", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": " ", 
+                                    "-player": "Jhonny Arteaga", 
+                                    "-team": "11", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Adelphi University", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "2", 
+                        "awayID": "24", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "12", 
+                        "homeScore": "2", 
+                        "location": "Harrisburg, PA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "35", 
+                                    "-player": "David Rodriguez", 
+                                    "-team": "24", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "53", 
+                                    "-player": "Steven Okai", 
+                                    "-team": "24", 
+                                    "-type": "red"
+                                }, 
+                                {
+                                    "-minute": "86", 
+                                    "-player": "JT Noone", 
+                                    "-team": "12", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "90", 
+                                    "-player": "Sainey Touray", 
+                                    "-team": "12", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Skyline Sports Complex", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "3", 
+                        "awayID": "38", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "17", 
+                        "homeScore": "2", 
+                        "location": "Rochester, NY", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "27", 
+                                    "-player": "JC Banks", 
+                                    "-team": "17", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "55", 
+                                    "-player": "Anthony Hamilton (PK)", 
+                                    "-team": "17", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "71", 
+                                    "-player": "Scott Rowling", 
+                                    "-team": "38", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Sahlen's Stadium", 
+                        "time": "7:35 pm ET"
+                    }, 
+                    {
+                        "-id": "4", 
+                        "awayID": "10", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "16", 
+                        "homeScore": "4", 
+                        "location": "Richmond, VA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "7", 
+                                    "-player": "David Bulow", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "17", 
+                                    "-player": "David Bulow", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "59", 
+                                    "-player": "Marvin van der Pluijm", 
+                                    "-team": "10", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "65", 
+                                    "-player": "David Bulow(PK)", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "90", 
+                                    "-player": "Shaka Bangula", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Richmmond City Stadium", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "5", 
+                        "awayID": "29", 
+                        "awayScore": "2", 
+                        "date": "6/14/2011", 
+                        "extraTime": "After Extra Time", 
+                        "homeID": "15", 
+                        "homeScore": "3", 
+                        "location": "Bridgeville, PA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "14", 
+                                    "-player": "Ivan Heredia", 
+                                    "-team": "29", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "55", 
+                                    "-player": "Mark Beattie", 
+                                    "-team": "29", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": " ", 
+                                    "-player": "Jason Yeisley", 
+                                    "-team": "15", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": " ", 
+                                    "-player": "Stefan Lundberg", 
+                                    "-team": "15", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "99", 
+                                    "-player": "Jeremy Deighton", 
+                                    "-team": "15", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Chartiers Valley Stadium", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "6", 
+                        "awayID": "32", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "homeID": "31", 
+                        "homeScore": "4", 
+                        "location": "Madison, WI", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "67", 
+                                    "-player": "Tenzin Rampa", 
+                                    "-team": "31", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "72", 
+                                    "-player": "Jed Hohlbein", 
+                                    "-team": "31", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "76", 
+                                    "-player": "Jed Hohlbein", 
+                                    "-team": "31", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "81", 
+                                    "-player": "Adam Lysak", 
+                                    "-team": "31", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Breese Stevens Field", 
+                        "time": "7:00 pm CT"
+                    }, 
+                    {
+                        "-id": "7", 
+                        "awayID": "21", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "36", 
+                        "homeScore": "0", 
+                        "location": "West Des Moines, IA", 
+                        "scoreSheet": {
+                            "event": {
+                                "-minute": "87", 
+                                "-player": "Chris Estridge", 
+                                "-team": "21", 
+                                "-type": "goal"
+                            }
+                        }, 
+                        "stadium": "Valley Stadium", 
+                        "time": "7:30 pm CT"
+                    }, 
+                    {
+                        "-id": "8", 
+                        "awayID": "20", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "homeID": "18", 
+                        "homeScore": "4", 
+                        "location": "Wilmington, NC", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "33", 
+                                    "-player": "Jyler Noviello", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "42", 
+                                    "-player": "Luke Mulholland", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "70", 
+                                    "-player": " Andriy Budnyy", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "73", 
+                                    "-player": " Andriy Budnyy", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Legion Stadium", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "9", 
+                        "awayID": "9", 
+                        "awayScore": "3", 
+                        "date": "6/14/2011", 
+                        "homeID": "19", 
+                        "homeScore": "1", 
+                        "location": "Browns Summit, NC", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "23", 
+                                    "-player": "Darren Toby", 
+                                    "-team": "9", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "39", 
+                                    "-player": "Robbie Lovejoy", 
+                                    "-team": "19", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "49", 
+                                    "-player": "Diego Martins", 
+                                    "-team": "9", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "85", 
+                                    "-player": "Alan Sanchez", 
+                                    "-team": "9", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Macpherson Stadium", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "10", 
+                        "awayID": "39", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "homeID": "8", 
+                        "homeScore": "2", 
+                        "location": "Charleston, SC", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "48", 
+                                    "-player": "Darren Toby", 
+                                    "-team": "8", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "76", 
+                                    "-player": "Robbie Lovejoy", 
+                                    "-team": "8", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "78", 
+                                    "-player": "Diego Martins", 
+                                    "-team": "39", 
+                                    "-type": "red"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Blackbaud Stadium", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "11", 
+                        "awayID": "33", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "homeID": "14", 
+                        "homeScore": "4", 
+                        "location": "Winter Park, FL", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "28", 
+                                    "-player": "Devorn Jorsling", 
+                                    "-team": "14", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "42", 
+                                    "-player": "Kevin Molino", 
+                                    "-team": "14", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "60", 
+                                    "-player": "Dennis Chin", 
+                                    "-team": "14", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "77", 
+                                    "-player": "Devorn Jorsling", 
+                                    "-team": "14", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Rollins College", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "12", 
+                        "awayID": "23", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "extraTime": "Kitsap advances on penalties 6-5", 
+                        "homeID": "22", 
+                        "homeScore": "0", 
+                        "location": "El Paso, TX", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Enrique Cervantes", 
+                                    "-team": "22", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Francisco De Anda", 
+                                    "-team": "22", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Rodrigo Morin", 
+                                    "-team": "22", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Christian Landa", 
+                                    "-team": "22", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Diego Briseno", 
+                                    "-team": "22", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Steve Mohn", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "David Gray", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Elliot Fauske", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Mark Lee", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Nik Besagno", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "SO", 
+                                    "-player": "Bryan Burke", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Patriots Stadium", 
+                        "time": "8:00 pm MT"
+                    }, 
+                    {
+                        "-id": "13", 
+                        "awayID": "35", 
+                        "awayScore": "0", 
+                        "date": "6/14/2011", 
+                        "homeID": "25", 
+                        "homeScore": "5", 
+                        "location": "Highlands Ranch, CO", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "33", 
+                                    "-player": "Taylor Kemp", 
+                                    "-team": "25", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "37", 
+                                    "-player": "Isaiah Schafer", 
+                                    "-team": "25", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "42", 
+                                    "-player": "Kyle Christensen", 
+                                    "-team": "25", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "47", 
+                                    "-player": "Sterling Copeland", 
+                                    "-team": "25", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "87", 
+                                    "-player": "Craig Thompson", 
+                                    "-team": "25", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Shea Stadium", 
+                        "time": "7:00 pm MT"
+                    }, 
+                    {
+                        "-id": "14", 
+                        "awayID": "34", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "26", 
+                        "homeScore": "3", 
+                        "location": "Ventura, CA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "5", 
+                                    "-player": "Bryan Byrne", 
+                                    "-team": "34", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "33", 
+                                    "-player": "Andy Rose", 
+                                    "-team": "26", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "43", 
+                                    "-player": "Mark Magee", 
+                                    "-team": "26", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "78", 
+                                    "-player": "Reed Williams", 
+                                    "-team": "26", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Ventura College", 
+                        "time": "7:05 pm PT"
+                    }, 
+                    {
+                        "-id": "15", 
+                        "awayID": "30", 
+                        "awayScore": "1", 
+                        "date": "6/14/2011", 
+                        "homeID": "13", 
+                        "homeScore": "3", 
+                        "location": "Riverside, CA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "19", 
+                                    "-player": "Leo Griffin", 
+                                    "-team": "13", 
+                                    "-type": "red"
+                                }, 
+                                {
+                                    "-minute": "37", 
+                                    "-player": "Mehrshad Momeni", 
+                                    "-team": "13", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "55", 
+                                    "-player": "Mehrshad Momeni", 
+                                    "-team": "13", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "67", 
+                                    "-player": "Carlos Morales", 
+                                    "-team": "30", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "86", 
+                                    "-player": "Carlos Morales", 
+                                    "-team": "30", 
+                                    "-type": "red"
+                                }, 
+                                {
+                                    "-minute": "89", 
+                                    "-player": "Josh Tudela", 
+                                    "-team": "13", 
+                                    "-type": "red"
+                                }, 
+                                {
+                                    "-minute": "90", 
+                                    "-player": "Gerardo Bravo", 
+                                    "-team": "13", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Riverside Community College", 
+                        "time": "5:30 pm PT"
+                    }
+                ]
+            }, 
+            {
+                "-date": "June 21", 
+                "-name": "2nd Round", 
+                "game": [
+                    {
+                        "-id": "16", 
+                        "awayID": "11", 
+                        "awayScore": "0", 
+                        "date": "6/21/2011", 
+                        "extraTime": "FCNY advances on penalties 6-5", 
+                        "homeID": "37", 
+                        "homeScore": "0", 
+                        "location": "Queens, NY", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "89", 
+                                    "-player": "Tony Donatelli (PK)", 
+                                    "-team": "17", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "90", 
+                                    "-player": "Sainey Toray", 
+                                    "-team": "12", 
+                                    "-type": "red"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Belson Stadium, St. Johns Univeristy", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "17", 
+                        "awayID": "17", 
+                        "awayScore": "1", 
+                        "date": "6/21/2011", 
+                        "homeID": "12", 
+                        "homeScore": "0", 
+                        "location": "Harrisburg, PA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "89", 
+                                    "-player": "Tony Donatelli (PK)", 
+                                    "-team": "17", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "90", 
+                                    "-player": "Sainey Toray", 
+                                    "-team": "12", 
+                                    "-type": "red"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Skyline Sports Complex", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "18", 
+                        "awayID": "15", 
+                        "awayScore": "1", 
+                        "date": "6/21/2011", 
+                        "homeID": "16", 
+                        "homeScore": "4", 
+                        "location": "Richmond, VA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "17", 
+                                    "-player": "David Bulow", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "30", 
+                                    "-player": "Chad Severs", 
+                                    "-team": "15", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "41", 
+                                    "-player": "David Bulow", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "52", 
+                                    "-player": "Matthew Delicate", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "81", 
+                                    "-player": "Matthew Delicate", 
+                                    "-team": "16", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Richmmond City Stadium", 
+                        "time": "7:00 pm ET"
+                    }, 
+                    {
+                        "-id": "19", 
+                        "awayID": "21", 
+                        "awayScore": "2", 
+                        "date": "6/21/2011", 
+                        "extraTime": "June 22", 
+                        "homeID": "31", 
+                        "homeScore": "0", 
+                        "location": "Madison, WI", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "66", 
+                                    "-player": "Andrew Ribeiro", 
+                                    "-team": "21", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "68", 
+                                    "-player": "Theirry Zahui", 
+                                    "-team": "21", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Breese Stevens Field", 
+                        "time": "7:00 pm CT"
+                    }, 
+                    {
+                        "-id": "20", 
+                        "awayID": "9", 
+                        "awayScore": "2", 
+                        "date": "6/21/2011", 
+                        "extraTime": "After Extra Time", 
+                        "homeID": "18", 
+                        "homeScore": "3", 
+                        "location": "Wilmington, NC", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "44", 
+                                    "-player": "Weston Roberts", 
+                                    "-team": "9", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "54", 
+                                    "-player": "Darren Toby", 
+                                    "-team": "9", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "63", 
+                                    "-player": "Andryi Budnyy", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "78", 
+                                    "-player": "Chris Banks", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "103", 
+                                    "-player": "Luke Mulholland", 
+                                    "-team": "18", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Legion Stadium", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "21", 
+                        "awayID": "14", 
+                        "awayScore": "1", 
+                        "date": "6/21/2011", 
+                        "homeID": "8", 
+                        "homeScore": "0", 
+                        "location": "Charleston, SC", 
+                        "scoreSheet": {
+                            "event": {
+                                "-minute": "39", 
+                                "-player": "Rob Valentino", 
+                                "-team": "14", 
+                                "-type": "goal"
+                            }
+                        }, 
+                        "stadium": "Blackbaud Stadium", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "22", 
+                        "awayID": "25", 
+                        "awayScore": "1", 
+                        "date": "6/21/2011", 
+                        "homeID": "23", 
+                        "homeScore": "3", 
+                        "location": "Bremerton, WA", 
+                        "scoreSheet": {
+                            "event": [
+                                {
+                                    "-minute": "17", 
+                                    "-player": "Cameron Hepple", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "23", 
+                                    "-player": "Steve Mohn (OG)", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "43", 
+                                    "-player": "Robbie Christner", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }, 
+                                {
+                                    "-minute": "88", 
+                                    "-player": "Robbie Christner", 
+                                    "-team": "23", 
+                                    "-type": "goal"
+                                }
+                            ]
+                        }, 
+                        "stadium": "Bremerton Memorial Stadium", 
+                        "time": "7:00 pm PT"
+                    }, 
+                    {
+                        "-id": "23", 
+                        "awayID": "13", 
+                        "awayScore": "1", 
+                        "date": "6/21/2011", 
+                        "homeID": "26", 
+                        "homeScore": "0", 
+                        "location": "Ventura, CA", 
+                        "scoreSheet": {
+                            "event": {
+                                "-minute": "45", 
+                                "-player": "Israel Sesay", 
+                                "-team": "13", 
+                                "-type": "goal"
+                            }
+                        }, 
+                        "stadium": "Ventura College", 
+                        "time": "7:05 pm PT"
+                    }
+                ]
+            }, 
+            {
+                "-date": "June 28", 
+                "-name": "3rd Round", 
+                "game": [
+                    {
+                        "-id": "24", 
+                        "awayID": "11", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "5", 
+                        "homeScore": "-1", 
+                        "location": "Harrison, NJ", 
+                        "stadium": "Red Bull Arena", 
+                        "time": "8:00 pm ET"
+                    }, 
+                    {
+                        "-id": "25", 
+                        "awayID": "0", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "17", 
+                        "homeScore": "-1", 
+                        "location": "Rochester, NY", 
+                        "stadium": "Sahlen's Stadium", 
+                        "time": "7:35 pm ET"
+                    }, 
+                    {
+                        "-id": "26", 
+                        "awayID": "16", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "1", 
+                        "homeScore": "-1", 
+                        "location": "Columbus, OH", 
+                        "stadium": "Columbus Crew Stadium", 
+                        "time": "7:30 pm ET"
+                    }, 
+                    {
+                        "-id": "27", 
+                        "awayID": "21", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "3", 
+                        "homeScore": "-1", 
+                        "location": "Kansas City, KS", 
+                        "stadium": "LIVESTRONG Sporting Park", 
+                        "time": "7:30 pm CT"
+                    }, 
+                    {
+                        "-id": "28", 
+                        "awayID": "18", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "6", 
+                        "homeScore": "-1", 
+                        "location": "Sandy, UT", 
+                        "stadium": "Rio Tinto Stadium", 
+                        "time": "7:00 pm MT"
+                    }, 
+                    {
+                        "-id": "29", 
+                        "awayID": "14", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "2", 
+                        "homeScore": "-1", 
+                        "location": "Frisco, TX", 
+                        "stadium": "Pizza Hut Park", 
+                        "time": "8:00 pm CT"
+                    }, 
+                    {
+                        "-id": "30", 
+                        "awayID": "23", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "7", 
+                        "homeScore": "-1", 
+                        "location": "Tukwila, WA", 
+                        "stadium": "Starfire Sports Stadium", 
+                        "time": "7:00 pm PT"
+                    }, 
+                    {
+                        "-id": "31", 
+                        "awayID": "13", 
+                        "awayScore": "-1", 
+                        "date": "6/28/2011", 
+                        "homeID": "4", 
+                        "homeScore": "-1", 
+                        "location": "Fullerton, CA", 
+                        "stadium": "Titan Stadium", 
+                        "time": "7:30 pm PT"
+                    }
+                ]
+            }, 
+            {
+                "-date": "July 12", 
+                "-name": "Quarterfinals", 
+                "game": [
+                    {
+                        "-id": "32", 
+                        "awayID": "-1", 
+                        "awayScore": "-1", 
+                        "homeID": "-1", 
+                        "homeScore": "-1"
+                    }, 
+                    {
+                        "-id": "33", 
+                        "awayID": "-1", 
+                        "awayScore": "-1", 
+                        "homeID": "-1", 
+                        "homeScore": "-1"
+                    }, 
+                    {
+                        "-id": "34", 
+                        "awayID": "-1", 
+                        "awayScore": "-1", 
+                        "homeID": "-1", 
+                        "homeScore": "-1"
+                    }, 
+                    {
+                        "-id": "35", 
+                        "awayID": "-1", 
+                        "awayScore": "-1", 
+                        "homeID": "-1", 
+                        "homeScore": "-1"
+                    }
+                ]
+            }, 
+            {
+                "-date": "August 30", 
+                "-name": "Semifinals", 
+                "game": [
+                    {
+                        "-id": "36", 
+                        "awayID": "-1", 
+                        "awayScore": "-1", 
+                        "homeID": "-1", 
+                        "homeScore": "-1"
+                    }, 
+                    {
+                        "-id": "37", 
+                        "awayID": "-1", 
+                        "awayScore": "-1", 
+                        "homeID": "-1", 
+                        "homeScore": "-1"
+                    }
+                ]
+            }, 
+            {
+                "-date": "October 4", 
+                "-name": "Final", 
+                "game": {
+                    "-id": "38", 
+                    "awayID": "-1", 
+                    "awayScore": "-1", 
+                    "homeID": "-1", 
+                    "homeScore": "-1"
                 }
-              ]
             }
-          },
-          {
-            "-id": "1",
-            "homeID": "11",
-            "homeScore": "3",
-            "awayID": "27",
-            "awayScore": "0",
-            "date": "6/14/2011",
-            "time": "7:00 pm ET",
-            "location": "Garden City, NY",
-            "stadium": "Adelphi University",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": " ",
-                  "-player": "Jhonny Arteaga",
-                  "-team": "11"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": " ",
-                  "-player": "Jhonny Arteaga",
-                  "-team": "11"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": " ",
-                  "-player": "Jhonny Arteaga",
-                  "-team": "11"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "2",
-            "homeID": "12",
-            "homeScore": "2",
-            "awayID": "24",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "7:00 pm ET",
-            "location": "Harrisburg, PA",
-            "stadium": "Skyline Sports Complex",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "35",
-                  "-player": "David Rodriguez",
-                  "-team": "24"
-                },
-                {
-                  "-type": "red",
-                  "-minute": "53",
-                  "-player": "Steven Okai",
-                  "-team": "24"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "86",
-                  "-player": "JT Noone",
-                  "-team": "12"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "90",
-                  "-player": "Sainey Touray",
-                  "-team": "12"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "3",
-            "homeID": "17",
-            "homeScore": "2",
-            "awayID": "38",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "7:35 pm ET",
-            "location": "Rochester, NY",
-            "stadium": "Sahlen's Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "27",
-                  "-player": "JC Banks",
-                  "-team": "17"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "55",
-                  "-player": "Anthony Hamilton (PK)",
-                  "-team": "17"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "71",
-                  "-player": "Scott Rowling",
-                  "-team": "38"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "4",
-            "homeID": "16",
-            "homeScore": "4",
-            "awayID": "10",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "7:00 pm ET",
-            "location": "Richmond, VA",
-            "stadium": "Richmmond City Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "7",
-                  "-player": "David Bulow",
-                  "-team": "16"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "17",
-                  "-player": "David Bulow",
-                  "-team": "16"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "59",
-                  "-player": "Marvin van der Pluijm",
-                  "-team": "10"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "65",
-                  "-player": "David Bulow(PK)",
-                  "-team": "16"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "90",
-                  "-player": "Shaka Bangula",
-                  "-team": "16"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "5",
-            "homeID": "15",
-            "homeScore": "3",
-            "awayID": "29",
-            "awayScore": "2",
-            "extraTime": "After Extra Time",
-            "date": "6/14/2011",
-            "time": "7:00 pm ET",
-            "location": "Bridgeville, PA",
-            "stadium": "Chartiers Valley Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "14",
-                  "-player": "Ivan Heredia",
-                  "-team": "29"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "55",
-                  "-player": "Mark Beattie",
-                  "-team": "29"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": " ",
-                  "-player": "Jason Yeisley",
-                  "-team": "15"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": " ",
-                  "-player": "Stefan Lundberg",
-                  "-team": "15"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "99",
-                  "-player": "Jeremy Deighton",
-                  "-team": "15"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "6",
-            "homeID": "31",
-            "homeScore": "4",
-            "awayID": "32",
-            "awayScore": "0",
-            "date": "6/14/2011",
-            "time": "7:00 pm CT",
-            "location": "Madison, WI",
-            "stadium": "Breese Stevens Field",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "67",
-                  "-player": "Tenzin Rampa",
-                  "-team": "31"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "72",
-                  "-player": "Jed Hohlbein",
-                  "-team": "31"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "76",
-                  "-player": "Jed Hohlbein",
-                  "-team": "31"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "81",
-                  "-player": "Adam Lysak",
-                  "-team": "31"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "7",
-            "homeID": "36",
-            "homeScore": "0",
-            "awayID": "21",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "7:30 pm CT",
-            "location": "West Des Moines, IA",
-            "stadium": "Valley Stadium",
-            "scoreSheet": {
-              "event": {
-                "-type": "goal",
-                "-minute": "87",
-                "-player": "Chris Estridge",
-                "-team": "21"
-              }
-            }
-          },
-          {
-            "-id": "8",
-            "homeID": "18",
-            "homeScore": "4",
-            "awayID": "20",
-            "awayScore": "0",
-            "date": "6/14/2011",
-            "time": "7:30 pm ET",
-            "location": "Wilmington, NC",
-            "stadium": "Legion Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "33",
-                  "-player": "Jyler Noviello",
-                  "-team": "18"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "42",
-                  "-player": "Luke Mulholland",
-                  "-team": "18"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "70",
-                  "-player": " Andriy Budnyy",
-                  "-team": "18"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "73",
-                  "-player": " Andriy Budnyy",
-                  "-team": "18"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "9",
-            "homeID": "19",
-            "homeScore": "1",
-            "awayID": "9",
-            "awayScore": "3",
-            "date": "6/14/2011",
-            "time": "7:00 pm ET",
-            "location": "Browns Summit, NC",
-            "stadium": "Macpherson Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "23",
-                  "-player": "Darren Toby",
-                  "-team": "9"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "39",
-                  "-player": "Robbie Lovejoy",
-                  "-team": "19"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "49",
-                  "-player": "Diego Martins",
-                  "-team": "9"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "85",
-                  "-player": "Alan Sanchez",
-                  "-team": "9"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "10",
-            "homeID": "8",
-            "homeScore": "2",
-            "awayID": "39",
-            "awayScore": "0",
-            "date": "6/14/2011",
-            "time": "7:30 pm ET",
-            "location": "Charleston, SC",
-            "stadium": "Blackbaud Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "48",
-                  "-player": "Darren Toby",
-                  "-team": "8"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "76",
-                  "-player": "Robbie Lovejoy",
-                  "-team": "8"
-                },
-                {
-                  "-type": "red",
-                  "-minute": "78",
-                  "-player": "Diego Martins",
-                  "-team": "39"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "11",
-            "homeID": "14",
-            "homeScore": "4",
-            "awayID": "33",
-            "awayScore": "0",
-            "date": "6/14/2011",
-            "time": "7:30 pm ET",
-            "location": "Winter Park, FL",
-            "stadium": "Rollins College",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "28",
-                  "-player": "Devorn Jorsling",
-                  "-team": "14"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "42",
-                  "-player": "Kevin Molino",
-                  "-team": "14"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "60",
-                  "-player": "Dennis Chin",
-                  "-team": "14"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "77",
-                  "-player": "Devorn Jorsling",
-                  "-team": "14"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "12",
-            "homeID": "22",
-            "homeScore": "0",
-            "awayID": "23",
-            "awayScore": "0",
-            "extraTime": "Kitsap advances on penalties 6-5",
-            "date": "6/14/2011",
-            "time": "8:00 pm MT",
-            "location": "El Paso, TX",
-            "stadium": "Patriots Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Enrique Cervantes",
-                  "-team": "22"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Francisco De Anda",
-                  "-team": "22"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Rodrigo Morin",
-                  "-team": "22"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Christian Landa",
-                  "-team": "22"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Diego Briseno",
-                  "-team": "22"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Steve Mohn",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "David Gray",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Elliot Fauske",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Mark Lee",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Nik Besagno",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "SO",
-                  "-player": "Bryan Burke",
-                  "-team": "23"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "13",
-            "homeID": "25",
-            "homeScore": "5",
-            "awayID": "35",
-            "awayScore": "0",
-            "date": "6/14/2011",
-            "time": "7:00 pm MT",
-            "location": "Highlands Ranch, CO",
-            "stadium": "Shea Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "33",
-                  "-player": "Taylor Kemp",
-                  "-team": "25"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "37",
-                  "-player": "Isaiah Schafer",
-                  "-team": "25"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "42",
-                  "-player": "Kyle Christensen",
-                  "-team": "25"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "47",
-                  "-player": "Sterling Copeland",
-                  "-team": "25"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "87",
-                  "-player": "Craig Thompson",
-                  "-team": "25"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "14",
-            "homeID": "26",
-            "homeScore": "3",
-            "awayID": "34",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "7:05 pm PT",
-            "location": "Ventura, CA",
-            "stadium": "Ventura College",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "5",
-                  "-player": "Bryan Byrne",
-                  "-team": "34"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "33",
-                  "-player": "Andy Rose",
-                  "-team": "26"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "43",
-                  "-player": "Mark Magee",
-                  "-team": "26"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "78",
-                  "-player": "Reed Williams",
-                  "-team": "26"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "15",
-            "homeID": "13",
-            "homeScore": "3",
-            "awayID": "30",
-            "awayScore": "1",
-            "date": "6/14/2011",
-            "time": "5:30 pm PT",
-            "location": "Riverside, CA",
-            "stadium": "Riverside Community College",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "red",
-                  "-minute": "19",
-                  "-player": "Leo Griffin",
-                  "-team": "13"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "37",
-                  "-player": "Mehrshad Momeni",
-                  "-team": "13"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "55",
-                  "-player": "Mehrshad Momeni",
-                  "-team": "13"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "67",
-                  "-player": "Carlos Morales",
-                  "-team": "30"
-                },
-                {
-                  "-type": "red",
-                  "-minute": "86",
-                  "-player": "Carlos Morales",
-                  "-team": "30"
-                },
-                {
-                  "-type": "red",
-                  "-minute": "89",
-                  "-player": "Josh Tudela",
-                  "-team": "13"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "90",
-                  "-player": "Gerardo Bravo",
-                  "-team": "13"
-                }
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "-name": "2nd Round",
-        "-date": "June 21",
-        "game": [
-          {
-            "-id": "16",
-            "homeID": "37",
-            "homeScore": "0",
-            "awayID": "11",
-            "awayScore": "0",
-            "extraTime": "FCNY advances on penalties 6-5",
-            "date": "6/21/2011",
-            "time": "7:30 pm ET",
-            "location": "Queens, NY",
-            "stadium": "Belson Stadium, St. Johns Univeristy",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "89",
-                  "-player": "Tony Donatelli (PK)",
-                  "-team": "17"
-                },
-                {
-                  "-type": "red",
-                  "-minute": "90",
-                  "-player": "Sainey Toray",
-                  "-team": "12"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "17",
-            "homeID": "12",
-            "homeScore": "0",
-            "awayID": "17",
-            "awayScore": "1",
-            "date": "6/21/2011",
-            "time": "7:00 pm ET",
-            "location": "Harrisburg, PA",
-            "stadium": "Skyline Sports Complex",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "89",
-                  "-player": "Tony Donatelli (PK)",
-                  "-team": "17"
-                },
-                {
-                  "-type": "red",
-                  "-minute": "90",
-                  "-player": "Sainey Toray",
-                  "-team": "12"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "18",
-            "homeID": "16",
-            "homeScore": "4",
-            "awayID": "15",
-            "awayScore": "1",
-            "date": "6/21/2011",
-            "time": "7:00 pm ET",
-            "location": "Richmond, VA",
-            "stadium": "Richmmond City Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "17",
-                  "-player": "David Bulow",
-                  "-team": "16"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "30",
-                  "-player": "Chad Severs",
-                  "-team": "15"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "41",
-                  "-player": "David Bulow",
-                  "-team": "16"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "52",
-                  "-player": "Matthew Delicate",
-                  "-team": "16"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "81",
-                  "-player": "Matthew Delicate",
-                  "-team": "16"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "19",
-            "homeID": "31",
-            "homeScore": "0",
-            "awayID": "21",
-            "awayScore": "2",
-            "extraTime": "June 22",
-            "date": "6/21/2011",
-            "time": "7:00 pm CT",
-            "location": "Madison, WI",
-            "stadium": "Breese Stevens Field",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "66",
-                  "-player": "Andrew Ribeiro",
-                  "-team": "21"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "68",
-                  "-player": "Theirry Zahui",
-                  "-team": "21"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "20",
-            "homeID": "18",
-            "homeScore": "3",
-            "awayID": "9",
-            "awayScore": "2",
-            "extraTime": "After Extra Time",
-            "date": "6/21/2011",
-            "time": "7:30 pm ET",
-            "location": "Wilmington, NC",
-            "stadium": "Legion Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "44",
-                  "-player": "Weston Roberts",
-                  "-team": "9"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "54",
-                  "-player": "Darren Toby",
-                  "-team": "9"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "63",
-                  "-player": "Andryi Budnyy",
-                  "-team": "18"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "78",
-                  "-player": "Chris Banks",
-                  "-team": "18"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "103",
-                  "-player": "Luke Mulholland",
-                  "-team": "18"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "21",
-            "homeID": "8",
-            "homeScore": "0",
-            "awayID": "14",
-            "awayScore": "1",
-            "date": "6/21/2011",
-            "time": "7:30 pm ET",
-            "location": "Charleston, SC",
-            "stadium": "Blackbaud Stadium",
-            "scoreSheet": {
-              "event": {
-                "-type": "goal",
-                "-minute": "39",
-                "-player": "Rob Valentino",
-                "-team": "14"
-              }
-            }
-          },
-          {
-            "-id": "22",
-            "homeID": "23",
-            "homeScore": "3",
-            "awayID": "25",
-            "awayScore": "1",
-            "date": "6/21/2011",
-            "time": "7:00 pm PT",
-            "location": "Bremerton, WA",
-            "stadium": "Bremerton Memorial Stadium",
-            "scoreSheet": {
-              "event": [
-                {
-                  "-type": "goal",
-                  "-minute": "17",
-                  "-player": "Cameron Hepple",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "23",
-                  "-player": "Steve Mohn (OG)",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "43",
-                  "-player": "Robbie Christner",
-                  "-team": "23"
-                },
-                {
-                  "-type": "goal",
-                  "-minute": "88",
-                  "-player": "Robbie Christner",
-                  "-team": "23"
-                }
-              ]
-            }
-          },
-          {
-            "-id": "23",
-            "homeID": "26",
-            "homeScore": "0",
-            "awayID": "13",
-            "awayScore": "1",
-            "date": "6/21/2011",
-            "time": "7:05 pm PT",
-            "location": "Ventura, CA",
-            "stadium": "Ventura College",
-            "scoreSheet": {
-              "event": {
-                "-type": "goal",
-                "-minute": "45",
-                "-player": "Israel Sesay",
-                "-team": "13"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "-name": "3rd Round",
-        "-date": "June 28",
-        "game": [
-          {
-            "-id": "24",
-            "homeID": "5",
-            "homeScore": "-1",
-            "awayID": "11",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "8:00 pm ET",
-            "location": "Harrison, NJ",
-            "stadium": "Red Bull Arena"
-          },
-          {
-            "-id": "25",
-            "homeID": "17",
-            "homeScore": "-1",
-            "awayID": "0",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "7:35 pm ET",
-            "location": "Rochester, NY",
-            "stadium": "Sahlen's Stadium"
-          },
-          {
-            "-id": "26",
-            "homeID": "1",
-            "homeScore": "-1",
-            "awayID": "16",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "7:30 pm ET",
-            "location": "Columbus, OH",
-            "stadium": "Columbus Crew Stadium"
-          },
-          {
-            "-id": "27",
-            "homeID": "3",
-            "homeScore": "-1",
-            "awayID": "21",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "7:30 pm CT",
-            "location": "Kansas City, KS",
-            "stadium": "LIVESTRONG Sporting Park"
-          },
-          {
-            "-id": "28",
-            "homeID": "6",
-            "homeScore": "-1",
-            "awayID": "18",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "7:00 pm MT",
-            "location": "Sandy, UT",
-            "stadium": "Rio Tinto Stadium"
-          },
-          {
-            "-id": "29",
-            "homeID": "2",
-            "homeScore": "-1",
-            "awayID": "14",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "8:00 pm CT",
-            "location": "Frisco, TX",
-            "stadium": "Pizza Hut Park"
-          },
-          {
-            "-id": "30",
-            "homeID": "7",
-            "homeScore": "-1",
-            "awayID": "23",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "7:00 pm PT",
-            "location": "Tukwila, WA",
-            "stadium": "Starfire Sports Stadium"
-          },
-          {
-            "-id": "31",
-            "homeID": "4",
-            "homeScore": "-1",
-            "awayID": "13",
-            "awayScore": "-1",
-            "date": "6/28/2011",
-            "time": "7:30 pm PT",
-            "location": "Fullerton, CA",
-            "stadium": "Titan Stadium"
-          }
-        ]
-      },
-      {
-        "-name": "Quarterfinals",
-        "-date": "July 12",
-        "game": [
-          {
-            "-id": "32",
-            "homeID": "-1",
-            "homeScore": "-1",
-            "awayID": "-1",
-            "awayScore": "-1"
-          },
-          {
-            "-id": "33",
-            "homeID": "-1",
-            "homeScore": "-1",
-            "awayID": "-1",
-            "awayScore": "-1"
-          },
-          {
-            "-id": "34",
-            "homeID": "-1",
-            "homeScore": "-1",
-            "awayID": "-1",
-            "awayScore": "-1"
-          },
-          {
-            "-id": "35",
-            "homeID": "-1",
-            "homeScore": "-1",
-            "awayID": "-1",
-            "awayScore": "-1"
-          }
-        ]
-      },
-      {
-        "-name": "Semifinals",
-        "-date": "August 30",
-        "game": [
-          {
-            "-id": "36",
-            "homeID": "-1",
-            "homeScore": "-1",
-            "awayID": "-1",
-            "awayScore": "-1"
-          },
-          {
-            "-id": "37",
-            "homeID": "-1",
-            "homeScore": "-1",
-            "awayID": "-1",
-            "awayScore": "-1"
-          }
-        ]
-      },
-      {
-        "-name": "Final",
-        "-date": "October 4",
-        "game": {
-          "-id": "38",
-          "homeID": "-1",
-          "homeScore": "-1",
-          "awayID": "-1",
-          "awayScore": "-1"      
-        }
-      }
-    ]
-  }
+        ], 
+        "year": "2011 Lamar Hunt US Open Cup"
+    }
 }
