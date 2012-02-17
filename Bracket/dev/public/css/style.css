@@ -3,6 +3,31 @@ body{
 	
 }
 
+@font-face {
+    font-family: 'DeftoneStylusRegular';
+    src: url('../fonts/deftone_stylus-webfont.eot');
+    src: url('../fonts/deftone_stylus-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/deftone_stylus-webfont.woff') format('woff'),
+         url('../fonts/deftone_stylus-webfont.ttf') format('truetype'),
+         url('../fonts/deftone_stylus-webfont.svg#DeftoneStylusRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#bracket{
+  margin: 10px;
+  position:absolute;
+  width: 950px;
+}
+
+#bracketTitle{
+  text-align: center;
+  font-size: 48px;
+  font-family: 'DeftoneStylusRegular';
+  color: #900;
+}
+
 .roundHolder
 {
   width: 120px;
