@@ -4,11 +4,15 @@ dataLoaded = ->
   
 arrangeGames = ->  
   # lopps through each round calculates number of games in round and spaces games vertically
+  padding = 54
   $('.roundHolder').each (i, element)  =>
+    $(element).css('left', i * 120)
     numGames = $('.bracketGame', element).length
-    marginAdjust = (17 * ((16/numGames)-1))  + 10
+    marginAdjust = (padding * (16/numGames)) + padding + (padding/2 * ((16/numGames)-1))
+    
     $('.bracketGame', element).each (i, element)  =>
-      # $(element).css('margin-top', marginAdjust)
+      topPos = (i * (padding * (16/numGames)) + padding + (padding/2 * ((16/numGames)-1)))-10;
+      $(element).css('top', topPos)
       
 
 $(document).ready ->

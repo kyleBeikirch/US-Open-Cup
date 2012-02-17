@@ -7,12 +7,19 @@
   };
 
   arrangeGames = function() {
-    var _this = this;
+    var padding,
+      _this = this;
+    padding = 54;
     return $('.roundHolder').each(function(i, element) {
       var marginAdjust, numGames;
+      $(element).css('left', i * 120);
       numGames = $('.bracketGame', element).length;
-      marginAdjust = (17 * ((16 / numGames) - 1)) + 10;
-      return $('.bracketGame', element).each(function(i, element) {});
+      marginAdjust = (padding * (16 / numGames)) + padding + (padding / 2 * ((16 / numGames) - 1));
+      return $('.bracketGame', element).each(function(i, element) {
+        var topPos;
+        topPos = (i * (padding * (16 / numGames)) + padding + (padding / 2 * ((16 / numGames) - 1))) - 10;
+        return $(element).css('top', topPos);
+      });
     });
   };
 
