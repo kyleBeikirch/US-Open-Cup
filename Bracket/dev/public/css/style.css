@@ -3,6 +3,12 @@ body{
 	
 }
 
+.roundHolder
+{
+  width: 120px;
+  float: left;
+}
+
 .bracketGame{
 	width: 110px;
 	height: 34px;
