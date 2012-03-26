@@ -89,8 +89,110 @@
                   }
                   
                 ]
+            },
+            {
+                "name": "USL Pro Development League", 
+                "abbreviation": "PDL", 
+                "teams": [
+                  {
+                      "name": "Carolina Dynamo",
+                      "active": false 
+                  },
+                  {
+                      "name": "Central Florida Kraze",
+                      "active": false 
+                  },
+                  {
+                      "name": "Chicago Fire PDL",
+                      "active": false 
+                  },
+                  {
+                      "name": "Chivas El Paso Patriots",
+                      "active": false 
+                  },
+                  {
+                      "name": "Kitsap Pumas",
+                      "active": true 
+                  },
+                  {
+                      "name": "Reading United AC",
+                      "active": false 
+                  },
+                  {
+                      "name": "Real Colorado Foxes",
+                      "active": false 
+                  },
+                  {
+                      "name": "Ventura County Fusion",
+                      "active": false 
+                  },
+                  {
+                      "name": "Western Mass Pioneers",
+                      "active": true 
+                  }
+                ]
+            },
+            {
+                "name": "National Premier Soccer League", 
+                "abbreviation": "NPSL", 
+                "teams": [
+                  {
+                      "name": "Brooklyn Italians",
+                      "active": false 
+                  },
+                  {
+                      "name": "Chattanooga FC",
+                      "active": false 
+                  },
+                  {
+                      "name": "Hollywood United",
+                      "active": false 
+                  },
+                  {
+                      "name": "Madison 56ers",
+                      "active": true 
+                  }                 
+                ]
+            },
+            {
+                "name": "United States Adult Soccer Association", 
+                "abbreviation": "USASA", 
+                "teams": [
+                  {
+                      "name": "AAC Eagles",
+                      "active": false 
+                  },
+                  {
+                      "name": "ASC New Stars",
+                      "active": false 
+                  },
+                  {
+                      "name": "Doxa Italia",
+                      "active": false 
+                  },
+                  {
+                      "name": "DV8 Defenders",
+                      "active": false 
+                  },
+                  {
+                      "name": "Iowa Menace",
+                      "active": false 
+                  },
+                  {
+                      "name": "NY Pancyprian Freedoms",
+                      "active": true 
+                  },
+                  {
+                      "name": "Phoenix SC",
+                      "active": false 
+                  },
+                  {
+                      "name": "Regals FC",
+                      "active": false 
+                  }                 
+                ]
             }
-            
+ 
         ]
     }
 }

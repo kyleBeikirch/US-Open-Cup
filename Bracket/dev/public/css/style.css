@@ -25,7 +25,8 @@ body{
   float: left;
   margin: 10px;
   text-align:center;
-  width: 150;
+  width: 150px;
+  height: 225px;
 }
 .leagueName{
   font-size: 12px;
