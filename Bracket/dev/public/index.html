@@ -52,10 +52,10 @@
       <div id='teamSheet'>
       {{#teamsheet}}
       {{#league}}
-        <div id="leagueHolder">
-          <div id="leagueName">{{name}}</div>
+        <div class="leagueHolder">
+          <div class="leagueName">{{name}}</div>
           {{#teams}}
-          <div id="leagueTeam">{{name}}</div>
+          <div class="leagueTeam" data-active="{{active}}">{{name}}</div>
           {{/teams}}
         </div>
       {{/league}}

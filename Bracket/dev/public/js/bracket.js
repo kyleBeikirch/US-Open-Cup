@@ -36,7 +36,12 @@
         $("#Main").append(Mustache.to_html($("#teams-template").html(), {
           teamData: data
         }));
-        return $('#teamSheet').css('top', bracketHeight + 120);
+        $('#teamSheet').css('top', bracketHeight + 120);
+        return $(".leagueTeam").each(function(i, element) {
+          if ($(element).attr("data-active") === 'false') {
+            return $(element).css("text-decoration", "line-through");
+          }
+        });
       });
     });
   });

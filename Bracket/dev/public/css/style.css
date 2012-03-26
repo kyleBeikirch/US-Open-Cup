@@ -21,18 +21,18 @@ body{
   width: 950px;
 }
 
-#leagueHolder{
+.leagueHolder{
   float: left;
   margin: 10px;
   text-align:center;
   width: 150;
 }
-#leagueName{
+.leagueName{
   font-size: 12px;
   font-weight: bold;
 }
 
-#leagueTeam{
+.leagueTeam{
   font-size: 10px;
 }
 

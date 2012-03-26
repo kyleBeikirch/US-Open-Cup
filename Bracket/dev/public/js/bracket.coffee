@@ -32,5 +32,9 @@ $(document).ready ->
       $("#Main").append Mustache.to_html($("#teams-template").html(),
         teamData: data
       )
+      
       $('#teamSheet').css( 'top', bracketHeight + 120)
+      $(".leagueTeam").each (i, element) ->
+        $(element).css "text-decoration", "line-through"  if $(element).attr("data-active") is 'false'
+
     
