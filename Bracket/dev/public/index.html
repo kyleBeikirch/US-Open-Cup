@@ -45,7 +45,26 @@
       </div>
       {{/bracketData}}
     </div>
-    </script>
+  </script>
+  
+  <script id='teams-template' type='text/x-mustache-template'>
+      {{#teamData}}
+      <div id='teamSheet'>
+      {{#teamsheet}}
+      {{#league}}
+        <div id="leagueHolder">
+          <div id="leagueName">{{name}}</div>
+          {{#teams}}
+          <div id="leagueTeam">{{name}}</div>
+          {{/teams}}
+        </div>
+      {{/league}}
+      {{/teamsheet}}
+      </div>
+      {{/teamData}}
+    </div>
+  </script>
+  
   
   
 </head>

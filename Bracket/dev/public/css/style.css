@@ -15,6 +15,28 @@ body{
 
 }
 
+#teamSheet{
+  margin: 5px;
+  position:absolute;
+  width: 950px;
+}
+
+#leagueHolder{
+  float: left;
+  margin: 10px;
+  text-align:center;
+  width: 150;
+}
+#leagueName{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#leagueTeam{
+  font-size: 10px;
+}
+
+
 #bracket{
   margin: 10px;
   position:absolute;

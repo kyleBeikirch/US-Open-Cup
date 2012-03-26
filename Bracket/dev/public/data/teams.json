@@ -1,0 +1,96 @@
+{
+    "teamsheet": {
+        "league": [
+            {
+                "name": "Major League Soccer", 
+                "abbreviation": "MLS", 
+                "teams": [
+                  {
+                      "name": "Chicago Fire",
+                      "active": false 
+                  },
+                  {
+                      "name": "Columbus Crew",
+                      "active": false 
+                  },
+                  {
+                      "name": "FC Dallas",
+                      "active": false 
+                  },
+                  {
+                      "name": "Sporting Kansas City",
+                      "active": false 
+                  },
+                  {
+                      "name": "Los Angeles Galaxy",
+                      "active": false 
+                  },
+                  {
+                      "name": "New York Red Bulls",
+                      "active": false 
+                  },
+                  {
+                      "name": "Real Salt Lake",
+                      "active": false 
+                  },
+                  {
+                      "name": "Seattle Sounders FC",
+                      "active": true 
+                  }
+                ]
+            },
+            {
+                "name": "United Soccer Leagues Pro", 
+                "abbreviation": "USL Pro", 
+                "teams": [
+                  {
+                      "name": "Charleston Battery",
+                      "active": false 
+                  },
+                  {
+                      "name": "Charlotte Eagles",
+                      "active": false 
+                  },
+                  {
+                      "name": "Dayton Dutch Lions",
+                      "active": false 
+                  },
+                  {
+                      "name": "FC New York",
+                      "active": false 
+                  },
+                  {
+                      "name": "Harrisburg City Islanders",
+                      "active": false 
+                  },
+                  {
+                      "name": "Los Angeles Blues",
+                      "active": false 
+                  },
+                  {
+                      "name": "Orlando City SC",
+                      "active": false 
+                  },
+                  {
+                      "name": "Pittsburgh Riverhounds",
+                      "active": false 
+                  },
+                  {
+                      "name": "Richmond Kickers",
+                      "active": true 
+                  },
+                  {
+                      "name": "Rochester Rhinos",
+                      "active": false 
+                  },
+                  {
+                      "name": "Wilmington Hammerheads",
+                      "active": false 
+                  }
+                  
+                ]
+            }
+            
+        ]
+    }
+}

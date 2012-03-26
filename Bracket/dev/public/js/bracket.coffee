@@ -1,3 +1,5 @@
+bracketHeight = 0;
+
 dataLoaded = ->
   arrangeGames()
   
@@ -12,6 +14,7 @@ arrangeGames = ->
     
     $('.bracketGame', element).each (i, element)  =>
       topPos = (i * (padding * (16/numGames)) + padding + (padding/2 * ((16/numGames)-1)))-10;
+      bracketHeight = Math.max bracketHeight , topPos
       $(element).css('top', topPos)
       
 
@@ -23,3 +26,11 @@ $(document).ready ->
       bracketData: data
     )
     dataLoaded()
+    
+    $.getJSON "data/teams.json", (data) ->
+      # put data in mustache template
+      $("#Main").append Mustache.to_html($("#teams-template").html(),
+        teamData: data
+      )
+      $('#teamSheet').css( 'top', bracketHeight + 120)
+    
