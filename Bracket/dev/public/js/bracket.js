@@ -70,7 +70,7 @@
 
   $(document).ready(function() {
     currentYear = getParameterByName("year");
-    return $.getJSON("data/bracket.json", function(data) {
+    return $.getJSON("data/bracket" + currentYear + ".json", function(data) {
       gameData = data.bracket.round;
       $("#Main").append(Mustache.to_html($("#spread-template").html(), {
         bracketData: data

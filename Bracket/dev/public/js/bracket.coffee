@@ -50,7 +50,7 @@ arrangeGames = ->
 $(document).ready ->
   currentYear = getParameterByName("year")
   # load json data
-  $.getJSON "data/bracket.json", (data) ->
+  $.getJSON "data/bracket" + currentYear + ".json", (data) ->
     # put data in mustache template
     gameData = data.bracket.round
     $("#Main").append Mustache.to_html($("#spread-template").html(),
