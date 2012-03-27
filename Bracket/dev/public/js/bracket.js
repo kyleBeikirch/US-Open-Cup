@@ -21,7 +21,10 @@
         var topPos;
         topPos = (i * (padding * (16 / numGames)) + padding + (padding / 2 * ((16 / numGames) - 1))) - 10;
         bracketHeight = Math.max(bracketHeight, topPos);
-        return $(element).css('top', topPos);
+        $(element).css('top', topPos);
+        return $(element).click(function() {
+          return console.log(element);
+        });
       });
     });
   };

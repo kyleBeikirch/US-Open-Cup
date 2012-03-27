@@ -16,6 +16,8 @@ arrangeGames = ->
       topPos = (i * (padding * (16/numGames)) + padding + (padding/2 * ((16/numGames)-1)))-10;
       bracketHeight = Math.max bracketHeight , topPos
       $(element).css('top', topPos)
+      $(element).click =>
+        console.log element
       
 
 $(document).ready ->
