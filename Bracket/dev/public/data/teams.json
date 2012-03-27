@@ -6,36 +6,60 @@
                 "abbreviation": "MLS", 
                 "teams": [
                   {
+                      "id": "chicagoFire",
                       "name": "Chicago Fire",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
+                      "id": "columbusCrew",
                       "name": "Columbus Crew",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
+                      "id": "fcDallas",
                       "name": "FC Dallas",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
+                      "id": "sportingKC",
                       "name": "Sporting Kansas City",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
+                      "id": "laGalaxy",
                       "name": "Los Angeles Galaxy",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
+                      "id": "nyRedBulls",
                       "name": "New York Red Bulls",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
+                      "id": "realSaltLake",
                       "name": "Real Salt Lake",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
+                      "id": "seattleSoundersMLS",
                       "name": "Seattle Sounders FC",
-                      "active": true 
+                      "lastman": "2011",
+                      "paticipant": "2011",
+                      "champion": "2011"                   
                   }
                 ]
             },
@@ -45,47 +69,69 @@
                 "teams": [
                   {
                       "name": "Charleston Battery",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Charlotte Eagles",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Dayton Dutch Lions",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "FC New York",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Harrisburg City Islanders",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Los Angeles Blues",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                     
                   },
                   {
                       "name": "Orlando City SC",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Pittsburgh Riverhounds",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Richmond Kickers",
-                      "active": true 
+                      "lastman": "2011",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Rochester Rhinos",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                      
                   },
                   {
                       "name": "Wilmington Hammerheads",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   }
                   
                 ]
@@ -96,39 +142,57 @@
                 "teams": [
                   {
                       "name": "Carolina Dynamo",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                   
                   },
                   {
                       "name": "Central Florida Kraze",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""                  
                   },
                   {
                       "name": "Chicago Fire PDL",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "Chivas El Paso Patriots",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Kitsap Pumas",
-                      "active": true 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "Reading United AC",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Real Colorado Foxes",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "Ventura County Fusion",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Western Mass Pioneers",
-                      "active": true 
+                      "lastman": "2011",
+                      "paticipant": "2011",
+                      "champion": ""
                   }
                 ]
             },
@@ -138,19 +202,27 @@
                 "teams": [
                   {
                       "name": "Brooklyn Italians",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Chattanooga FC",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Hollywood United",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Madison 56ers",
-                      "active": true 
+                      "lastman": "2011",
+                      "paticipant": "2011",
+                      "champion": "" 
                   }                 
                 ]
             },
@@ -160,35 +232,51 @@
                 "teams": [
                   {
                       "name": "AAC Eagles",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "ASC New Stars",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Doxa Italia",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "DV8 Defenders",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "Iowa Menace",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "NY Pancyprian Freedoms",
-                      "active": true 
+                      "lastman": "2011",
+                      "paticipant": "2011",
+                      "champion": ""
                   },
                   {
                       "name": "Phoenix SC",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": "" 
                   },
                   {
                       "name": "Regals FC",
-                      "active": false 
+                      "lastman": "",
+                      "paticipant": "2011",
+                      "champion": ""
                   }                 
                 ]
             }

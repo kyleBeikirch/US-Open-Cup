@@ -2,7 +2,19 @@ bracketHeight = 0
 gameData = []
 overlayData = []
 teamsData = []
+currentYear = 0
 
+getParameterByName = (name) ->
+  name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]")
+  regexS = "[\\?&]" + name + "=([^&#]*)"
+  regex = new RegExp(regexS)
+  results = regex.exec(window.location.search)
+  unless results?
+    ""
+  else
+    decodeURIComponent results[1].replace(/\+/g, " ")
+    
+    
 showOverlay = (data) ->
   moveOverlay = ($(document).height() - $('#Overlay').height()) / 2
   $('#Overlay').css('top', moveOverlay)
@@ -36,6 +48,7 @@ arrangeGames = ->
         showOverlay(overlayData)     
 
 $(document).ready ->
+  currentYear = getParameterByName("year")
   # load json data
   $.getJSON "data/bracket.json", (data) ->
     # put data in mustache template
@@ -54,6 +67,6 @@ $(document).ready ->
       
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
-        $(element).css "text-decoration", "line-through"  if $(element).attr("data-active") is 'false'
+        $(element).css "text-decoration", "line-through"  if $(element).attr("data-lastMan").indexOf(currentYear) is -1
     $('#Overlay-close').click ->
       $('#Overlay').fadeOut()
