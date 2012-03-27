@@ -1,4 +1,6 @@
-bracketHeight = 0;
+bracketHeight = 0
+gameData = []
+overlayData = []
 
 dataLoaded = ->
   arrangeGames()
@@ -17,13 +19,19 @@ arrangeGames = ->
       bracketHeight = Math.max bracketHeight , topPos
       $(element).css('top', topPos)
       $(element).click =>
-        console.log element
+        gameID = $(element).attr('data-id')
+        for round of gameData
+          roundData = gameData[round].game
+          for game of roundData
+            overlayData = roundData[game]  if roundData[game].id is gameID
+        console.log overlayData
       
 
 $(document).ready ->
   # load json data
   $.getJSON "data/bracket.json", (data) ->
     # put data in mustache template
+    gameData = data.bracket.round
     $("#Main").html Mustache.to_html($("#spread-template").html(),
       bracketData: data
     )
