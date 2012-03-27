@@ -4,6 +4,8 @@ overlayData = []
 teamsData = []
 
 showOverlay = (data) ->
+  moveOverlay = ($(document).height() - $('#Overlay').height()) / 2
+  $('#Overlay').css('top', moveOverlay)
   $('#Overlay').fadeIn()  
   $("#Ovarlay-content").html Mustache.to_html($("#overlay-template").html(),
     overlayData: data

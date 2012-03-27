@@ -11,6 +11,9 @@
   teamsData = [];
 
   showOverlay = function(data) {
+    var moveOverlay;
+    moveOverlay = ($(document).height() - $('#Overlay').height()) / 2;
+    $('#Overlay').css('top', moveOverlay);
     $('#Overlay').fadeIn();
     return $("#Ovarlay-content").html(Mustache.to_html($("#overlay-template").html(), {
       overlayData: data
