@@ -34,7 +34,7 @@ $(document).ready ->
   $.getJSON "data/bracket.json", (data) ->
     # put data in mustache template
     gameData = data.bracket.round
-    $("#Main").html Mustache.to_html($("#spread-template").html(),
+    $("#Main").append Mustache.to_html($("#spread-template").html(),
       bracketData: data
     )
     dataLoaded()
@@ -48,6 +48,7 @@ $(document).ready ->
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
         $(element).css "text-decoration", "line-through"  if $(element).attr("data-active") is 'false'
-      $('#Main').append('<div id="Overlay"></div>')
+  $('#Overlay-close').click ->
+    $('#Overlay').fadeOut()
 
     

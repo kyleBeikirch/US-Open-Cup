@@ -53,9 +53,9 @@
   };
 
   $(document).ready(function() {
-    return $.getJSON("data/bracket.json", function(data) {
+    $.getJSON("data/bracket.json", function(data) {
       gameData = data.bracket.round;
-      $("#Main").html(Mustache.to_html($("#spread-template").html(), {
+      $("#Main").append(Mustache.to_html($("#spread-template").html(), {
         bracketData: data
       }));
       dataLoaded();
@@ -64,13 +64,15 @@
           teamData: data
         }));
         $('#teamSheet').css('top', bracketHeight + 120);
-        $(".leagueTeam").each(function(i, element) {
+        return $(".leagueTeam").each(function(i, element) {
           if ($(element).attr("data-active") === 'false') {
             return $(element).css("text-decoration", "line-through");
           }
         });
-        return $('#Main').append('<div id="Overlay"></div>');
       });
+    });
+    return $('#Overlay-close').click(function() {
+      return $('#Overlay').fadeOut();
     });
   });
 
