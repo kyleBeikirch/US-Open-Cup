@@ -53,7 +53,7 @@
       {{#teamsheet}}
       {{#league}}
         <div class="leagueHolder">
-          <div class="leagueName">{{name}}</div>
+          <div class="leagueName">{{abbreviation}}</div>
           {{#teams}}
           <div class="leagueTeam" data-active="{{active}}">{{name}}</div>
           {{/teams}}
@@ -65,37 +65,13 @@
     </div>
   </script>
   
-  <script id='overlay-template' type='text/x-mustache-template'>
-      {{#overlayData}}
-      <div id='homeColumn'>
-        <img src="" width="256" height="256"/> 
-        <div id="homeName">{{homeID}}</div>
-        <div id="homeScore">{{homeScore}}</div>
-      </div>
-      <div id='awayColumn'>
-        <img src="" width="256" height="256"/> 
-        <div id="awayName">{{awayID}}</div>
-        <div id="awayScore">{{awayScore}}</div>
-      </div>
-      <div id="gameColumn">
-        <div id="gameDate"> {{date}} - {{time}}</div>
-        <div id= "gameStad"> {{stadium}}</div>
-        <div id= "gameLoc"> {{location}}</div>
-      </div>
-      {{/overlayData}}
-    </div>
-  </script>
-  
-  
   
   
 </head>
 <body>
 <div id="Main">
-  <div id="Overlay">
-    <div id="Overlay-close"></div>
-    <div id="Ovarlay-content"></div>
-  </div>
+<b> filler content </b>
+
 </div>
 </body>
 </html>

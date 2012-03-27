@@ -56,7 +56,11 @@ $(document).ready ->
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
         $(element).css "text-decoration", "line-through"  if $(element).attr("data-active") is 'false'
+<<<<<<< Local Changes
+      $('#Main').append('<div id="Overlay"> </div>')
+=======
   $('#Overlay-close').click ->
     $('#Overlay').fadeOut()
+>>>>>>> External Changes
 
     
