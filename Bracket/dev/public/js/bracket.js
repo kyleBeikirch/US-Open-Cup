@@ -9,7 +9,6 @@
   overlayData = [];
 
   showOverlay = function(data) {
-    $("#Overlay").css('z-index', 99999);
     return $('#Overlay').fadeIn();
   };
 

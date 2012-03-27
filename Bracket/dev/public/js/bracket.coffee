@@ -3,7 +3,6 @@ gameData = []
 overlayData = []
 
 showOverlay = (data) ->
-  $("#Overlay").css('z-index', 99999);
   $('#Overlay').fadeIn()
   
 dataLoaded = ->

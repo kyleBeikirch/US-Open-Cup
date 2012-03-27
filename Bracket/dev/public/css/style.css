@@ -51,7 +51,6 @@ body{
   font-size: 48px;
   font-family: 'DeftoneStylusRegular';
   color: #900;
-  z-index: 50;
 }
 
 .roundHolder
@@ -59,19 +58,16 @@ body{
   width: 120px;
   float: left;
   position: absolute;
-  z-index: 50;
 }
 
 .roundName{
   text-align: center;
   font-weight: bold;
-  z-index: 50;
 }
 
 .roundDate{
   text-align: center;
   font-size: 12px;
-  z-index: 50;
 }
 
 .bracketGame{
@@ -85,7 +81,6 @@ body{
 	color: #fff;
 	text-shadow: 0px 2px 2px #000;
 	cursor: pointer;
-  z-index: 50;
 }
 
 .homeTeam{
@@ -122,4 +117,5 @@ body{
   height: 470px;
   display: none;
   z-index: 100;
+  position: absolute;
 }
