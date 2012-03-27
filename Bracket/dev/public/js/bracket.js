@@ -9,7 +9,11 @@
   overlayData = [];
 
   showOverlay = function(data) {
-    return $('#Overlay').fadeIn();
+    console.log(data);
+    $('#Overlay').fadeIn();
+    return $("#Ovarlay-content").html(Mustache.to_html($("#overlay-template").html(), {
+      overlayData: data
+    }));
   };
 
   dataLoaded = function() {
@@ -31,22 +35,15 @@
         bracketHeight = Math.max(bracketHeight, topPos);
         $(element).css('top', topPos);
         return $(element).click(function() {
-          var game, gameID, round, roundData, _results;
+          var game, gameID, round, roundData;
           gameID = $(element).attr('data-id');
-          _results = [];
           for (round in gameData) {
             roundData = gameData[round].game;
-            _results.push((function() {
-              var _results2;
-              _results2 = [];
-              for (game in roundData) {
-                if (roundData[game].id === gameID) overlayData = roundData[game];
-                _results2.push(showOverlay(overlayData));
-              }
-              return _results2;
-            })());
+            for (game in roundData) {
+              if (roundData[game].id === gameID) overlayData = roundData[game];
+            }
           }
-          return _results;
+          return showOverlay(overlayData);
         });
       });
     });

@@ -65,6 +65,26 @@
     </div>
   </script>
   
+  <script id='overlay-template' type='text/x-mustache-template'>
+      {{#overlayData}}
+      <div id='homeColumn'>
+        <div id="homeName">{{homeID}}</div>
+        <div id="homeScore">{{homeScore}}</div>
+      </div>
+      <div id='awayColumn'>
+        <div id="awayName">{{awayID}}</div>
+        <div id="awayScore">{{awayScore}}</div>
+      </div>
+      <div id="gameColumn">
+        <div id="gameDate"> {{date}} - {{time}}</div>
+        <div id= "gameStad"> {{stadium}}</div>
+        <div id= "gameLoc"> {{location}}</div>
+      </div>
+      {{/overlayData}}
+    </div>
+  </script>
+  
+  
   
   
 </head>
@@ -72,6 +92,7 @@
 <div id="Main">
   <div id="Overlay">
     <div id="Overlay-close">Close</div>
+    <div id="Ovarlay-content"></div>
   </div>
 </div>
 </body>

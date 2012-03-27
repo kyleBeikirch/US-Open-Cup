@@ -3,7 +3,13 @@ gameData = []
 overlayData = []
 
 showOverlay = (data) ->
+  console.log(data)
   $('#Overlay').fadeIn()
+  
+  $("#Ovarlay-content").html Mustache.to_html($("#overlay-template").html(),
+    overlayData: data
+  )
+  
   
 dataLoaded = ->
   arrangeGames()
@@ -27,7 +33,7 @@ arrangeGames = ->
           roundData = gameData[round].game
           for game of roundData
             overlayData = roundData[game]  if roundData[game].id is gameID
-            showOverlay(overlayData)     
+        showOverlay(overlayData)     
 
 $(document).ready ->
   # load json data
