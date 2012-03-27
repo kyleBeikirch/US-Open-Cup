@@ -36,6 +36,7 @@ uploads/*
 *.log
 *.sql
 *.sqlite
+*.sass-cache*
 
 # OS generated files #
 ######################
