@@ -1,6 +1,7 @@
 bracketHeight = 0
 gameData = []
 overlayData = []
+teamsData = []
 
 showOverlay = (data) ->
   console.log(data)
@@ -46,6 +47,7 @@ $(document).ready ->
     dataLoaded()
     
     $.getJSON "data/teams.json", (data) ->
+      teamsData = data
       # put data in mustache template
       $("#Main").append Mustache.to_html($("#teams-template").html(),
         teamData: data
