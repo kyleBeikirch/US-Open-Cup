@@ -19,13 +19,14 @@ body{
   margin: 5px;
   position:absolute;
   width: 950px;
+  z-index: 20;
 }
 
 .leagueHolder{
   float: left;
   margin: 10px;
   text-align:center;
-  width: 150px;
+  width: 125px;
   height: 225px;
 }
 .leagueName{
@@ -42,6 +43,7 @@ body{
   margin: 10px;
   position:absolute;
   width: 950px;
+  z-index: 50;
 }
 
 #bracketTitle{
@@ -49,6 +51,7 @@ body{
   font-size: 48px;
   font-family: 'DeftoneStylusRegular';
   color: #900;
+  z-index: 50;
 }
 
 .roundHolder
@@ -56,16 +59,19 @@ body{
   width: 120px;
   float: left;
   position: absolute;
+  z-index: 50;
 }
 
 .roundName{
   text-align: center;
   font-weight: bold;
+  z-index: 50;
 }
 
 .roundDate{
   text-align: center;
   font-size: 12px;
+  z-index: 50;
 }
 
 .bracketGame{
@@ -79,6 +85,7 @@ body{
 	color: #fff;
 	text-shadow: 0px 2px 2px #000;
 	cursor: pointer;
+  z-index: 50;
 }
 
 .homeTeam{
@@ -107,4 +114,12 @@ body{
 	left: 6px;
 	top: 6px;
 	font-size: 11px;
+}
+
+#Overlay{
+  background-image: url('../images/popUp.png');
+  width: 670px;
+  height: 470px;
+  display: none;
+  z-index: 100;
 }

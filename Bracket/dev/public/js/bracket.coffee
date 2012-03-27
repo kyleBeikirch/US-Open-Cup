@@ -2,6 +2,10 @@ bracketHeight = 0
 gameData = []
 overlayData = []
 
+showOverlay = (data) ->
+  $("#Overlay").css('z-index', 99999);
+  $('#Overlay').fadeIn()
+  
 dataLoaded = ->
   arrangeGames()
   
@@ -24,8 +28,7 @@ arrangeGames = ->
           roundData = gameData[round].game
           for game of roundData
             overlayData = roundData[game]  if roundData[game].id is gameID
-        console.log overlayData
-      
+            showOverlay(overlayData)     
 
 $(document).ready ->
   # load json data
@@ -46,5 +49,6 @@ $(document).ready ->
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
         $(element).css "text-decoration", "line-through"  if $(element).attr("data-active") is 'false'
+      $('#Main').append('<div id="Overlay"></div>')
 
     
