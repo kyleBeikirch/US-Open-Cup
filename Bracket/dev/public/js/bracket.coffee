@@ -1,10 +1,13 @@
 bracketHeight = 0
 gameData = []
 overlayData = []
+teamsData = []
 
 showOverlay = (data) ->
-  $("#Overlay").css('z-index', 99999);
-  $('#Overlay').fadeIn()
+  $('#Overlay').fadeIn()  
+  $("#Ovarlay-content").html Mustache.to_html($("#overlay-template").html(),
+    overlayData: data
+  )
   
 dataLoaded = ->
   arrangeGames()
@@ -28,19 +31,20 @@ arrangeGames = ->
           roundData = gameData[round].game
           for game of roundData
             overlayData = roundData[game]  if roundData[game].id is gameID
-            showOverlay(overlayData)     
+        showOverlay(overlayData)     
 
 $(document).ready ->
   # load json data
   $.getJSON "data/bracket.json", (data) ->
     # put data in mustache template
     gameData = data.bracket.round
-    $("#Main").html Mustache.to_html($("#spread-template").html(),
+    $("#Main").append Mustache.to_html($("#spread-template").html(),
       bracketData: data
     )
     dataLoaded()
     
     $.getJSON "data/teams.json", (data) ->
+      teamsData = data
       # put data in mustache template
       $("#Main").append Mustache.to_html($("#teams-template").html(),
         teamData: data
@@ -49,3 +53,5 @@ $(document).ready ->
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
         $(element).css "text-decoration", "line-through"  if $(element).attr("data-active") is 'false'
+    $('#Overlay-close').click ->
+      $('#Overlay').fadeOut()
