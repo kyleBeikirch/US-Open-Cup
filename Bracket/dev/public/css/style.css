@@ -30,19 +30,29 @@ body{
   height: 225px;
 }
 .leagueName{
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
   background-image: url('../images/leagueTop.png');
   width: 125px;
-  height: 25px;
+  height: 17px;
 	color: #fff;
 	text-shadow: 0px 2px 2px #000;
   vertical-align: middle;
+  padding-top: 2px;
   
 }
 
 .leagueTeam{
   font-size: 10px;
+  background-image: url('../images/teamMiddle.png');
+  width: 125px;
+  height: 16px;
+  color: #1a1a1a;
+}
+
+.leagueTeam:last-child{
+  background-image: url('../images/teamLast.png');
+  height: 17px;
 }
 
 
