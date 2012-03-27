@@ -120,6 +120,15 @@ body{
   position: absolute;
 }
 
+#Overlay-close{
+  width: 42px;
+  height: 42px;
+  float: right;
+  background-image: url('../images/close_button.png');
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
 #homeColumn, #awayColumn{
   width: 335px;
   height: 300px;
