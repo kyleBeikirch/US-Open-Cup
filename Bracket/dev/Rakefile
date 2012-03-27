@@ -4,3 +4,13 @@ desc "Run the server"
 task :server do
   system "rackup config.ru"
 end
+
+desc "Watch and Compile coffeescript files"
+task :watchCoffee do
+  system "coffee --watch --compile public/js/Bracket.coffee"
+end
+
+desc "Watch and Compile sass files"
+task :watchSass do
+  system "sass --watch public/css/style.sass:public/css/style.css"
+end
