@@ -27,7 +27,7 @@
 
   showOverlay = function(data) {
     var moveOverlay;
-    moveOverlay = ($(document).height() - $('#Overlay').height()) / 2;
+    moveOverlay = $(window).height() / 2 - ($('#Overlay').height() / 2) + $(window).scrollTop();
     $('#Overlay').css('top', moveOverlay);
     $('#Overlay').fadeIn();
     return $("#Ovarlay-content").html(Mustache.to_html($("#overlay-template").html(), {
