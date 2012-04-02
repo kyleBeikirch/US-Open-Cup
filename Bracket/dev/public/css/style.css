@@ -137,3 +137,7 @@ body {
   position: absolute;
   top: 375px;
   left: 235px; }
+
+.gameEvent {
+  text-align: left;
+  margin-left: 67px; }
