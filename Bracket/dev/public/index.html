@@ -33,9 +33,9 @@
           <div class='roundDate'> {{date}}</div>
           {{#game}}
           <div class="bracketGame" data-id="{{id}}">
-          	<div class="homeTeam">Rochester</div>
+          	<div class="homeTeam">{{homeName}}</div>
           	<div class="homeScore">{{homeScore}}</div>
-          	<div class="awayTeam">Pittsburgh</div>
+          	<div class="awayTeam">{{awayName}}</div>
           	<div class="awayScore">{{awayScore}}</div>	
           </div>
           {{/game}}
@@ -68,13 +68,13 @@
   <script id='overlay-template' type='text/x-mustache-template'>
         {{#overlayData}}
         <div id='homeColumn'>
-          <img src="" width="200" height="200"/> 
-          <div class="overlayTeam">{{homeID}}</div>
+          <img src="images/logos/{{homeID}}.jpg" width="200" height="200"/> 
+          <div class="overlayTeam">{{homeName}}</div>
           <div class="overlayScore">{{homeScore}}</div>
         </div>
         <div id='awayColumn'>
-          <img src="" width="200" height="200"/> 
-          <div class="overlayTeam">{{awayID}}</div>
+          <img src="images/logos/{{awayID}}.jpg" width="200" height="200"/> 
+          <div class="overlayTeam">{{awayName}}</div>
           <div class="overlayScore">{{awayScore}}</div>
         </div>
         <div id="gameColumn">

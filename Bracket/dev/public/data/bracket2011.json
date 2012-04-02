@@ -7,10 +7,12 @@
                 "game": [
                     {
                         "id": "0", 
-                        "awayID": "28", 
+                        "awayName": "Brooklyn Italians",
+                        "awayID": "brooklynItalians",
                         "awayScore": "1", 
                         "date": "6/14/2011", 
-                        "homeID": "37", 
+                        "homeName": "NY Pancyprian Freedoms",
+                        "homeID"  : "PancyprianFreedom", 
                         "homeScore": "2", 
                         "location": "Queens, NY", 
                         "scoreSheet": {
