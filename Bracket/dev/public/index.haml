@@ -1,0 +1,83 @@
+<!doctype html>
+/[if lt IE 7] <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en">
+/[if IE 7] <html class="no-js lt-ie9 lt-ie8" lang="en">
+/[if IE 8] <html class="no-js lt-ie9" lang="en">
+%head
+  %meta{:charset => "utf-8"}
+    %meta{:content => "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}
+      %title US Open Cup Bracket
+      %meta{:content => "", :name => "description"}
+        %meta{:content => "", :name => "author"}
+          %meta{:content => "width=device-width", :name => "viewport"}
+            %link{:href => "css/style.css", :rel => "stylesheet"}
+              %script{:src => "js/libs/modernizr-2.5.2.min.js"}
+              %script{:src => "js/libs/jquery-1.7.1.min.js"}
+              %script{:src => "js/libs/mustache.js"}
+              %script{:src => "js/bracket.js"}
+              %script#spread-template{:type => "text/x-mustache-template"}
+                {{#bracketData}}
+                #bracket
+                  {{#bracket}}
+                  #bracketTitle
+                    {{year}}
+                  {{#round}}
+                  .roundHolder
+                    .roundName {{name}}
+                    .roundDate {{date}}
+                    {{#game}}
+                    .bracketGame{"data-id" => "{{id}}"}
+                      .homeTeam {{homeName}}
+                      .homeScore {{homeScore}}
+                      .awayTeam {{awayName}}
+                      .awayScore {{awayScore}}
+                    {{/game}}
+                  {{/round}}
+                  {{/bracket}}
+                {{/bracketData}}
+              %script#teams-template{:type => "text/x-mustache-template"}
+                {{#teamData}}
+                #teamSheet
+                  {{#teamsheet}}
+                  {{#league}}
+                  .leagueHolder
+                    .leagueName {{abbreviation}}
+                    {{#teams}}
+                    .leagueTeam{"data-lastMan" => "{{lastman}}"} {{name}}
+                    {{/teams}}
+                  {{/league}}
+                  {{/teamsheet}}
+                {{/teamData}}
+              %script#overlay-template{:type => "text/x-mustache-template"}
+                {{#overlayData}}
+                #homeColumn
+                  %img{:height => "200", :src => "images/logos/{{homeID}}.jpg", :width => "200"}/
+                  .overlayTeam {{homeName}}
+                  .overlayScore {{homeScore}}
+                  {{#scoreSheet}}
+                  {{#event}}
+                  .gameEvent
+                    %img{:src => "images/{{type}}.png"}/
+                    {{minute}} - {{player}}
+                  {{/event}}
+                  {{/scoreSheet}}
+                #awayColumn
+                  %img{:height => "200", :src => "images/logos/{{awayID}}.jpg", :width => "200"}/
+                  .overlayTeam {{awayName}}
+                  .overlayScore {{awayScore}}
+                  {{#scoreSheet}}
+                  {{#event}}
+                  .gameEvent
+                    %img{:src => "images/{{type}}.png"}/
+                    {{minute}} - {{player}}
+                  {{/event}}
+                  {{/scoreSheet}}
+                #gameColumn
+                  #gameDate {{date}} - {{time}}
+                  #gameStad {{stadium}}
+                  #gameLoc {{location}}
+                {{/overlayData}}
+%body
+  #Main
+    #Overlay
+      #Overlay-close
+      #Ovarlay-content

@@ -14,3 +14,29 @@ desc "Watch and Compile sass files"
 task :watchSass do
   system "sass --watch public/css/style.sass:public/css/style.css"
 end
+
+
+include Rake::DSL
+require 'rake/clean'
+
+task :default => [:watch]
+
+desc 'Watches all the .haml files in your directory and changes them to html'
+task :watchHaml do
+  puts "HAML is watchin you!"
+  require 'fssm'
+  FSSM.monitor do
+    path "#{File.dirname(__FILE__)}" do
+      glob '**/*.{haml}'
+      update {|base, relative| rebuild_haml(relative)}
+      delete {|base, relative| rebuild_haml(relative)}
+      create {|base, relative| rebuild_haml(relative)}
+    end
+  end
+end
+
+def rebuild_haml(relative)
+  puts "HAML changes found in: #{relative}! Invoking HAML --->"  
+  html = relative.sub( "haml", "html")
+  sh "haml #{relative} #{html}"
+end

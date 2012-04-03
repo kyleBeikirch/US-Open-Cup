@@ -1,111 +1,107 @@
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-	<title>US Open Cup Bracket</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
-
-	<meta name="viewport" content="width=device-width">
-
-	<link rel="stylesheet" href="css/style.css">
-
-	<script src="js/libs/modernizr-2.5.2.min.js"></script>
-	<script src="js/libs/jquery-1.7.1.min.js"></script>
-	<script src="js/libs/mustache.js"></script>
-	<script src="js/bracket.js"></script>
-  
-  <script id='spread-template' type='text/x-mustache-template'>
-      {{#bracketData}}
-      <div id='bracket'>
-      {{#bracket}}
-        <div id='bracketTitle'>
-          {{year}}
-          </div>
-      {{#round}}
-        <div class='roundHolder'>
-          <div class='roundName'> {{name}}</div>
-          <div class='roundDate'> {{date}}</div>
-          {{#game}}
-          <div class="bracketGame" data-id="{{id}}">
-          	<div class="homeTeam">{{homeName}}</div>
-          	<div class="homeScore">{{homeScore}}</div>
-          	<div class="awayTeam">{{awayName}}</div>
-          	<div class="awayScore">{{awayScore}}</div>	
-          </div>
-          {{/game}}
-        </div>
-      {{/round}}
-      {{/bracket}}
-      </div>
-      {{/bracketData}}
-    </div>
-  </script>
-  
-  <script id='teams-template' type='text/x-mustache-template'>
-      {{#teamData}}
-      <div id='teamSheet'>
-      {{#teamsheet}}
-      {{#league}}
-        <div class="leagueHolder">
-          <div class="leagueName">{{abbreviation}}</div>
-          {{#teams}}
-          <div class="leagueTeam" data-lastMan="{{lastman}}">{{name}}</div>
-          {{/teams}}
-        </div>
-      {{/league}}
-      {{/teamsheet}}
-      </div>
-      {{/teamData}}
-    </div>
-  </script>
-  
-  <script id='overlay-template' type='text/x-mustache-template'>
-        {{#overlayData}}
-        <div id='homeColumn'>
-          <img src="images/logos/{{homeID}}.jpg" width="200" height="200"/> 
-          <div class="overlayTeam">{{homeName}}</div>
-          <div class="overlayScore">{{homeScore}}</div>
-          {{#scoreSheet}}
-          {{#event}}
-              <div class="gameEvent"><img src="images/{{type}}.png"/> {{minute}} - {{player}}</div>
-          {{/event}}
-          {{/scoreSheet}}
-        </div>
-        <div id='awayColumn'>
-          <img src="images/logos/{{awayID}}.jpg" width="200" height="200"/> 
-          <div class="overlayTeam">{{awayName}}</div>
-          <div class="overlayScore">{{awayScore}}</div>
-          {{#scoreSheet}}
-          {{#event}}
-              <div class="gameEvent"><img src="images/{{type}}.png"/> {{minute}} - {{player}}</div>
-          {{/event}}
-          {{/scoreSheet}}
-          
-        </div>
-        <div id="gameColumn">
-          <div id="gameDate"> {{date}} - {{time}}</div>
-          <div id= "gameStad"> {{stadium}}</div>
-          <div id= "gameLoc"> {{location}}</div>
-        </div>
-        {{/overlayData}}
-      </div>
-    </script>
-  
-  
-  
+  <meta charset='utf-8'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+      <title>US Open Cup Bracket</title>
+      <meta content='' name='description'>
+        <meta content='' name='author'>
+          <meta content='width=device-width' name='viewport'>
+            <link href='css/style.css' rel='stylesheet'>
+              <script src='js/libs/modernizr-2.5.2.min.js'></script>
+              <script src='js/libs/jquery-1.7.1.min.js'></script>
+              <script src='js/libs/mustache.js'></script>
+              <script src='js/bracket.js'></script>
+              <script id='spread-template' type='text/x-mustache-template'>
+                {{#bracketData}}
+                <div id='bracket'>
+                  {{#bracket}}
+                  <div id='bracketTitle'>
+                    {{year}}
+                  </div>
+                  {{#round}}
+                  <div class='roundHolder'>
+                    <div class='roundName'>{{name}}</div>
+                    <div class='roundDate'>{{date}}</div>
+                    {{#game}}
+                    <div class='bracketGame' data-id='{{id}}'>
+                      <div class='homeTeam'>{{homeName}}</div>
+                      <div class='homeScore'>{{homeScore}}</div>
+                      <div class='awayTeam'>{{awayName}}</div>
+                      <div class='awayScore'>{{awayScore}}</div>
+                    </div>
+                    {{/game}}
+                  </div>
+                  {{/round}}
+                  {{/bracket}}
+                </div>
+                {{/bracketData}}
+              </script>
+              <script id='teams-template' type='text/x-mustache-template'>
+                {{#teamData}}
+                <div id='teamSheet'>
+                  {{#teamsheet}}
+                  {{#league}}
+                  <div class='leagueHolder'>
+                    <div class='leagueName'>{{abbreviation}}</div>
+                    {{#teams}}
+                    <div class='leagueTeam' data-lastMan='{{lastman}}'>{{name}}</div>
+                    {{/teams}}
+                  </div>
+                  {{/league}}
+                  {{/teamsheet}}
+                </div>
+                {{/teamData}}
+              </script>
+              <script id='overlay-template' type='text/x-mustache-template'>
+                {{#overlayData}}
+                <div id='homeColumn'>
+                  <img height='200' src='images/logos/{{homeID}}.jpg' width='200' />
+                  <div class='overlayTeam'>{{homeName}}</div>
+                  <div class='overlayScore'>{{homeScore}}</div>
+                  {{#scoreSheet}}
+                  {{#event}}
+                  <div class='gameEvent'>
+                    <img src='images/{{type}}.png' />
+                    {{minute}} - {{player}}
+                  </div>
+                  {{/event}}
+                  {{/scoreSheet}}
+                </div>
+                <div id='awayColumn'>
+                  <img height='200' src='images/logos/{{awayID}}.jpg' width='200' />
+                  <div class='overlayTeam'>{{awayName}}</div>
+                  <div class='overlayScore'>{{awayScore}}</div>
+                  {{#scoreSheet}}
+                  {{#event}}
+                  <div class='gameEvent'>
+                    <img src='images/{{type}}.png' />
+                    {{minute}} - {{player}}
+                  </div>
+                  {{/event}}
+                  {{/scoreSheet}}
+                </div>
+                <div id='gameColumn'>
+                  <div id='gameDate'>{{date}} - {{time}}</div>
+                  <div id='gameStad'>{{stadium}}</div>
+                  <div id='gameLoc'>{{location}}</div>
+                </div>
+                {{/overlayData}}
+              </script>
+            </link>
+          </meta>
+        </meta>
+      </meta>
+    </meta>
+  </meta>
 </head>
 <body>
-<div id="Main">
-  <div id="Overlay">
-    <div id="Overlay-close"></div>
-    <div id="Ovarlay-content"></div>
+  <div id='Main'>
+    <div id='Overlay'>
+      <div id='Overlay-close'></div>
+      <div id='Ovarlay-content'></div>
+    </div>
   </div>
-</div>
 </body>
-</html>
