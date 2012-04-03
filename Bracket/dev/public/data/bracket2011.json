@@ -16,17 +16,11 @@
                         "homeScore": "2", 
                         "location": "Queens, NY", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "66", 
                                     "player": "Stefan Dimitrov", 
                                     "team": "37", 
-                                    "type": "goal"
-                                }, 
-                                {
-                                    "minute": "80", 
-                                    "player": "Kordel Samuel", 
-                                    "team": "28", 
                                     "type": "goal"
                                 }, 
                                 {
@@ -35,7 +29,15 @@
                                     "team": "37", 
                                     "type": "goal"
                                 }
-                            ]
+                            ],
+                            "home": [
+                                {
+                                    "minute": "80", 
+                                    "player": "Kordel Samuel", 
+                                    "team": "28", 
+                                    "type": "goal"
+                                }
+                            ]  
                         }, 
                         "stadium": "Belson Stadium, St. Johns Univeristy", 
                         "time": "7:30 pm ET"

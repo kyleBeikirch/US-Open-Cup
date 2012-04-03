@@ -62,12 +62,12 @@
                   <div class='overlayTeam'>{{homeName}}</div>
                   <div class='overlayScore'>{{homeScore}}</div>
                   {{#scoreSheet}}
-                  {{#event}}
+                  {{#home}}
                   <div class='gameEvent'>
                     <img src='images/{{type}}.png' />
                     {{minute}} - {{player}}
                   </div>
-                  {{/event}}
+                  {{/home}}
                   {{/scoreSheet}}
                 </div>
                 <div id='awayColumn'>
@@ -75,12 +75,12 @@
                   <div class='overlayTeam'>{{awayName}}</div>
                   <div class='overlayScore'>{{awayScore}}</div>
                   {{#scoreSheet}}
-                  {{#event}}
+                  {{#away}}
                   <div class='gameEvent'>
                     <img src='images/{{type}}.png' />
                     {{minute}} - {{player}}
                   </div>
-                  {{/event}}
+                  {{/away}}
                   {{/scoreSheet}}
                 </div>
                 <div id='gameColumn'>

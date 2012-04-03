@@ -54,22 +54,22 @@
                   .overlayTeam {{homeName}}
                   .overlayScore {{homeScore}}
                   {{#scoreSheet}}
-                  {{#event}}
+                  {{#home}}
                   .gameEvent
                     %img{:src => "images/{{type}}.png"}/
                     {{minute}} - {{player}}
-                  {{/event}}
+                  {{/home}}
                   {{/scoreSheet}}
                 #awayColumn
                   %img{:height => "200", :src => "images/logos/{{awayID}}.jpg", :width => "200"}/
                   .overlayTeam {{awayName}}
                   .overlayScore {{awayScore}}
                   {{#scoreSheet}}
-                  {{#event}}
+                  {{#away}}
                   .gameEvent
                     %img{:src => "images/{{type}}.png"}/
                     {{minute}} - {{player}}
-                  {{/event}}
+                  {{/away}}
                   {{/scoreSheet}}
                 #gameColumn
                   #gameDate {{date}} - {{time}}
