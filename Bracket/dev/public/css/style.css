@@ -102,6 +102,14 @@ body {
   top: 6px;
   font-size: 11px; }
 
+.extraTime {
+  color: black;
+  text-shadow: none;
+  position: relative;
+  top: 7px;
+  font-size: 10px;
+  text-align: center; }
+
 #Overlay {
   background-image: url("../images/popUp.png");
   width: 670px;
