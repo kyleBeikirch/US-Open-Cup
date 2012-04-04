@@ -44,14 +44,16 @@
                     }, 
                     {
                         "id": "1", 
-                        "awayID": "27", 
-                        "awayScore": "0", 
+                        "awayID": "WesternMassPioneers", 
+                        "awayScore": "0",
+                        "awayName" : "Western Mass Pioneers",
                         "date": "6/14/2011", 
-                        "homeID": "11", 
+                        "homeID": "FCNY",
+                        "homeName" : "FC New York",
                         "homeScore": "3", 
                         "location": "Garden City, NY", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": " ", 
                                     "player": "Jhonny Arteaga", 
@@ -77,14 +79,16 @@
                     }, 
                     {
                         "id": "2", 
-                        "awayID": "24", 
-                        "awayScore": "1", 
+                        "awayID": "readingAC", 
+                        "awayScore": "1",
+                        "awayName" : "Reading United AC", 
                         "date": "6/14/2011", 
-                        "homeID": "12", 
+                        "homeID": "harrisburgCityIslanders", 
                         "homeScore": "2", 
+                        "homeName" : "Harrisburg City Islanders",
                         "location": "Harrisburg, PA", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "35", 
                                     "player": "David Rodriguez", 
@@ -96,7 +100,9 @@
                                     "player": "Steven Okai", 
                                     "team": "24", 
                                     "type": "red"
-                                }, 
+                                }
+                              ],
+                              "home": [ 
                                 {
                                     "minute": "86", 
                                     "player": "JT Noone", 
@@ -116,14 +122,16 @@
                     }, 
                     {
                         "id": "3", 
-                        "awayID": "38", 
+                        "awayID": "PhoenixMajors", 
+                        "awayName" : "Phoenix SC",
                         "awayScore": "1", 
                         "date": "6/14/2011", 
-                        "homeID": "17", 
+                        "homeID": "rochesterRhinos", 
+                        "homeName" : "Rochester Rhinos",
                         "homeScore": "2", 
                         "location": "Rochester, NY", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "27", 
                                     "player": "JC Banks", 
@@ -135,7 +143,9 @@
                                     "player": "Anthony Hamilton (PK)", 
                                     "team": "17", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "away" : [
                                 {
                                     "minute": "71", 
                                     "player": "Scott Rowling", 
@@ -149,14 +159,16 @@
                     }, 
                     {
                         "id": "4", 
-                        "awayID": "10", 
+                        "awayID": "dutchLions", 
                         "awayScore": "1", 
+                        "awayName" : "Dayton Dutch Lions",
                         "date": "6/14/2011", 
-                        "homeID": "16", 
+                        "homeID": "richmondKickers", 
+                        "homeName" : "Richmond Kickers",
                         "homeScore": "4", 
                         "location": "Richmond, VA", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "7", 
                                     "player": "David Bulow", 
@@ -167,12 +179,6 @@
                                     "minute": "17", 
                                     "player": "David Bulow", 
                                     "team": "16", 
-                                    "type": "goal"
-                                }, 
-                                {
-                                    "minute": "59", 
-                                    "player": "Marvin van der Pluijm", 
-                                    "team": "10", 
                                     "type": "goal"
                                 }, 
                                 {
@@ -187,6 +193,14 @@
                                     "team": "16", 
                                     "type": "goal"
                                 }
+                            ],
+                            "away": [
+                              {
+                                  "minute": "59", 
+                                  "player": "Marvin van der Pluijm", 
+                                  "team": "10", 
+                                  "type": "goal"
+                              }
                             ]
                         }, 
                         "stadium": "Richmmond City Stadium", 
@@ -194,15 +208,17 @@
                     }, 
                     {
                         "id": "5", 
-                        "awayID": "29", 
+                        "awayID": "chattanooga", 
+                        "awayName": "Chattanooga FC",
                         "awayScore": "2", 
                         "date": "6/14/2011", 
                         "extraTime": "After Extra Time", 
-                        "homeID": "15", 
+                        "homeID": "pittsburghRiverhounds", 
+                        "homeName" : "Pittsburgh Riverhounds",
                         "homeScore": "3", 
                         "location": "Bridgeville, PA", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "14", 
                                     "player": "Ivan Heredia", 
@@ -214,7 +230,9 @@
                                     "player": "Mark Beattie", 
                                     "team": "29", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "home": [
                                 {
                                     "minute": " ", 
                                     "player": "Jason Yeisley", 
@@ -240,14 +258,16 @@
                     }, 
                     {
                         "id": "6", 
-                        "awayID": "32", 
+                        "awayID": "aacEagles", 
+                        "awayName" : "AC Eagles",
                         "awayScore": "0", 
                         "date": "6/14/2011", 
-                        "homeID": "31", 
+                        "homeID": "madison56", 
+                        "homeName" : "Madison 56ers",
                         "homeScore": "4", 
                         "location": "Madison, WI", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "67", 
                                     "player": "Tenzin Rampa", 
@@ -279,14 +299,16 @@
                     }, 
                     {
                         "id": "7", 
-                        "awayID": "21", 
+                        "awayID": "chicagoFire",
+                        "awayName" : "Chicago Fire PDL", 
                         "awayScore": "1", 
                         "date": "6/14/2011", 
-                        "homeID": "36", 
+                        "homeID": "iowaMenace", 
+                        "homeName" : "Iowa Menace",
                         "homeScore": "0", 
                         "location": "West Des Moines, IA", 
                         "scoreSheet": {
-                            "event": {
+                            "away": {
                                 "minute": "87", 
                                 "player": "Chris Estridge", 
                                 "team": "21", 
@@ -298,14 +320,16 @@
                     }, 
                     {
                         "id": "8", 
-                        "awayID": "20", 
+                        "awayID": "floridaKraze", 
                         "awayScore": "0", 
+                        "awayName": "Central Florida Kraze",
                         "date": "6/14/2011", 
-                        "homeID": "18", 
+                        "homeID": "wilmingtonHammerHeads", 
+                        "homeName" : "Wilmington Hammerheads",
                         "homeScore": "4", 
                         "location": "Wilmington, NC", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "33", 
                                     "player": "Jyler Noviello", 
@@ -337,26 +361,22 @@
                     }, 
                     {
                         "id": "9", 
-                        "awayID": "9", 
+                        "awayID": "charlotteEagles", 
+                        "awayName" : "Charlotte Eagles",
                         "awayScore": "3", 
                         "date": "6/14/2011", 
-                        "homeID": "19", 
+                        "homeID": "carolinaDynamo",
+                        "homeName": "Carolina Dynamo", 
                         "homeScore": "1", 
                         "location": "Browns Summit, NC", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "23", 
                                     "player": "Darren Toby", 
                                     "team": "9", 
                                     "type": "goal"
-                                }, 
-                                {
-                                    "minute": "39", 
-                                    "player": "Robbie Lovejoy", 
-                                    "team": "19", 
-                                    "type": "goal"
-                                }, 
+                                },  
                                 {
                                     "minute": "49", 
                                     "player": "Diego Martins", 
@@ -369,6 +389,14 @@
                                     "team": "9", 
                                     "type": "goal"
                                 }
+                            ],
+                            "home" : [
+                              {
+                                  "minute": "39", 
+                                  "player": "Robbie Lovejoy", 
+                                  "team": "19", 
+                                  "type": "goal"
+                              }
                             ]
                         }, 
                         "stadium": "Macpherson Stadium", 
@@ -376,14 +404,16 @@
                     }, 
                     {
                         "id": "10", 
-                        "awayID": "39", 
+                        "awayID": "regalsFC", 
+                        "awayName": "Regals FC",
                         "awayScore": "0", 
                         "date": "6/14/2011", 
-                        "homeID": "8", 
+                        "homeID": "charlestonBattery",
+                        "homeName": "Charleston Battery", 
                         "homeScore": "2", 
                         "location": "Charleston, SC", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "48", 
                                     "player": "Darren Toby", 
@@ -395,7 +425,9 @@
                                     "player": "Robbie Lovejoy", 
                                     "team": "8", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "away": [
                                 {
                                     "minute": "78", 
                                     "player": "Diego Martins", 
@@ -409,14 +441,16 @@
                     }, 
                     {
                         "id": "11", 
-                        "awayID": "33", 
+                        "awayID": "ariaSC", 
+                        "awayName": "ASC New Stars",
                         "awayScore": "0", 
                         "date": "6/14/2011", 
-                        "homeID": "14", 
+                        "homeID": "orlandoCity",
+                        "homeName" : "Orlando City SC", 
                         "homeScore": "4", 
                         "location": "Winter Park, FL", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "28", 
                                     "player": "Devorn Jorsling", 
@@ -448,15 +482,17 @@
                     }, 
                     {
                         "id": "12", 
-                        "awayID": "23", 
+                        "awayID": "kitsapPumas",
+                        "awayName": "Kitsap Pumas", 
                         "awayScore": "0", 
                         "date": "6/14/2011", 
-                        "extraTime": "Kitsap advances on penalties 65", 
-                        "homeID": "22", 
+                        "extraTime": "Kitsap wins on penalties 65", 
+                        "homeID": "elPasoPatriots", 
+                        "homeName": "Chivas El Paso Patriots",
                         "homeScore": "0", 
                         "location": "El Paso, TX", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "SO", 
                                     "player": "Enrique Cervantes", 
@@ -486,7 +522,9 @@
                                     "player": "Diego Briseno", 
                                     "team": "22", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "away": [
                                 {
                                     "minute": "SO", 
                                     "player": "Steve Mohn", 
@@ -530,14 +568,16 @@
                     }, 
                     {
                         "id": "13", 
-                        "awayID": "35", 
+                        "awayID": "dv8",
+                        "awayName": "DV8 Defenders", 
                         "awayScore": "0", 
                         "date": "6/14/2011", 
-                        "homeID": "25", 
+                        "homeID": "coloradoFoxes",
+                        "homeName": "Real Colorado Foxes", 
                         "homeScore": "5", 
                         "location": "Highlands Ranch, CO", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "33", 
                                     "player": "Taylor Kemp", 
@@ -575,20 +615,24 @@
                     }, 
                     {
                         "id": "14", 
-                        "awayID": "34", 
+                        "awayID": "doxaItalia", 
+                        "awayName": "Dxa Italia",
                         "awayScore": "1", 
                         "date": "6/14/2011", 
-                        "homeID": "26", 
+                        "homeID": "venturaCounty", 
+                        "homeName": "Ventura County Fusion", 
                         "homeScore": "3", 
                         "location": "Ventura, CA", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "5", 
                                     "player": "Bryan Byrne", 
                                     "team": "34", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "home": [
                                 {
                                     "minute": "33", 
                                     "player": "Andy Rose", 
@@ -614,14 +658,16 @@
                     }, 
                     {
                         "id": "15", 
-                        "awayID": "30", 
+                        "awayID": "hollywoodFC", 
+                        "awayName": "Hollywood United",
                         "awayScore": "1", 
                         "date": "6/14/2011", 
-                        "homeID": "13", 
+                        "homeID": "laBlues", 
+                        "homeName": "Los Angeles Blues",
                         "homeScore": "3", 
                         "location": "Riverside, CA", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "19", 
                                     "player": "Leo Griffin", 
@@ -641,18 +687,6 @@
                                     "type": "goal"
                                 }, 
                                 {
-                                    "minute": "67", 
-                                    "player": "Carlos Morales", 
-                                    "team": "30", 
-                                    "type": "goal"
-                                }, 
-                                {
-                                    "minute": "86", 
-                                    "player": "Carlos Morales", 
-                                    "team": "30", 
-                                    "type": "red"
-                                }, 
-                                {
                                     "minute": "89", 
                                     "player": "Josh Tudela", 
                                     "team": "13", 
@@ -664,6 +698,20 @@
                                     "team": "13", 
                                     "type": "goal"
                                 }
+                            ],
+                            "away": [
+                              {
+                                  "minute": "67", 
+                                  "player": "Carlos Morales", 
+                                  "team": "30", 
+                                  "type": "goal"
+                              }, 
+                              {
+                                  "minute": "86", 
+                                  "player": "Carlos Morales", 
+                                  "team": "30", 
+                                  "type": "red"
+                              }                
                             ]
                         }, 
                         "stadium": "Riverside Community College", 
