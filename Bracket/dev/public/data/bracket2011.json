@@ -725,48 +725,40 @@
                 "game": [
                     {
                         "id": "16", 
-                        "awayID": "11", 
+                        "awayID": "FCNY",
+                        "awayName": "FC New York",
                         "awayScore": "0", 
                         "date": "6/21/2011", 
-                        "extraTime": "FCNY advances on penalties 65", 
-                        "homeID": "37", 
+                        "extraTime": "FCNY advances on penalties 6-5", 
+                        "homeID": "PancyprianFreedom", 
                         "homeScore": "0", 
+                        "homeName" : "NY Pancyprian Freedoms",
                         "location": "Queens, NY", 
                         "scoreSheet": {
-                            "event": [
-                                {
-                                    "minute": "89", 
-                                    "player": "Tony Donatelli (PK)", 
-                                    "team": "17", 
-                                    "type": "goal"
-                                }, 
-                                {
-                                    "minute": "90", 
-                                    "player": "Sainey Toray", 
-                                    "team": "12", 
-                                    "type": "red"
-                                }
-                            ]
                         }, 
                         "stadium": "Belson Stadium, St. Johns Univeristy", 
                         "time": "7:30 pm ET"
                     }, 
                     {
                         "id": "17", 
-                        "awayID": "17", 
+                        "awayID": "rochesterRhinos",
+                        "awayName": "Rochester Rhinos", 
                         "awayScore": "1", 
                         "date": "6/21/2011", 
-                        "homeID": "12", 
+                        "homeID": "harrisburgCityIslanders",
+                        "homeName" : "Harrisburg City Islanders", 
                         "homeScore": "0", 
                         "location": "Harrisburg, PA", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "89", 
                                     "player": "Tony Donatelli (PK)", 
                                     "team": "17", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "home": [
                                 {
                                     "minute": "90", 
                                     "player": "Sainey Toray", 
@@ -780,24 +772,20 @@
                     }, 
                     {
                         "id": "18", 
-                        "awayID": "15", 
+                        "awayID": "pittsburghRiverhounds", 
+                        "awayName": "Pittsburgh Riverhounds",
                         "awayScore": "1", 
                         "date": "6/21/2011", 
-                        "homeID": "16", 
+                        "homeID": "richmondKickers",
+                        "homeName" : "Richmond Kickers", 
                         "homeScore": "4", 
                         "location": "Richmond, VA", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "17", 
                                     "player": "David Bulow", 
                                     "team": "16", 
-                                    "type": "goal"
-                                }, 
-                                {
-                                    "minute": "30", 
-                                    "player": "Chad Severs", 
-                                    "team": "15", 
                                     "type": "goal"
                                 }, 
                                 {
@@ -818,6 +806,14 @@
                                     "team": "16", 
                                     "type": "goal"
                                 }
+                            ],
+                            "away":[
+                            {
+                                "minute": "30", 
+                                "player": "Chad Severs", 
+                                "team": "15", 
+                                "type": "goal"
+                            }
                             ]
                         }, 
                         "stadium": "Richmmond City Stadium", 
@@ -825,15 +821,17 @@
                     }, 
                     {
                         "id": "19", 
-                        "awayID": "21", 
+                        "awayID": "chicagoFire",
+                        "awayName": "Chicago Fire PDL",
                         "awayScore": "2", 
                         "date": "6/21/2011", 
                         "extraTime": "June 22", 
-                        "homeID": "31", 
+                        "homeID": "madison56",
+                        "homeName" : "Madison 56ers", 
                         "homeScore": "0", 
                         "location": "Madison, WI", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "66", 
                                     "player": "Andrew Ribeiro", 
@@ -853,15 +851,17 @@
                     }, 
                     {
                         "id": "20", 
-                        "awayID": "9", 
+                        "awayID": "charlotteEagles", 
+                        "awayName": "Charlotte Eagles",
                         "awayScore": "2", 
                         "date": "6/21/2011", 
                         "extraTime": "After Extra Time", 
-                        "homeID": "18", 
+                        "homeID": "wilmingtonHammerHeads",
+                        "homeName" : "Wilmington Hammerheads", 
                         "homeScore": "3", 
                         "location": "Wilmington, NC", 
                         "scoreSheet": {
-                            "event": [
+                            "away": [
                                 {
                                     "minute": "44", 
                                     "player": "Weston Roberts", 
@@ -873,7 +873,9 @@
                                     "player": "Darren Toby", 
                                     "team": "9", 
                                     "type": "goal"
-                                }, 
+                                }
+                              ],
+                              "home": [ 
                                 {
                                     "minute": "63", 
                                     "player": "Andryi Budnyy", 
@@ -899,14 +901,16 @@
                     }, 
                     {
                         "id": "21", 
-                        "awayID": "14", 
+                        "awayID": "orlandoCity", 
+                        "awayName": "Orlando City SC",
                         "awayScore": "1", 
                         "date": "6/21/2011", 
-                        "homeID": "8", 
+                        "homeID": "charlestonBattery",
+                        "homeName" : "Charleston Battery", 
                         "homeScore": "0", 
                         "location": "Charleston, SC", 
                         "scoreSheet": {
-                            "event": {
+                            "away": {
                                 "minute": "39", 
                                 "player": "Rob Valentino", 
                                 "team": "14", 
@@ -918,14 +922,16 @@
                     }, 
                     {
                         "id": "22", 
-                        "awayID": "25", 
+                        "awayID": "coloradoFoxes", 
+                        "awayName": "Real Colorado Foxes",
                         "awayScore": "1", 
                         "date": "6/21/2011", 
-                        "homeID": "23", 
+                        "homeID": "kitsapPumas", 
+                        "homeName" : "Kitsap Pumas",
                         "homeScore": "3", 
                         "location": "Bremerton, WA", 
                         "scoreSheet": {
-                            "event": [
+                            "home": [
                                 {
                                     "minute": "17", 
                                     "player": "Cameron Hepple", 
@@ -957,14 +963,16 @@
                     }, 
                     {
                         "id": "23", 
-                        "awayID": "13", 
+                        "awayID": "laBlues",
+                        "awayName": "Los Angeles Blues", 
                         "awayScore": "1", 
                         "date": "6/21/2011", 
-                        "homeID": "26", 
+                        "homeID": "venturaCounty",
+                        "homeName" : "Ventura County Fusion", 
                         "homeScore": "0", 
                         "location": "Ventura, CA", 
                         "scoreSheet": {
-                            "event": {
+                            "away": {
                                 "minute": "45", 
                                 "player": "Israel Sesay", 
                                 "team": "13", 
@@ -983,10 +991,12 @@
                     {
                         "id": "24", 
                         "awayID": "11", 
+                        "awayName": "FC New York",
                         "awayScore": "1", 
                         "date": "6/28/2011", 
                         "homeID": "5", 
-                        "homeScore": "1", 
+                        "homeName" : "New York Red Bulls",
+                        "homeScore": "2", 
                         "location": "Harrison, NJ", 
                         "stadium": "Red Bull Arena", 
                         "time": "8:00 pm ET"
@@ -994,10 +1004,12 @@
                     {
                         "id": "25", 
                         "awayID": "0", 
+                        "awayName": "Chicago Fire",
                         "awayScore": "1", 
                         "date": "6/28/2011", 
                         "homeID": "17", 
-                        "homeScore": "1", 
+                        "homeName" : "Rochester Rhinos",
+                        "homeScore": "0", 
                         "location": "Rochester, NY", 
                         "stadium": "Sahlen's Stadium", 
                         "time": "7:35 pm ET"
@@ -1005,9 +1017,11 @@
                     {
                         "id": "26", 
                         "awayID": "16", 
-                        "awayScore": "1", 
+                        "awayName": "Richmond Kickers",
+                        "awayScore": "2", 
                         "date": "6/28/2011", 
                         "homeID": "1", 
+                        "homeName" : "Columbus Crew",
                         "homeScore": "1", 
                         "location": "Columbus, OH", 
                         "stadium": "Columbus Crew Stadium", 
@@ -1016,10 +1030,12 @@
                     {
                         "id": "27", 
                         "awayID": "21", 
-                        "awayScore": "1", 
+                        "awayName": "Chicago Fire PDL",
+                        "awayScore": "0", 
                         "date": "6/28/2011", 
                         "homeID": "3", 
-                        "homeScore": "1", 
+                        "homeName" : "Sporting Kansas City",
+                        "homeScore": "3", 
                         "location": "Kansas City, KS", 
                         "stadium": "LIVESTRONG Sporting Park", 
                         "time": "7:30 pm CT"
@@ -1027,10 +1043,12 @@
                     {
                         "id": "28", 
                         "awayID": "18", 
-                        "awayScore": "1", 
+                        "awayName": "Wilmington Hammerheads",
+                        "awayScore": "0", 
                         "date": "6/28/2011", 
                         "homeID": "6", 
-                        "homeScore": "1", 
+                        "homeName" : "Real Salt Lake",
+                        "homeScore": "2", 
                         "location": "Sandy, UT", 
                         "stadium": "Rio Tinto Stadium", 
                         "time": "7:00 pm MT"
@@ -1038,10 +1056,12 @@
                     {
                         "id": "29", 
                         "awayID": "14", 
-                        "awayScore": "1", 
+                        "awayName": "Orlando City SC",
+                        "awayScore": "2", 
                         "date": "6/28/2011", 
-                        "homeID": "2", 
-                        "homeScore": "1", 
+                        "homeID": "2",
+                        "homeName" : "FC Dallas", 
+                        "homeScore": "3", 
                         "location": "Frisco, TX", 
                         "stadium": "Pizza Hut Park", 
                         "time": "8:00 pm CT"
@@ -1049,21 +1069,25 @@
                     {
                         "id": "30", 
                         "awayID": "23", 
+                        "awayName": "Kitsap Pumas",
                         "awayScore": "1", 
                         "date": "6/28/2011", 
-                        "homeID": "7", 
-                        "homeScore": "1", 
+                        "homeID": "7",
+                        "homeName" : "Seattle Sounders FC", 
+                        "homeScore": "2", 
                         "location": "Tukwila, WA", 
                         "stadium": "Starfire Sports Stadium", 
                         "time": "7:00 pm PT"
                     }, 
                     {
                         "id": "31", 
-                        "awayID": "13", 
+                        "awayID": "13",
+                        "awayName": "Los Angeles Blues",
                         "awayScore": "1", 
                         "date": "6/28/2011", 
                         "homeID": "4", 
-                        "homeScore": "1", 
+                        "homeName" : "Los Angeles Galaxy",
+                        "homeScore": "2", 
                         "location": "Fullerton, CA", 
                         "stadium": "Titan Stadium", 
                         "time": "7:30 pm PT"
@@ -1076,31 +1100,39 @@
                 "game": [
                     {
                         "id": "32", 
-                        "awayID": "1", 
-                        "awayScore": "1", 
+                        "awayID": "1",
+                        "awayName": "New York Red Bulls", 
+                        "awayScore": "0", 
                         "homeID": "1", 
-                        "homeScore": "1"
+                        "homeName" : "Chicago Fire",
+                        "homeScore": "4"
                     }, 
                     {
                         "id": "33", 
                         "awayID": "1", 
-                        "awayScore": "1", 
+                        "awayName": "Richmond Kickers",
+                        "awayScore": "2", 
                         "homeID": "1", 
-                        "homeScore": "1"
+                        "homeName" : "Sporting Kansas City",
+                        "homeScore": "0"
                     }, 
                     {
                         "id": "34", 
                         "awayID": "1", 
-                        "awayScore": "1", 
+                        "awayName": "Real Salt Lake",
+                        "awayScore": "0", 
                         "homeID": "1", 
-                        "homeScore": "1"
+                        "homeName" : "FC Dallas",
+                        "homeScore": "2"
                     }, 
                     {
                         "id": "35", 
                         "awayID": "1", 
+                        "awayName": "Los Angeles Galaxy",
                         "awayScore": "1", 
                         "homeID": "1", 
-                        "homeScore": "1"
+                        "homeName" : "Seattle Sounders FC",
+                        "homeScore": "3"
                     }
                 ]
             }, 
@@ -1111,15 +1143,19 @@
                     {
                         "id": "36", 
                         "awayID": "1", 
+                        "awayName": "Richmond Kickers",
                         "awayScore": "1", 
-                        "homeID": "1", 
-                        "homeScore": "1"
+                        "homeID": "1",
+                        "homeName" : "Chicago Fire", 
+                        "homeScore": "2"
                     }, 
                     {
                         "id": "37", 
-                        "awayID": "1", 
-                        "awayScore": "1", 
+                        "awayID": "1",
+                        "awayName": "FC Dallas", 
+                        "awayScore": "0", 
                         "homeID": "1", 
+                        "homeName" : "Seattle Sounders FC",
                         "homeScore": "1"
                     }
                 ]
@@ -1129,10 +1165,12 @@
                 "name": "Final", 
                 "game": {
                     "id": "38", 
-                    "awayID": "1", 
-                    "awayScore": "1", 
-                    "homeID": "1", 
-                    "homeScore": "1"
+                    "awayID": "chicagoFire", 
+                    "awayName": "Chicago Fire",
+                    "awayScore": "0", 
+                    "homeID": "seattleMLS",
+                    "homeName" : "Seattle Sounders FC", 
+                    "homeScore": "2"
                 }
             }
         ], 
