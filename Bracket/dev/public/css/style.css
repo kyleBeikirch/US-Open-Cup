@@ -8,6 +8,13 @@ body {
   font-weight: normal;
   font-style: normal; }
 
+@font-face {
+  font-family: "BullpenHvItalic";
+  src: url("../fonts/bullpen_hv_it-webfont.eot");
+  src: url("../fonts/bullpen_hv_it-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/bullpen_hv_it-webfont.woff") format("woff"), url("../fonts/bullpen_hv_it-webfont.ttf") format("truetype"), url("../fonts/bullpen_hv_it-webfont.svg#BullpenHvItalic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
 #teamSheet {
   margin: 5px;
   position: absolute;
@@ -53,6 +60,9 @@ body {
   font-size: 48px;
   font-family: "DeftoneStylusRegular";
   color: #990000; }
+  #bracketTitle #bracketYear {
+    font-family: "BullpenHvItalic";
+    font-size: 40px; }
 
 .roundHolder {
   width: 120px;
