@@ -74,5 +74,9 @@ $(document).ready ->
       #If no teams from that league are in it,then hide them
       $(".leagueHolder").each (i, element) ->
         $(element).remove() if $(element).children().length is 1
+        if $(element).children().length is 2
+          $(element).css "float", "right" 
+          $(element).css "margin-right", "70px"
+          $(element).css "margin-top", "-50px" 
     $('#Overlay-close').click ->
       $('#Overlay').fadeOut()

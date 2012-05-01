@@ -91,7 +91,12 @@
           }
         });
         return $(".leagueHolder").each(function(i, element) {
-          if ($(element).children().length === 1) return $(element).remove();
+          if ($(element).children().length === 1) $(element).remove();
+          if ($(element).children().length === 2) {
+            $(element).css("float", "right");
+            $(element).css("margin-right", "70px");
+            return $(element).css("margin-top", "-50px");
+          }
         });
       });
       return $('#Overlay-close').click(function() {
