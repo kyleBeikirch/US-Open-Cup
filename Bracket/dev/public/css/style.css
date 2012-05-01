@@ -56,13 +56,17 @@ body {
   z-index: 50; }
 
 #bracketTitle {
-  text-align: center;
   font-size: 48px;
   font-family: "DeftoneStylusRegular";
-  color: #990000; }
+  color: #990000;
+  text-shadow: 1px 1px 0px white, 2px 2px 1px black; }
   #bracketTitle #bracketYear {
     font-family: "BullpenHvItalic";
     font-size: 40px; }
+  #bracketTitle img {
+    position: relative;
+    top: 15px;
+    left: 15px; }
 
 .roundHolder {
   width: 120px;
