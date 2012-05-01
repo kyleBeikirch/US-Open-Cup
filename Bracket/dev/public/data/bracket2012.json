@@ -1,0 +1,1246 @@
+{
+    "bracket": {
+        "round": [
+            {
+                "date": "May 15", 
+                "name": "1st Round", 
+                "game": [
+                    {
+                        "id": "0", 
+                        "awayName": "Brooklyn Italians",
+                        "awayID": "brooklynItalians",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "Portland Phoenix",
+                        "homeID"  : "portlandPhoenix", 
+                        "homeScore": "", 
+                        "location": "Portland, Maine", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Memorial Field, Deering High School", 
+                        "time": "8:00 p.m. ET"
+                    },
+                    {
+                        "id": "1", 
+                        "awayName": "Greek Americans",
+                        "awayID": "greekAmerican",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "Reading United AC",
+                        "homeID"  : "readingAC", 
+                        "homeScore": "", 
+                        "location": "Reading, Pennsylvania", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Shirk Stadium, Albright College", 
+                        "time": "7:00 p.m. ET"
+                    },
+                    {
+                        "id": "2", 
+                        "awayName": "Long Island Rough Riders ",
+                        "awayID": "roughRiders",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "FC Sonic",
+                        "homeID"  : "fcSonic", 
+                        "homeScore": "", 
+                        "location": "Bethlehem, Pennsylvania", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Ulrich Sports Complex, Lehigh University", 
+                        "time": "7:05 p.m. ET"
+                    },
+                    {
+                        "id": "3", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:30 p.m. ET"
+                    },
+                    {
+                        "id": "4", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:30 p.m. ET"
+                    },
+                    {
+                        "id": "5", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:00 p.m. ET"
+                    },
+                    {
+                        "id": "6", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:30 p.m. ET"
+                    },
+                    {
+                        "id": "7", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "6:00 p.m. CT"
+                    },
+                    {
+                        "id": "8", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:00 p.m. CT"
+                    },
+                    {
+                        "id": "9", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:00 p.m. MT"
+                    },
+                    {
+                        "id": "10", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "8:15 p.m. CT"
+                    },
+                    {
+                        "id": "11", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "8:00 p.m. MT"
+                    },
+                    {
+                        "id": "12", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": "7:00 p.m. PT"
+                    },
+                    {
+                        "id": "13", 
+                        "awayName": "Ventura County Fusion",
+                        "awayID": "venturaCounty",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "Fullerton Rangers",
+                        "homeID"  : "fullertonRangers", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "14", 
+                        "awayName": "",
+                        "awayName": "USASA Region IV",
+                        "awayID": "usasa4", 
+                        "date": "5/15/2012", 
+                        "homeName": "Portland Timbers U-23s ",
+                        "homeID"  : "portlandTimbers", 
+                        "homeScore": "", 
+                        "location": "Portland, Oregon", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Jeld-Wen Field", 
+                        "time": "7:10 p.m. PT"
+                    },
+                    {
+                        "id": "15", 
+                        "awayName": "USASA Region IV",
+                        "awayID": "usasa4",
+                        "awayScore": "", 
+                        "date": "5/15/2012", 
+                        "homeName": "Kitsap Pumas",
+                        "homeID"  : "kitsapPumas", 
+                        "homeScore": "", 
+                        "location": "Bremerton, Washington", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Bremerton Memorial Stadium", 
+                        "time": "7:15 p.m. PT"
+                    } 
+                ]
+            },
+            {
+                "date": "May 22", 
+                "name": "2nd Round", 
+                "game": [
+                    {
+                        "id": "16", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "17", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "18", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "19", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "20", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "21", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "22", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "23", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "24", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "25", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "26", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "27", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "28", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "29", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "30", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "31", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "USL Pro or NASL",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "May 29", 
+                "name": "3rd Round", 
+                "game": [
+                    {
+                        "id": "32", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "33", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "34", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "35", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "36", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "37", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "38", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "39", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "40", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "41", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "42", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "43", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "44", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "45", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "46", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "47", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "MLS",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "June 5", 
+                "name": "4th Round", 
+                "game": [
+                    {
+                        "id": "48", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "49", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "50", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "51", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "52", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "53", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "54", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "55", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "June 26", 
+                "name": "Quarterfinals", 
+                "game": [
+                    {
+                        "id": "56", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "57", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "58", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "59", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "July 10", 
+                "name": "Semifinals", 
+                "game": [
+                    {
+                        "id": "60", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "61", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "August 7 or 8", 
+                "name": "Final", 
+                "game": [
+                    {
+                        "id": "62", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/14/2011", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            }            
+        ], 
+        "year": "Lamar Hunt US Open Cup"
+    }
+}

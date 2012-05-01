@@ -990,40 +990,97 @@
                 "game": [
                     {
                         "id": "24", 
-                        "awayID": "11", 
+                        "awayID": "FCNY", 
                         "awayName": "FC New York",
                         "awayScore": "1", 
                         "date": "6/28/2011", 
-                        "homeID": "5", 
+                        "homeID": "nyRedBulls", 
                         "homeName" : "New York Red Bulls",
                         "homeScore": "2", 
-                        "location": "Harrison, NJ", 
+                        "location": "Harrison, NJ",
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "56",
+                              "player": "Owen Morrison",
+                              "type": "goal"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "58",
+                              "player": "Corey Hertzog",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "65",
+                              "player": "John Rooney",
+                              "type": "goal"
+                            }
+                          ]
+                        },
                         "stadium": "Red Bull Arena", 
                         "time": "8:00 pm ET"
                     }, 
                     {
                         "id": "25", 
-                        "awayID": "0", 
+                        "awayID": "chicagoFire", 
                         "awayName": "Chicago Fire",
                         "awayScore": "1", 
                         "date": "6/28/2011", 
-                        "homeID": "17", 
+                        "homeID": "rochesterRhinos", 
                         "homeName" : "Rochester Rhinos",
                         "homeScore": "0", 
                         "location": "Rochester, NY", 
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "37",
+                              "player": "Diego Chaves",
+                              "type": "goal"
+                            }
+                          ]
+                        },
                         "stadium": "Sahlen's Stadium", 
                         "time": "7:35 pm ET"
                     }, 
                     {
                         "id": "26", 
-                        "awayID": "16", 
+                        "awayID": "richmondKickers", 
                         "awayName": "Richmond Kickers",
                         "awayScore": "2", 
                         "date": "6/28/2011", 
-                        "homeID": "1", 
+                        "homeID": "columbusCrew", 
                         "homeName" : "Columbus Crew",
                         "homeScore": "1", 
                         "location": "Columbus, OH", 
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "37",
+                              "player": "Cole Grossman",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "67",
+                              "player": "Danny O'Rourke",
+                              "type": "red"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "20",
+                              "player": "Nozomi Hiroyama",
+                              "type": "goal"
+                            }, 
+                            {
+                              "minute" : "85",
+                              "player": "Matthew Delicate",
+                              "type": "goal"
+                            }
+                          ]
+                        },
+                        
                         "stadium": "Columbus Crew Stadium", 
                         "time": "7:30 pm ET"
                     }, 
@@ -1036,7 +1093,29 @@
                         "homeID": "3", 
                         "homeName" : "Sporting Kansas City",
                         "homeScore": "3", 
-                        "location": "Kansas City, KS", 
+                        "location": "Kansas City, KS",
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ]
+                        },
+                         
                         "stadium": "LIVESTRONG Sporting Park", 
                         "time": "7:30 pm CT"
                     }, 
@@ -1050,6 +1129,28 @@
                         "homeName" : "Real Salt Lake",
                         "homeScore": "2", 
                         "location": "Sandy, UT", 
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ]
+                        },
+                        
                         "stadium": "Rio Tinto Stadium", 
                         "time": "7:00 pm MT"
                     }, 
@@ -1063,6 +1164,28 @@
                         "homeName" : "FC Dallas", 
                         "homeScore": "3", 
                         "location": "Frisco, TX", 
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ]
+                        },
+                        
                         "stadium": "Pizza Hut Park", 
                         "time": "8:00 pm CT"
                     }, 
@@ -1075,7 +1198,29 @@
                         "homeID": "7",
                         "homeName" : "Seattle Sounders FC", 
                         "homeScore": "2", 
-                        "location": "Tukwila, WA", 
+                        "location": "Tukwila, WA",
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ]
+                        },
+                         
                         "stadium": "Starfire Sports Stadium", 
                         "time": "7:00 pm PT"
                     }, 
@@ -1088,7 +1233,29 @@
                         "homeID": "4", 
                         "homeName" : "Los Angeles Galaxy",
                         "homeScore": "2", 
-                        "location": "Fullerton, CA", 
+                        "location": "Fullerton, CA",
+                        "scoreSheet" : {
+                          "away": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ],
+                          "home": [
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            },
+                            {
+                              "minute" : "",
+                              "player": "",
+                              "type": "goal"
+                            }
+                          ]
+                        },
+                         
                         "stadium": "Titan Stadium", 
                         "time": "7:30 pm PT"
                     }

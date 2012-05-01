@@ -45,7 +45,7 @@ arrangeGames = ->
           roundData = gameData[round].game
           for game of roundData
             overlayData = roundData[game]  if roundData[game].id is gameID
-        showOverlay(overlayData)     
+        showOverlay(overlayData) if overlayData.homeScore is not ""   
 
 $(document).ready ->
   currentYear = getParameterByName("year")
@@ -67,6 +67,12 @@ $(document).ready ->
       
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
+        # When eliminated, cross out on team sheet
         $(element).css "text-decoration", "line-through"  if $(element).attr("data-lastMan").indexOf(currentYear) is -1
+        #Hide if team is not particpating this year
+        $(element).remove() if $(element).attr("data-participant").indexOf(currentYear.toString()) is -1
+      #If no teams from that league are in it,then hide them
+      $(".leagueHolder").each (i, element) ->
+        $(element).remove() if $(element).children().length is 1
     $('#Overlay-close').click ->
       $('#Overlay').fadeOut()

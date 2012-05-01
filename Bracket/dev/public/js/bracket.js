@@ -62,7 +62,7 @@
               if (roundData[game].id === gameID) overlayData = roundData[game];
             }
           }
-          return showOverlay(overlayData);
+          if (overlayData.homeScore === !"") return showOverlay(overlayData);
         });
       });
     });
@@ -82,10 +82,16 @@
           teamData: data
         }));
         $('#teamSheet').css('top', bracketHeight + 120);
-        return $(".leagueTeam").each(function(i, element) {
+        $(".leagueTeam").each(function(i, element) {
           if ($(element).attr("data-lastMan").indexOf(currentYear) === -1) {
-            return $(element).css("text-decoration", "line-through");
+            $(element).css("text-decoration", "line-through");
           }
+          if ($(element).attr("data-participant").indexOf(currentYear.toString()) === -1) {
+            return $(element).remove();
+          }
+        });
+        return $(".leagueHolder").each(function(i, element) {
+          if ($(element).children().length === 1) return $(element).remove();
         });
       });
       return $('#Overlay-close').click(function() {

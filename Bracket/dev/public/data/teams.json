@@ -8,129 +8,227 @@
                   {
                       "id": "chicagoFire",
                       "name": "Chicago Fire",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""
+                  },
+                  {
+                      "id": "chivasUSA",
+                      "name": "Chivas USA",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
+                      "id": "coloradoRapids",
+                      "name": "Colorado Rapids",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
                   },
                   {
                       "id": "columbusCrew",
                       "name": "Columbus Crew",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
+                  {
+                      "id": "dcUnited",
+                      "name": "DC United",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },   
                   {
                       "id": "fcDallas",
                       "name": "FC Dallas",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
-                      "id": "sportingKC",
-                      "name": "Sporting Kansas City",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "id": "houstonDynamo",
+                      "name": "Houston Dynamo",
+                      "lastman": "2012",
+                      "participant": "2012",
                       "champion": ""                      
-                  },
+                  },   
                   {
                       "id": "laGalaxy",
                       "name": "Los Angeles Galaxy",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "id": "neRevolution",
+                      "name": "New England Revolution",
+                      "lastman": "2012",
+                      "participant": "2012",
                       "champion": ""                      
                   },
                   {
                       "id": "nyRedBulls",
                       "name": "New York Red Bulls",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "id": "philadelphiaUnion",
+                      "name": "Philadelphia Union",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "id": "portlandTimbers",
+                      "name": "Portland Timbers",
+                      "lastman": "2012",
+                      "participant": "2012",
                       "champion": ""                      
                   },
                   {
                       "id": "realSaltLake",
                       "name": "Real Salt Lake",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "id": "sjEarthqukes",
+                      "name": "San Jose Earthquakes",
+                      "lastman": "2012",
+                      "participant": "2012",
                       "champion": ""                      
                   },
                   {
                       "id": "seattleSoundersMLS",
                       "name": "Seattle Sounders FC",
-                      "lastman": "2011",
-                      "paticipant": "2011",
+                      "lastman": "2011,2012",
+                      "participant": "2011,2012",
                       "champion": "2011"                   
-                  }
+                  },
+                  {
+                      "id": "sportingKC",
+                      "name": "Sporting Kansas City",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
+                      "champion": ""                      
+                  }                  
                 ]
             },
+            {
+                "name": "North American Soccer League", 
+                "abbreviation": "NASL", 
+                "teams": [
+                  {
+                      "name": "Atlanta Silverbacks",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "name": "Carolina RailHawks",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "name": "Fort Lauderdale Strikers",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "name": "Minnesota Stars FC",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "name": "San Antonion Scorpions",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  },
+                  {
+                      "name": "Tampa Bay Rowdies",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                      
+                  }
+                ]
+            },            
             {
                 "name": "United Soccer Leagues Pro", 
                 "abbreviation": "USL Pro", 
                 "teams": [
                   {
                       "name": "Charleston Battery",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Charlotte Eagles",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Dayton Dutch Lions",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "FC New York",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""                      
                   },
                   {
                       "name": "Harrisburg City Islanders",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Los Angeles Blues",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                     
                   },
                   {
                       "name": "Orlando City SC",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Pittsburgh Riverhounds",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011, 2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Richmond Kickers",
-                      "lastman": "2011",
-                      "paticipant": "2011",
+                      "lastman": "2011,2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Rochester Rhinos",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                      
                   },
                   {
                       "name": "Wilmington Hammerheads",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""
                   }
                   
@@ -142,56 +240,111 @@
                 "teams": [
                   {
                       "name": "Carolina Dynamo",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""                   
                   },
                   {
                       "name": "Central Florida Kraze",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""                  
                   },
                   {
                       "name": "Chicago Fire PDL",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""
                   },
                   {
-                      "name": "Chivas El Paso Patriots",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "name": "Des Moines Menace",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""                  
+                  }, 
+                  {
+                      "name": "El Paso Patriots",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": "" 
                   },
                   {
+                      "name": "Fresno Fuego",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },              
+                  {
                       "name": "Kitsap Pumas",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""
                   },
                   {
+                      "name": "Laredo Heat",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Long Island RoughRiders",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Michigan Bucks",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Mississippi Brilla",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "MPS Portland Phoenix",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Orlando City U23s",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Portland Timbers U23s",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  
+                  {
                       "name": "Reading United AC",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": "" 
                   },
                   {
                       "name": "Real Colorado Foxes",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": ""
                   },
                   {
                       "name": "Ventura County Fusion",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": "" 
                   },
                   {
                       "name": "Western Mass Pioneers",
                       "lastman": "2011",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""
                   }
                 ]
@@ -202,28 +355,58 @@
                 "teams": [
                   {
                       "name": "Brooklyn Italians",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011,2012",
                       "champion": "" 
                   },
                   {
                       "name": "Chattanooga FC",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": "" 
                   },
                   {
+                      "name": "FC Sonic",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Fullerton Rangers",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Georgia Revolution",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  },             
+                  {
                       "name": "Hollywood United",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
+                      "champion": "" 
+                  },
+                  {
+                      "name": "Jacksonville United",
+                      "lastman": "2012",
+                      "participant": "2012",
                       "champion": "" 
                   },
                   {
                       "name": "Madison 56ers",
                       "lastman": "2011",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": "" 
-                  }                 
+                  },
+                  {
+                      "name": "Milwaukee Bavarians",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": "" 
+                  }                
                 ]
             },
             {
@@ -233,54 +416,113 @@
                   {
                       "name": "AAC Eagles",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": "" 
                   },
                   {
+                      "name": "Aegean Hawks",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
                       "name": "ASC New Stars",
-                      "lastman": "",
-                      "paticipant": "2011",
+                      "lastman": "2012",
+                      "participant": "2011, 2012",
                       "champion": "" 
+                  },
+                  {
+                      "name": "Croatian Eagles",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
                   },
                   {
                       "name": "Doxa Italia",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""
-                  },
+                  }, 
                   {
                       "name": "DV8 Defenders",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""
                   },
                   {
                       "name": "Iowa Menace",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
+                      "champion": ""
+                  },
+                  {
+                      "name": "Jersey Shore Boca",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
+                      "name": "KC Athletics",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
+                      "name": "North Texas Rayados",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
+                      "name": "NY Greek American Atlas",
+                      "lastman": "2012",
+                      "participant": "2012",
                       "champion": ""
                   },
                   {
                       "name": "NY Pancyprian Freedoms",
                       "lastman": "2011",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""
                   },
                   {
                       "name": "Phoenix SC",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": "" 
                   },
                   {
                       "name": "Regals FC",
                       "lastman": "",
-                      "paticipant": "2011",
+                      "participant": "2011",
                       "champion": ""
-                  }                 
+                  },
+                  {
+                      "name": "Region IV",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
+                      "name": "Region IV",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  }              
+                ]
+            },
+            {
+                "name": "US Club Soccer", 
+                "abbreviation": "US Club Soccer", 
+                "teams": [
+                  {
+                      "name": "Stanislaus Utd Turlock Exp",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  }              
                 ]
             }
- 
         ]
     }
 }
