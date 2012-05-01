@@ -45,7 +45,7 @@ arrangeGames = ->
           roundData = gameData[round].game
           for game of roundData
             overlayData = roundData[game]  if roundData[game].id is gameID
-        showOverlay(overlayData) if overlayData.homeScore is not ""   
+        showOverlay(overlayData) if overlayData.awayName isnt ""   
 
 $(document).ready ->
   currentYear = getParameterByName("year")

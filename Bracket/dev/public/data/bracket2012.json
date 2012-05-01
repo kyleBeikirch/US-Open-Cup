@@ -64,192 +64,192 @@
                     },
                     {
                         "id": "3", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Jersey Shore Boca",
+                        "awayID": "jerseyShore",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Michigan Bucks",
+                        "homeID"  : "michiganBucks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Pontiac, Michigan", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Ultimate Soccer", 
                         "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "4", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Carolina Dynamo",
+                        "awayID": "carolinaDynamo",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Aegean Hawks",
+                        "homeID"  : "aegeanHawks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Boyds, Maryland", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Maryland Soccerplex Stadium", 
                         "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "5", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Jacksonville United",
+                        "awayID": "jacksonvilleUnited",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Orlando City U23",
+                        "homeID"  : "orlandoCity", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Sanford, Florida", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Seminole Soccer Complex", 
                         "time": "7:00 p.m. ET"
                     },
                     {
                         "id": "6", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Mississippi Brilla",
+                        "awayID": "mississippiBrilla",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Georgia Revolution",
+                        "homeID"  : "georgiaRevolution", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Conyers, Georgia", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "RYSA Soccerplex", 
                         "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "7", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Croatian Eagles",
+                        "awayID": "croatianEagles",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Chicago Fire PDL",
+                        "homeID"  : "chicagoFire", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Bridgeview, Illinois", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Toyota Park Practice Field", 
                         "time": "6:00 p.m. CT"
                     },
                     {
                         "id": "8", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Des Moines Menace",
+                        "awayID": "desMoinesMenace",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Milwaukee Bavarians",
+                        "homeID"  : "bavarianSoccer", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Glendale, Wisconsin", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Bavarian Soccer Field", 
                         "time": "7:00 p.m. CT"
                     },
                     {
                         "id": "9", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "KC Athletics",
+                        "awayID": "kcAthletics",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Real Colorado Foxes",
+                        "homeID"  : "coloradoFoxes", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Littleton, Colorado", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Shea Stadium", 
                         "time": "7:00 p.m. MT"
                     },
                     {
                         "id": "10", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "ASC New Stars",
+                        "awayID": "ariaSC",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Laredo Heat",
+                        "homeID"  : "laredoHeat", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Laredo, Texas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Texas A&M International University", 
                         "time": "8:15 p.m. CT"
                     },
                     {
                         "id": "11", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "North Texas Rayados",
+                        "awayID": "ntxRayados",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "El Paso Patriots",
+                        "homeID"  : "elPasoPatriots", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "El Paso, Texas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Patriots Stadium", 
                         "time": "8:00 p.m. MT"
                     },
                     {
                         "id": "12", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Fresno Fuego",
+                        "awayID": "fresnoFuego",
                         "awayScore": "", 
                         "date": "5/15/2012", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Stanislaus United Turlock Express",
+                        "homeID"  : "stanislaus", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Turlock, California", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
+                        "stadium": "Academica Fields", 
                         "time": "7:00 p.m. PT"
                     },
                     {
@@ -275,7 +275,7 @@
                         "id": "14", 
                         "awayName": "",
                         "awayName": "USASA Region IV",
-                        "awayID": "usasa4", 
+                        "awayID": "usasa", 
                         "date": "5/15/2012", 
                         "homeName": "Portland Timbers U-23s ",
                         "homeID"  : "portlandTimbers", 
@@ -293,7 +293,7 @@
                     {
                         "id": "15", 
                         "awayName": "USASA Region IV",
-                        "awayID": "usasa4",
+                        "awayID": "usasa",
                         "awayScore": "", 
                         "date": "5/15/2012", 
                         "homeName": "Kitsap Pumas",

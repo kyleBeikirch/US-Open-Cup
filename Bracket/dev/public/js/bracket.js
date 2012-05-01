@@ -62,7 +62,7 @@
               if (roundData[game].id === gameID) overlayData = roundData[game];
             }
           }
-          if (overlayData.homeScore === !"") return showOverlay(overlayData);
+          if (overlayData.awayName !== "") return showOverlay(overlayData);
         });
       });
     });
