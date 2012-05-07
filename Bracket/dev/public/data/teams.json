@@ -432,6 +432,12 @@
                       "champion": "" 
                   },
                   {
+                      "name": "Cal FC",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },
+                  {
                       "name": "Croatian Eagles",
                       "lastman": "2012",
                       "participant": "2012",
@@ -492,21 +498,15 @@
                       "champion": "" 
                   },
                   {
+                      "name": "PSA Elite",
+                      "lastman": "2012",
+                      "participant": "2012",
+                      "champion": ""
+                  },                  
+                  {
                       "name": "Regals FC",
                       "lastman": "",
                       "participant": "2011",
-                      "champion": ""
-                  },
-                  {
-                      "name": "Region IV",
-                      "lastman": "2012",
-                      "participant": "2012",
-                      "champion": ""
-                  },
-                  {
-                      "name": "Region IV",
-                      "lastman": "2012",
-                      "participant": "2012",
                       "champion": ""
                   }              
                 ]

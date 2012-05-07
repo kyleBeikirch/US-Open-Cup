@@ -274,8 +274,8 @@
                     {
                         "id": "14", 
                         "awayName": "",
-                        "awayName": "USASA Region IV",
-                        "awayID": "usasa", 
+                        "awayName": "PSA Elite",
+                        "awayID": "psaElite", 
                         "date": "5/15/2012", 
                         "homeName": "Portland Timbers U-23s ",
                         "homeID"  : "portlandTimbers", 
@@ -292,8 +292,8 @@
                     },
                     {
                         "id": "15", 
-                        "awayName": "USASA Region IV",
-                        "awayID": "usasa",
+                        "awayName": "Cal FC",
+                        "awayID": "calFC",
                         "awayScore": "", 
                         "date": "5/15/2012", 
                         "homeName": "Kitsap Pumas",
@@ -321,7 +321,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Rochester Rhinos",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -340,7 +340,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Charleston Battery",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -359,7 +359,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Harrisburg City Islanders",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -378,7 +378,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Pittsburgh Riverhounds",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -397,7 +397,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Richmond Kickers",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -416,7 +416,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Tampa Bay Rowdies",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -435,7 +435,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Atlanta Silverbacks",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -454,7 +454,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Dayton Dutch Lions",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -473,7 +473,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Minnesota Stars FC",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -492,7 +492,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Orlando City SC",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -511,7 +511,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "San Antonio Scorpions",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -530,7 +530,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Charlotte Eagles",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -549,7 +549,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Fort Lauderdale Strikers",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -568,7 +568,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Los Angeles Blues",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -587,7 +587,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Carolina RailHawks",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -606,7 +606,7 @@
                         "awayID": "",
                         "awayScore": "", 
                         "date": "6/14/2011", 
-                        "homeName": "USL Pro or NASL",
+                        "homeName": "Wilmington Hammerheads",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -1135,113 +1135,4 @@
                         "id": "58", 
                         "awayName": "",
                         "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
-                    {
-                        "id": "59", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    } 
-                ]
-            },
-            {
-                "date": "July 10", 
-                "name": "Semifinals", 
-                "game": [
-                    {
-                        "id": "60", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
-                    {
-                        "id": "61", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    } 
-                ]
-            },
-            {
-                "date": "August 7 or 8", 
-                "name": "Final", 
-                "game": [
-                    {
-                        "id": "62", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    } 
-                ]
-            }            
-        ], 
-        "year": "2012",
-        "title": "Lamar Hunt US Open Cup"
-    }
-}
+                        "awayS
