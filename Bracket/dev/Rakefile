@@ -7,7 +7,7 @@ end
 
 desc "Watch and Compile coffeescript files"
 task :watchCoffee do
-  system "coffee --watch --compile public/js/Bracket.coffee"
+  system "coffee --watch --compile --output public/js/ public/js/"
 end
 
 desc "Watch and Compile sass files"
