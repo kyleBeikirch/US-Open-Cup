@@ -9,11 +9,12 @@
                         "id": "0", 
                         "awayName": "Brooklyn Italians",
                         "awayID": "brooklynItalians",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "3", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Portland Phoenix",
                         "homeID"  : "portlandPhoenix", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": "Portland, Maine", 
                         "scoreSheet": {
                             "away": [
@@ -28,11 +29,12 @@
                         "id": "1", 
                         "awayName": "Greek Americans",
                         "awayID": "greekAmerican",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "1", 
+                        "date": "5/15/2012",
+                        "extraTime" : "",
                         "homeName": "Reading United AC",
                         "homeID"  : "readingAC", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": "Reading, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
@@ -47,11 +49,12 @@
                         "id": "2", 
                         "awayName": "Long Island Rough Riders ",
                         "awayID": "roughRiders",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "2", 
+                        "date": "5/15/2012",
+                        "extraTime" : "",
                         "homeName": "FC Sonic",
                         "homeID"  : "fcSonic", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Bethlehem, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
@@ -66,11 +69,12 @@
                         "id": "3", 
                         "awayName": "Jersey Shore Boca",
                         "awayID": "jerseyShore",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "0", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Michigan Bucks",
                         "homeID"  : "michiganBucks", 
-                        "homeScore": "", 
+                        "homeScore": "6", 
                         "location": "Pontiac, Michigan", 
                         "scoreSheet": {
                             "away": [
@@ -85,11 +89,12 @@
                         "id": "4", 
                         "awayName": "Carolina Dynamo",
                         "awayID": "carolinaDynamo",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "1", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Aegean Hawks",
                         "homeID"  : "aegeanHawks", 
-                        "homeScore": "", 
+                        "homeScore": "3", 
                         "location": "Boyds, Maryland", 
                         "scoreSheet": {
                             "away": [
@@ -104,11 +109,12 @@
                         "id": "5", 
                         "awayName": "Jacksonville United",
                         "awayID": "jacksonvilleUnited",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "2", 
+                        "date": "5/15/2012",
+                        "extraTime" : "",
                         "homeName": "Orlando City U23",
                         "homeID"  : "orlandoCity", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Sanford, Florida", 
                         "scoreSheet": {
                             "away": [
@@ -123,11 +129,12 @@
                         "id": "6", 
                         "awayName": "Mississippi Brilla",
                         "awayID": "mississippiBrilla",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "0", 
+                        "date": "5/15/2012",
+                        "extraTime" : "AET",
                         "homeName": "Georgia Revolution",
                         "homeID"  : "georgiaRevolution", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Conyers, Georgia", 
                         "scoreSheet": {
                             "away": [
@@ -142,11 +149,12 @@
                         "id": "7", 
                         "awayName": "Croatian Eagles",
                         "awayID": "croatianEagles",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "0", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Chicago Fire PDL",
                         "homeID"  : "chicagoFire", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Bridgeview, Illinois", 
                         "scoreSheet": {
                             "away": [
@@ -161,11 +169,12 @@
                         "id": "8", 
                         "awayName": "Des Moines Menace",
                         "awayID": "desMoinesMenace",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "3", 
+                        "date": "5/15/2012",
+                        "extraTime" : "AET", 
                         "homeName": "Milwaukee Bavarians",
                         "homeID"  : "bavarianSoccer", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Glendale, Wisconsin", 
                         "scoreSheet": {
                             "away": [
@@ -180,30 +189,32 @@
                         "id": "9", 
                         "awayName": "KC Athletics",
                         "awayID": "kcAthletics",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "3", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Real Colorado Foxes",
                         "homeID"  : "coloradoFoxes", 
-                        "homeScore": "", 
-                        "location": "Littleton, Colorado", 
+                        "homeScore": "1", 
+                        "location": "Golden, Colorado", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "Shea Stadium", 
+                        "stadium": "Colorado School of Mines Soccer Stadium", 
                         "time": "7:00 p.m. MT"
                     },
                     {
                         "id": "10", 
                         "awayName": "ASC New Stars",
                         "awayID": "ariaSC",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "2", 
+                        "date": "5/15/2012",
+                        "extraTime" : "AET", 
                         "homeName": "Laredo Heat",
                         "homeID"  : "laredoHeat", 
-                        "homeScore": "", 
+                        "homeScore": "4", 
                         "location": "Laredo, Texas", 
                         "scoreSheet": {
                             "away": [
@@ -218,11 +229,12 @@
                         "id": "11", 
                         "awayName": "North Texas Rayados",
                         "awayID": "ntxRayados",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "1", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "El Paso Patriots",
                         "homeID"  : "elPasoPatriots", 
-                        "homeScore": "", 
+                        "homeScore": "3", 
                         "location": "El Paso, Texas", 
                         "scoreSheet": {
                             "away": [
@@ -237,11 +249,12 @@
                         "id": "12", 
                         "awayName": "Fresno Fuego",
                         "awayID": "fresnoFuego",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "2", 
+                        "date": "5/15/2012",
+                        "extraTime" : "",
                         "homeName": "Stanislaus United Turlock Express",
                         "homeID"  : "stanislaus", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Turlock, California", 
                         "scoreSheet": {
                             "away": [
@@ -256,30 +269,32 @@
                         "id": "13", 
                         "awayName": "Ventura County Fusion",
                         "awayID": "venturaCounty",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "6", 
+                        "date": "5/15/2012",
+                        "extraTime" : "AET", 
                         "homeName": "Fullerton Rangers",
                         "homeID"  : "fullertonRangers", 
-                        "homeScore": "", 
-                        "location": "", 
+                        "homeScore": "2", 
+                        "location": " Santa Ana, California", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Santa Ana Stadium", 
+                        "time": "7:00 p.m. PT"
                     },
                     {
                         "id": "14", 
-                        "awayName": "",
                         "awayName": "PSA Elite",
-                        "awayID": "psaElite", 
-                        "date": "5/15/2012", 
+                        "awayID": "psaElite",
+                        "awayScore": "3",
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Portland Timbers U-23s ",
                         "homeID"  : "portlandTimbers", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Portland, Oregon", 
                         "scoreSheet": {
                             "away": [
@@ -294,11 +309,12 @@
                         "id": "15", 
                         "awayName": "Cal FC",
                         "awayID": "calFC",
-                        "awayScore": "", 
-                        "date": "5/15/2012", 
+                        "awayScore": "3", 
+                        "date": "5/15/2012",
+                        "extraTime" : "", 
                         "homeName": "Kitsap Pumas",
                         "homeID"  : "kitsapPumas", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Bremerton, Washington", 
                         "scoreSheet": {
                             "away": [
@@ -317,307 +333,308 @@
                 "game": [
                     {
                         "id": "16", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Brooklyn Italians",
+                        "awayID": "brooklynItalians",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Rochester Rhinos",
-                        "homeID"  : "", 
+                        "homeID"  : "rochesterRhinos", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Rochester, New York", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Sahlen's Stadium", 
+                        "time": "7:35 p.m. ET"
                     },
                     {
                         "id": "17", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Reading United AC",
+                        "awayID": "readingAC",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Charleston Battery",
-                        "homeID"  : "", 
+                        "homeID"  : "charlestonBattery", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": " Charleston, South Carolina", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Blackbaud Stadium", 
+                        "time": "7:35 p.m. ET"
                     },
                     {
                         "id": "18", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Long Island Rough Riders",
+                        "awayID": "roughRiders",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Harrisburg City Islanders",
-                        "homeID"  : "", 
+                        "homeID"  : "harrisburgCityIslanders", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Harrisburg, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Skyline Sports Complex", 
+                        "time": "7:00 p.m. ET"
                     },
                     {
                         "id": "19", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Michigan Bucks",
+                        "awayID": "michiganBucks",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Pittsburgh Riverhounds",
-                        "homeID"  : "", 
+                        "homeID"  : "pittsburghRiverhounds", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Bridgeville, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Chartiers Valley Stadium", 
+                        "time": "7:00 p.m. ET"
                     },
                     {
                         "id": "20", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Richmond Kickers",
+                        "awayID": "richmondKickers",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "Richmond Kickers",
-                        "homeID"  : "", 
+                        "date": "5/22/2012", 
+                        "homeName": "Aegean Hawks",
+                        "homeID"  : "aegeanHawks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Boyds, Maryland", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Maryland Soccerplex Stadium", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "21", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Tampa Bay Rowdies",
+                        "awayID": "tampaBayRowdies",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "Tampa Bay Rowdies",
-                        "homeID"  : "", 
+                        "date": "5/22/2012", 
+                        "homeName": "Jacksonville United",
+                        "homeID"  : "jacksonvilleUnited", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Jacksonville, Florida", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Patton Park", 
+                        "time": "7:00 p.m. ET"
                     },
                     {
                         "id": "22", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Atlanta Silverbacks",
+                        "awayID": "atlantaSilverbacks",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "Atlanta Silverbacks",
-                        "homeID"  : "", 
+                        "date": "5/22/2012", 
+                        "homeName": "Georgia Revolution",
+                        "homeID"  : "georgiaRevolution", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Conyers, Georgia", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "RYSA Soccerplex", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "23", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Dayton Dutch Lions",
+                        "awayID": "dutchLions",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "Dayton Dutch Lions",
-                        "homeID"  : "", 
+                        "date": "5/22/2012", 
+                        "homeName": "Chicago Fire PDL",
+                        "homeID"  : "chicagoFire", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Bridgeview, Illinois", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Toyota Park Practice Field", 
+                        "time": "6:00 p.m. CT"
                     },
                     {
                         "id": "24", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Minnesota Stars FC",
+                        "awayID": "minnesotaStars",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "Minnesota Stars FC",
-                        "homeID"  : "", 
+                        "date": "5/22/2012", 
+                        "homeName": "Des Moines Menace",
+                        "homeID"  : "desMoinesMenace", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Des Moines, Iowa", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Valley Stadium", 
+                        "time": "7:30 p.m. CT"
                     },
                     {
                         "id": "25", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "KC Athletics",
+                        "awayID": "kcAthletics",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Orlando City SC",
-                        "homeID"  : "", 
+                        "homeID"  : "orlandoCity", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Sanford, Florida", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Seminole Soccer Complex", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "26", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Laredo Heat",
+                        "awayID": "laredoHeat",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "San Antonio Scorpions",
-                        "homeID"  : "", 
+                        "homeID"  : "sanAntonioScorpions", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "San Antonio, Texas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Heroes Stadium", 
+                        "time": "7:30 p.m. CT"
                     },
                     {
                         "id": "27", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Charlotte Eagles",
+                        "awayID": "charlotteEagles",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
-                        "homeName": "Charlotte Eagles",
-                        "homeID"  : "", 
+                        "date": "5/22/2012", 
+                        "homeName": "El Paso Patriots",
+                        "homeID"  : "elPasoPatriots", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "El Paso, Texas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Patriots Stadium", 
+                        "time": "8:00 p.m. MT"
+                        
                     },
                     {
                         "id": "28", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Fresno Fuego",
+                        "awayID": "fresnoFuego",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Fort Lauderdale Strikers",
-                        "homeID"  : "", 
+                        "homeID"  : "fortLauderdaleStrikers", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Fort Lauderdale, Florida", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Lockhart Stadium", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "29", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Ventura County Fusion",
+                        "awayID": "venturaCounty",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Los Angeles Blues",
-                        "homeID"  : "", 
+                        "homeID"  : "laBlues", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Fullerton, California", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Titan Stadium", 
+                        "time": "7:30 p.m. PT"
                     },
                     {
                         "id": "30", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "PSA Elite",
+                        "awayID": "psaElite",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Carolina RailHawks",
-                        "homeID"  : "", 
+                        "homeID"  : "carolinaRailhawks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Cary, North Carolina", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "WakeMed Soccer Park", 
+                        "time": "7:07 p.m. ET"
                     },
                     {
                         "id": "31", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Cal FC",
+                        "awayID": "calFC",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "Wilmington Hammerheads",
-                        "homeID"  : "", 
+                        "homeID"  : "wilmingtonHammerHeads", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Wilmington, North Carolina", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Legion Sports Complex", 
+                        "time": "7:00 p.m. ET"
                     } 
                 ]
             },
@@ -630,7 +647,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -649,7 +666,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -668,7 +685,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -687,7 +704,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -706,7 +723,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -725,7 +742,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -744,7 +761,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -763,7 +780,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -782,7 +799,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -801,7 +818,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -820,7 +837,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -839,7 +856,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -858,7 +875,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -877,7 +894,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -896,7 +913,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -915,7 +932,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "MLS",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -940,7 +957,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -959,7 +976,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -978,7 +995,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -997,7 +1014,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1016,7 +1033,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1035,7 +1052,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1054,7 +1071,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1073,7 +1090,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1098,7 +1115,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1117,7 +1134,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/14/2011", 
+                        "date": "5/22/2012", 
                         "homeName": "",
                         "homeID"  : "", 
                         "homeScore": "", 
@@ -1135,4 +1152,113 @@
                         "id": "58", 
                         "awayName": "",
                         "awayID": "",
-                        "awayS
+                        "awayScore": "", 
+                        "date": "5/22/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "59", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/22/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "July 10", 
+                "name": "Semifinals", 
+                "game": [
+                    {
+                        "id": "60", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/22/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "61", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/22/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            },
+            {
+                "date": "August 7 or 8", 
+                "name": "Final", 
+                "game": [
+                    {
+                        "id": "62", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/22/2012", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    } 
+                ]
+            }            
+        ], 
+        "year": "2012",
+        "title": "Lamar Hunt US Open Cup"
+    }
+}
