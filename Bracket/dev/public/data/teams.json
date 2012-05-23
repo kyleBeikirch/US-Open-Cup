@@ -197,7 +197,7 @@
                   },
                   {
                       "name": "Los Angeles Blues",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011,2012",
                       "champion": ""                     
                   },
@@ -209,7 +209,7 @@
                   },
                   {
                       "name": "Pittsburgh Riverhounds",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011, 2012",
                       "champion": ""                      
                   },
@@ -227,7 +227,7 @@
                   },
                   {
                       "name": "Wilmington Hammerheads",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011,2012",
                       "champion": ""
                   }
@@ -252,25 +252,25 @@
                   },
                   {
                       "name": "Chicago Fire PDL",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011,2012",
                       "champion": ""
                   },
                   {
                       "name": "Des Moines Menace",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": ""                  
                   }, 
                   {
                       "name": "El Paso Patriots",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011,2012",
                       "champion": "" 
                   },
                   {
                       "name": "Fresno Fuego",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": "" 
                   },              
@@ -282,13 +282,13 @@
                   },
                   {
                       "name": "Laredo Heat",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": "" 
                   },
                   {
                       "name": "Long Island RoughRiders",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": "" 
                   },
@@ -325,7 +325,7 @@
                   
                   {
                       "name": "Reading United AC",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011,2012",
                       "champion": "" 
                   },
@@ -337,7 +337,7 @@
                   },
                   {
                       "name": "Ventura County Fusion",
-                      "lastman": "",
+                      "lastman": "2012",
                       "participant": "2011,2012",
                       "champion": "" 
                   },
@@ -355,7 +355,7 @@
                 "teams": [
                   {
                       "name": "Brooklyn Italians",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2011,2012",
                       "champion": "" 
                   },
@@ -373,13 +373,13 @@
                   },
                   {
                       "name": "Fullerton Rangers",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": "" 
                   },
                   {
                       "name": "Georgia Revolution",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": "" 
                   },             
@@ -391,7 +391,7 @@
                   },
                   {
                       "name": "Jacksonville United",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": "" 
                   },
@@ -421,7 +421,7 @@
                   },
                   {
                       "name": "Aegean Hawks",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": ""
                   },
@@ -469,7 +469,7 @@
                   },
                   {
                       "name": "KC Athletics",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": ""
                   },
@@ -499,7 +499,7 @@
                   },
                   {
                       "name": "PSA Elite",
-                      "lastman": "2012",
+                      "lastman": "",
                       "participant": "2012",
                       "champion": ""
                   },                  

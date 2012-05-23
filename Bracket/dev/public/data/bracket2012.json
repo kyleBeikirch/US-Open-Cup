@@ -38,8 +38,23 @@
                         "location": "Reading, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
+                              {
+                                "minute" : "64",
+                                "player": "Stephen Roche",
+                                "type": "goal"
+                              }   
                             ],
                             "home": [
+                              {
+                              "minute" : "37",
+                              "player": "Pedro Ribeiro",
+                              "type": "goal"
+                              },
+                              {
+                                "minute" : "55",
+                                "player": "Ryan Finley",
+                                "type": "goal"
+                              }
                             ]  
                         }, 
                         "stadium": "Shirk Stadium, Albright College", 
@@ -58,8 +73,23 @@
                         "location": "Bethlehem, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
+                              {
+                                "minute" : "19",
+                                "player": "Thomas Wharf",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "22",
+                                "player": "Shaun Higgins",
+                                "type": "goal"
+                              }
                             ],
                             "home": [
+                              {
+                                "minute" : "23",
+                                "player": "Brandon Turner",
+                                "type": "goal"
+                              }
                             ]  
                         }, 
                         "stadium": "Ulrich Sports Complex, Lehigh University", 
@@ -78,8 +108,44 @@
                         "location": "Pontiac, Michigan", 
                         "scoreSheet": {
                             "away": [
+                            {
+                              "minute" : "17",
+                              "player": "Nick Tarquinio",
+                              "type": "red"
+                            }
                             ],
                             "home": [
+                              {
+                                "minute" : "31",
+                                "player": "Stefan St. Louis",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "36",
+                                "player": "Nermin Crnkic",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "38",
+                                "player": "Stefan St. Louis",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "74",
+                                "player": "Tom Catalano",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "83",
+                                "player": "Ethan Miller",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "89",
+                                "player": "Bim Ogunyemi",
+                                "type": "goal"
+                              }
+                            
                             ]  
                         }, 
                         "stadium": "Ultimate Soccer", 
@@ -98,8 +164,28 @@
                         "location": "Boyds, Maryland", 
                         "scoreSheet": {
                             "away": [
+                              {
+                                "minute" : "85",
+                                "player": "Thomas McCready",
+                                "type": "goal"
+                              } 
                             ],
                             "home": [
+                              {
+                                "minute" : "21",
+                                "player": "Scott Larrabee",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "46",
+                                "player": "Scott Larrabee",
+                                "type": "goal"
+                              },
+                              {
+                                "minute" : "86",
+                                "player": "Matt Ney",
+                                "type": "goal"
+                              }
                             ]  
                         }, 
                         "stadium": "Maryland Soccerplex Stadium", 
@@ -118,8 +204,43 @@
                         "location": "Sanford, Florida", 
                         "scoreSheet": {
                             "away": [
+                              {
+                              "minute" : "64",
+                              "player": "Sean Steed",
+                              "type": "yellow"
+                              },
+                              {
+                                "minute" : "82",
+                                "player": "Tomislav Kruzanovic (PK)",
+                                "type": "goal"
+                              },
+                              {
+                                  "minute" : "89",
+                                  "player": "Ramak Safi",
+                                  "type": "goal"
+                              }
                             ],
                             "home": [
+                              {
+                              "minute" : "50",
+                              "player": "Drew Helm",
+                              "type": "goal"
+                              },
+                              {
+                                "minute" : "76",
+                                "player": "David Graydon",
+                                "type": "yellow"
+                              },
+                              {
+                                "minute" : "87",
+                                "player": "Oumar Diahkite",
+                                "type": "yellow"
+                              },
+                              {
+                                "minute" : "90",
+                                "player": "Joseph Toby",
+                                "type": "yellow"
+                              }
                             ]  
                         }, 
                         "stadium": "Seminole Soccer Complex", 
@@ -140,6 +261,11 @@
                             "away": [
                             ],
                             "home": [
+                              {
+                                "minute" : "105",
+                                "player": "Hailab Habtom",
+                                "type": "goal"
+                              }    
                             ]  
                         }, 
                         "stadium": "RYSA Soccerplex", 
@@ -158,8 +284,28 @@
                         "location": "Bridgeview, Illinois", 
                         "scoreSheet": {
                             "away": [
+                                {
+                                "minute" : "19",
+                                "player": "Andrew Wiedabach",
+                                "type": "yellow"
+                                },
+                                {
+                                  "minute" : "29",
+                                  "player": "Mike Narciso",
+                                  "type": "yellow"
+                                }
                             ],
                             "home": [
+                              {
+                              "minute" : "5",
+                              "player": "Issac Kannah",
+                              "type": "goal"
+                              },
+                              {
+                                "minute" : "5",
+                                "player": "Jacob Bushue",
+                                "type": "yellow"
+                              }
                             ]  
                         }, 
                         "stadium": "Toyota Park Practice Field", 
@@ -335,11 +481,12 @@
                         "id": "16", 
                         "awayName": "Brooklyn Italians",
                         "awayID": "brooklynItalians",
-                        "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "awayScore": "0",
+                        "date": "5/22/2012",
+                        "extraTime" : "",
                         "homeName": "Rochester Rhinos",
                         "homeID"  : "rochesterRhinos", 
-                        "homeScore": "", 
+                        "homeScore": "3", 
                         "location": "Rochester, New York", 
                         "scoreSheet": {
                             "away": [
@@ -354,11 +501,12 @@
                         "id": "17", 
                         "awayName": "Reading United AC",
                         "awayID": "readingAC",
-                        "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "awayScore": "1", 
+                        "date": "5/22/2012",
+                        "extraTime" : "",
                         "homeName": "Charleston Battery",
                         "homeID"  : "charlestonBattery", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": " Charleston, South Carolina", 
                         "scoreSheet": {
                             "away": [
@@ -373,11 +521,12 @@
                         "id": "18", 
                         "awayName": "Long Island Rough Riders",
                         "awayID": "roughRiders",
-                        "awayScore": "", 
+                        "awayScore": "1", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Harrisburg City Islanders",
                         "homeID"  : "harrisburgCityIslanders", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": "Harrisburg, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
@@ -392,11 +541,12 @@
                         "id": "19", 
                         "awayName": "Michigan Bucks",
                         "awayID": "michiganBucks",
-                        "awayScore": "", 
+                        "awayScore": "1", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Pittsburgh Riverhounds",
                         "homeID"  : "pittsburghRiverhounds", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Bridgeville, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
@@ -411,11 +561,12 @@
                         "id": "20", 
                         "awayName": "Richmond Kickers",
                         "awayID": "richmondKickers2012",
-                        "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "awayScore": "4", 
+                        "date": "5/22/2012",
+                        "extraTime" : "", 
                         "homeName": "Aegean Hawks",
                         "homeID"  : "aegeanHawks", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Boyds, Maryland", 
                         "scoreSheet": {
                             "away": [
@@ -430,11 +581,12 @@
                         "id": "21", 
                         "awayName": "Tampa Bay Rowdies",
                         "awayID": "tampaBayRowdies",
-                        "awayScore": "", 
+                        "awayScore": "3", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Jacksonville United",
                         "homeID"  : "jacksonvilleUnited", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Jacksonville, Florida", 
                         "scoreSheet": {
                             "away": [
@@ -449,11 +601,12 @@
                         "id": "22", 
                         "awayName": "Atlanta Silverbacks",
                         "awayID": "atlantaSilverbacks",
-                        "awayScore": "", 
+                        "awayScore": "1", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Georgia Revolution",
                         "homeID"  : "georgiaRevolution", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Conyers, Georgia", 
                         "scoreSheet": {
                             "away": [
@@ -468,11 +621,12 @@
                         "id": "23", 
                         "awayName": "Dayton Dutch Lions",
                         "awayID": "dutchLions",
-                        "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "awayScore": "2", 
+                        "date": "5/22/2012",
+                        "extraTime" : "",
                         "homeName": "Chicago Fire PDL",
                         "homeID"  : "chicagoFire", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Bridgeview, Illinois", 
                         "scoreSheet": {
                             "away": [
@@ -487,11 +641,12 @@
                         "id": "24", 
                         "awayName": "Minnesota Stars FC",
                         "awayID": "minnesotaStars",
-                        "awayScore": "", 
+                        "awayScore": "2", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Des Moines Menace",
                         "homeID"  : "desMoinesMenace", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Des Moines, Iowa", 
                         "scoreSheet": {
                             "away": [
@@ -506,11 +661,12 @@
                         "id": "25", 
                         "awayName": "KC Athletics",
                         "awayID": "kcAthletics",
-                        "awayScore": "", 
+                        "awayScore": "0", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Orlando City SC",
                         "homeID"  : "orlandoCity", 
-                        "homeScore": "", 
+                        "homeScore": "7", 
                         "location": "Sanford, Florida", 
                         "scoreSheet": {
                             "away": [
@@ -525,11 +681,12 @@
                         "id": "26", 
                         "awayName": "Laredo Heat",
                         "awayID": "laredoHeat",
-                        "awayScore": "", 
+                        "awayScore": "0", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "San Antonio Scorpions",
                         "homeID"  : "sanAntonioScorpions", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": "San Antonio, Texas", 
                         "scoreSheet": {
                             "away": [
@@ -544,11 +701,12 @@
                         "id": "27", 
                         "awayName": "Charlotte Eagles",
                         "awayID": "charlotteEagles",
-                        "awayScore": "", 
+                        "awayScore": "1", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "El Paso Patriots",
                         "homeID"  : "elPasoPatriots", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "El Paso, Texas", 
                         "scoreSheet": {
                             "away": [
@@ -564,11 +722,12 @@
                         "id": "28", 
                         "awayName": "Fresno Fuego",
                         "awayID": "fresnoFuego",
-                        "awayScore": "", 
+                        "awayScore": "2", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Fort Lauderdale Strikers",
                         "homeID"  : "fortLauderdaleStrikers", 
-                        "homeScore": "", 
+                        "homeScore": "7", 
                         "location": "Fort Lauderdale, Florida", 
                         "scoreSheet": {
                             "away": [
@@ -583,11 +742,12 @@
                         "id": "29", 
                         "awayName": "Ventura County Fusion",
                         "awayID": "venturaCounty",
-                        "awayScore": "", 
+                        "awayScore": "3", 
                         "date": "5/22/2012", 
+                        "extraTime" : " AET",
                         "homeName": "Los Angeles Blues",
                         "homeID"  : "laBlues", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Fullerton, California", 
                         "scoreSheet": {
                             "away": [
@@ -602,11 +762,12 @@
                         "id": "30", 
                         "awayName": "PSA Elite",
                         "awayID": "psaElite",
-                        "awayScore": "", 
+                        "awayScore": "0", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Carolina RailHawks",
                         "homeID"  : "carolinaRailhawks", 
-                        "homeScore": "", 
+                        "homeScore": "6", 
                         "location": "Cary, North Carolina", 
                         "scoreSheet": {
                             "away": [
@@ -621,11 +782,12 @@
                         "id": "31", 
                         "awayName": "Cal FC",
                         "awayID": "calFC",
-                        "awayScore": "", 
+                        "awayScore": "4", 
                         "date": "5/22/2012", 
+                        "extraTime" : "",
                         "homeName": "Wilmington Hammerheads",
                         "homeID"  : "wilmingtonHammerHeads", 
-                        "homeScore": "", 
+                        "homeScore": "0", 
                         "location": "Wilmington, North Carolina", 
                         "scoreSheet": {
                             "away": [
@@ -644,259 +806,259 @@
                 "game": [
                     {
                         "id": "32", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Rochester Rhinos",
+                        "awayID": "rochesterRhinos",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/29/2012", 
                         "homeName": "Philadelphia Union",
-                        "homeID"  : "", 
+                        "homeID"  : "philadelphiaUnion", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Chester, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "PPL Park", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "33", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "NY Red Bulls",
+                        "awayID": "nyRedBulls",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "NY Red Bulls",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Charleston Battery",
+                        "homeID"  : "charlestonBattery", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Charleston, South Carolina", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Blackbaud Stadium", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "34", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "New England Revolution",
+                        "awayID": "newEnglandRevolution",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "New England Revolution",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Harrisburg City Islanders",
+                        "homeID"  : "harrisburgCityIslanders", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Harrisburg, Pennsylvania", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
+                        "stadium": "Skyline Sports Complex", 
+                        "time": "7:00 p.m. ET"
+                    },                
                     {
                         "id": "35", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Chicago Fire",
+                        "awayID": "chicagoFire",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "Chicago Fire",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Michigan Bucks",
+                        "homeID"  : "michiganBucks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Pontiac, Michigan", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Ultimate Soccer", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "36", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "DC United",
+                        "awayID": "dcUnited",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "DC United",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Richmond Kickers",
+                        "homeID"  : "richmondKickers2012", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Richmond, Virginia", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Richmond City Stadium", 
+                        "time": "7:00 p.m. ET"
                     },
                     {
                         "id": "37", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Colorado Rapids",
+                        "awayID": "coloradoRapids",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "Colorado Rapids",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Tampa Bay Rowdies",
+                        "homeID"  : "tampaBayRowdies", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "St. Petersburg, Florida", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Al Lang Stadium", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "38", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Seattle Sounders",
+                        "awayID": "seattleMLS",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "Seattle Sounders",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Atlanta Silverbacks",
+                        "homeID"  : "atlantaSilverbacks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Atlanta, Georgia", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": " Atlanta Silverbacks Park", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "39", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Dayton Dutch Lions",
+                        "awayID": "dutchLions",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/29/2012", 
                         "homeName": "Columbus Crew",
-                        "homeID"  : "", 
+                        "homeID"  : "columbusCrew", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Columbus, Ohio", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Columbus Crew Stadium", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "40", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Real Salt Lake",
+                        "awayID": "realSaltLake",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "Real Salt Lake",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Minnesota Stars",
+                        "homeID"  : "minnesotaStars", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Blaine, Minnesota", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "National Sports Center", 
+                        "time": "7:30 p.m. CT"
                     },
                     {
                         "id": "41", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Orlando City SC",
+                        "awayID": "orlandoCity",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/29/2012", 
                         "homeName": "Kansas City",
-                        "homeID"  : "", 
+                        "homeID"  : "sportingKC", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Kansas City, Kansas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "LIVESTRONG Sporting Park", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "42", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Houston Dynamo",
+                        "awayID": "houstonDynamo",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "Houston Dynamo",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "San Antonio Scorpions",
+                        "homeID"  : "sanAntonioScorpions", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "San Antonio, Texas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
+                        "stadium": "Heroes Stadium", 
+                        "time": "7:30 p.m. CT"
+                    },                        
                     {
                         "id": "43", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Charlotte Eagles",
+                        "awayID": "charlotteEagles",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/29/2012", 
                         "homeName": "FC Dallas",
-                        "homeID"  : "", 
+                        "homeID"  : "fcDallas", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Frisco, Texas", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "FC Dallas Stadium", 
+                        "time": "7:30 p.m. CT"
                     },
                     {
                         "id": "44", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Fort Lauderdale Strikers",
+                        "awayID": "fortLauderdaleStrikers",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/29/2012", 
                         "homeName": "San Jose Earthquakes",
-                        "homeID"  : "", 
+                        "homeID"  : "SJEarthquakes", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Stanford, California", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Cagan Stadium", 
+                        "time": "7:30 p.m. PT"
                     },
                     {
                         "id": "45", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Ventura County Fusion",
+                        "awayID": "venturaCounty",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/29/2012", 
                         "homeName": "Chivas USA",
-                        "homeID"  : "", 
+                        "homeID"  : "chivasUSA", 
                         "homeScore": "", 
                         "location": "", 
                         "scoreSheet": {
@@ -910,41 +1072,41 @@
                     },
                     {
                         "id": "46", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "LA Galaxy",
+                        "awayID": "laGalaxy",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
-                        "homeName": "LA Galaxy",
-                        "homeID"  : "", 
+                        "date": "5/29/2012", 
+                        "homeName": "Carolina RailHawks",
+                        "homeID"  : "carolinaRailhawks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Cary, North Carolina", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
+                        "stadium": "WakeMed Soccer Park", 
+                        "time": "7:07 p.m. ET"
+                    },                     
                     {
                         "id": "47", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Cal FC",
+                        "awayID": "calFC",
                         "awayScore": "", 
-                        "date": "5/22/2012", 
+                        "date": "5/30/2012", 
                         "homeName": "Portland Timbers",
-                        "homeID"  : "", 
+                        "homeID"  : "portlandTimbers", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Portland, Oregon", 
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": " JELD-WEN Field", 
+                        "time": "7:30 p.m. PT"
                     } 
                 ]
             },
