@@ -84,7 +84,7 @@
         $('#teamSheet').css('top', bracketHeight + 120);
         $(".leagueTeam").each(function(i, element) {
           if ($(element).attr("data-lastMan").indexOf(currentYear) === -1) {
-            $(element).css("text-decoration", "line-through");
+            $(element).css("color", "#999");
           }
           if ($(element).attr("data-participant").indexOf(currentYear.toString()) === -1) {
             return $(element).remove();

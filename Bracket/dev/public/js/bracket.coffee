@@ -68,7 +68,7 @@ $(document).ready ->
       $('#teamSheet').css( 'top', bracketHeight + 120)
       $(".leagueTeam").each (i, element) ->
         # When eliminated, cross out on team sheet
-        $(element).css "text-decoration", "line-through"  if $(element).attr("data-lastMan").indexOf(currentYear) is -1
+        $(element).css "color", "#999"  if $(element).attr("data-lastMan").indexOf(currentYear) is -1
         #Hide if team is not particpating this year
         $(element).remove() if $(element).attr("data-participant").indexOf(currentYear.toString()) is -1
       #If no teams from that league are in it,then hide them
