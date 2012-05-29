@@ -167,6 +167,12 @@ body {
   z-index: 1;
   overflow: hidden; }
 
+#disclaimer {
+  position: absolute;
+  left: 23px;
+  font-size: 10px;
+  margin-top: 3px; }
+
 .gameEvent {
   text-align: left;
   margin-left: 67px; }
@@ -238,4 +244,7 @@ body {
     height: 13px; }
 
   .leagueTeam:last-child {
-    height: 14px; } }
+    height: 14px; }
+
+  #disclaimer {
+    margin-top: 5px; } }

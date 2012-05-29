@@ -76,12 +76,14 @@
         bracketData: data
       }));
       dataLoaded();
+      $("#Main").append('<div id="disclaimer">* Bracket arrangement subject to change - matchups fixed through Round 4</div>');
+      $('#disclaimer').css('top', bracketHeight + 130);
       $.getJSON("data/teams.json", function(data) {
         teamsData = data;
         $("#Main").append(Mustache.to_html($("#teams-template").html(), {
           teamData: data
         }));
-        $('#teamSheet').css('top', bracketHeight + 120);
+        $('#teamSheet').css('top', bracketHeight + 140);
         $(".leagueTeam").each(function(i, element) {
           if ($(element).attr("data-lastMan").indexOf(currentYear) === -1) {
             $(element).css("color", "#999");

@@ -58,6 +58,9 @@ $(document).ready ->
     )
     dataLoaded()
     
+    $("#Main").append('<div id="disclaimer">* Bracket arrangement subject to change - matchups fixed through Round 4</div>')
+    $('#disclaimer').css( 'top', bracketHeight + 130)
+    
     $.getJSON "data/teams.json", (data) ->
       teamsData = data
       # put data in mustache template
@@ -65,7 +68,7 @@ $(document).ready ->
         teamData: data
       )
       
-      $('#teamSheet').css( 'top', bracketHeight + 120)
+      $('#teamSheet').css( 'top', bracketHeight + 140)
       $(".leagueTeam").each (i, element) ->
         # When eliminated, cross out on team sheet
         $(element).css "color", "#999"  if $(element).attr("data-lastMan").indexOf(currentYear) is -1
