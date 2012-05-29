@@ -211,3 +211,31 @@ body {
   height: 46px;
   float: left;
   padding-right: 5px; }
+
+@-moz-document url-prefix() {
+  .bracketGame {
+    padding-top: 4px;
+    height: 32px; }
+
+  .homeTeam, .awayTeam {
+    height: 11px; }
+
+  .homeScore {
+    top: -1px; }
+
+  .awayTeam {
+    top: 6px; }
+
+  .extraTime {
+    top: 9px; }
+
+  .leagueName {
+    padding-top: 4px;
+    height: 15px; }
+
+  .leagueTeam {
+    padding-top: 3px;
+    height: 13px; }
+
+  .leagueTeam:last-child {
+    height: 14px; } }
