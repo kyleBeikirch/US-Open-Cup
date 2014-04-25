@@ -218,6 +218,68 @@ body {
   float: left;
   padding-right: 5px; }
 
+#listContent {
+  width: 620px;
+  text-align: center;
+  margin: 0 auto; }
+
+#listTitle {
+  font-size: 30px;
+  font-family: "DeftoneStylusRegular";
+  color: #990000;
+  text-shadow: 1px 1px 0px white, 2px 2px 1px black; }
+
+.listLocation {
+  font-size: 10px;
+  position: relative;
+  top: 15px; }
+
+.listScore {
+  position: relative;
+  top: 5px; }
+
+.extraTimeList {
+  width: 50px;
+  overflow: hidden; }
+
+.awayLogoList, .homeLogoList {
+  position: relative;
+  top: 9px; }
+
+.awayTeamList, .homeTeamList {
+  font-size: 18px;
+  padding: 10px; }
+
+.awayScoreList, .homeScoreList {
+  font-size: 28px;
+  font-weight: bold;
+  position: relative;
+  top: 4px; }
+
+.listSheet {
+  position: relative;
+  top: 10px;
+  width: 620px; }
+
+.listItem {
+  font-size: 12px; }
+
+.awayList, .homeList {
+  width: 310px;
+  float: left; }
+  .awayList .listItem, .homeList .listItem {
+    padding: 2px 20px; }
+    .awayList .listItem img, .homeList .listItem img {
+      padding: 2px;
+      position: relative;
+      top: 6px; }
+
+.awayList .listItem {
+  text-align: right; }
+
+.homeList .listItem {
+  text-align: left; }
+
 @-moz-document url-prefix() {
   .bracketGame {
     padding-top: 4px;

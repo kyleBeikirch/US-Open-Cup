@@ -47,10 +47,10 @@
       var marginAdjust, numGames;
       $(element).css('left', i * 120);
       numGames = $('.bracketGame', element).length;
-      marginAdjust = (padding * (16 / numGames)) + padding + (padding / 2 * ((16 / numGames) - 1));
+      marginAdjust = (padding * (24 / numGames)) + padding + (padding / 2 * ((24 / numGames) - 1));
       return $('.bracketGame', element).each(function(i, element) {
         var topPos;
-        topPos = (i * (padding * (16 / numGames)) + padding + (padding / 2 * ((16 / numGames) - 1))) - 10;
+        topPos = (i * (padding * (24 / numGames)) + padding + (padding / 2 * ((24 / numGames) - 1))) - 10;
         bracketHeight = Math.max(bracketHeight, topPos);
         $(element).css('top', topPos);
         return $(element).click(function() {
@@ -62,23 +62,31 @@
               if (roundData[game].id === gameID) overlayData = roundData[game];
             }
           }
-          if (overlayData.awayName !== "") return showOverlay(overlayData);
+          if (overlayData.link !== "") {
+            return window.open(overlayData.link, "_blank");
+          } else {
+            if (overlayData.awayName !== "" && overlayData.homeName !== "") {
+              return showOverlay(overlayData);
+            }
+          }
         });
       });
     });
   };
 
   $(document).ready(function() {
+    var theDate, time;
+    theDate = new Date();
+    time = theDate.valueOf();
     currentYear = getParameterByName("year");
-    return $.getJSON("data/bracket" + currentYear + ".json", function(data) {
+    return $.getJSON("data/bracket" + currentYear + ".json?" + time, function(data) {
       gameData = data.bracket.round;
       $("#Main").append(Mustache.to_html($("#spread-template").html(), {
         bracketData: data
       }));
       dataLoaded();
-      $("#Main").append('<div id="disclaimer">* Bracket arrangement subject to change - matchups fixed through Round 4</div>');
       $('#disclaimer').css('top', bracketHeight + 130);
-      $.getJSON("data/teams.json", function(data) {
+      $.getJSON("data/teams.json?" + time, function(data) {
         teamsData = data;
         $("#Main").append(Mustache.to_html($("#teams-template").html(), {
           teamData: data

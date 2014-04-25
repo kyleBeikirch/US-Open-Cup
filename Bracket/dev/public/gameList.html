@@ -1,0 +1,67 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<head>
+  <meta charset='utf-8'>
+  <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+  <title>US Open Cup Scoreboard</title>
+  <meta content='' name='description' />
+  <meta content='' name='author' />
+  <meta content='width=device-width' name='viewport' />
+  <link href='css/style.css' rel='stylesheet'>
+    <script src='js/libs/modernizr-2.5.2.min.js'></script>
+    <script src='js/libs/jquery-1.7.1.min.js'></script>
+    <script src='js/libs/mustache.js'></script>
+    <script src='js/gameList.js'></script>
+    <script id='gameList-template' type='text/x-mustache-template'>
+        {{#scoreboardData}}
+          <div id="listTitle" >2012 US Open Cup {{name}} Scoreboard</div>
+          {{#game}}
+            <div class='listGame' data-id='{{id}}'>
+              <div class='listLocation'>{{stadium}} - {{location}}</div>
+              <div class='listScore'>
+                <img class='awayLogoList' src='images/logos/{{awayID}}.jpg' width='30px' height='30px'/>
+                <span class='awayTeamList'>{{awayName}}</span>
+                <span class='awayScoreList'>{{awayScore}}</span>
+                <span class='extraTimeList'>{{extraTime}}</span>
+                <span class='homeScoreList'>{{homeScore}}</span>
+                <span class='homeTeamList'>{{homeName}}</span>
+                <img class='homeLogoList' src='images/logos/{{homeID}}.jpg' width='30px' height='30px'/>
+              </div>
+              {{#scoreSheet}}
+              <div class='listSheet'>
+                <div class='awayList'>
+                {{#away}}
+                  <div class="listItem">
+                    
+                    {{player}} - {{minute}}
+                    <img src="images/{{type}}.png"/>
+                  </div>
+                {{/away}}
+                </div>
+                <div class='homeList'>
+                {{#home}}
+                  <div class="listItem">
+                    <img src="images/{{type}}.png"/>
+                    {{minute}} - {{player}}
+                  </div>
+                {{/home}}
+                </div>
+                </div>
+              
+              {{/scoreSheet}}
+              
+              
+            </div>
+          {{/game}}
+        {{/scoreboardData}}
+    </script>
+              
+  </link>
+  
+</head>
+<body>
+ <div id="listContent">
+ </div>
+</body>

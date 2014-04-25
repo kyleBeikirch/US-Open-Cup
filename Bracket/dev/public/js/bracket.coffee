@@ -45,12 +45,16 @@ arrangeGames = ->
           roundData = gameData[round].game
           for game of roundData
             overlayData = roundData[game]  if roundData[game].id is gameID
-        showOverlay(overlayData) if overlayData.awayName isnt ""   
+        if overlayData.link isnt ""
+          window.open overlayData.link, "_blank"
+        else showOverlay overlayData  if overlayData.awayName isnt ""  && overlayData.homeName isnt ""
 
 $(document).ready ->
+  theDate = new Date();
+  time = theDate.valueOf();
   currentYear = getParameterByName("year")
   # load json data
-  $.getJSON "data/bracket" + currentYear + ".json", (data) ->
+  $.getJSON "data/bracket" + currentYear + ".json?" + time, (data) ->
     # put data in mustache template
     gameData = data.bracket.round
     $("#Main").append Mustache.to_html($("#spread-template").html(),
@@ -58,10 +62,10 @@ $(document).ready ->
     )
     dataLoaded()
     
-    $("#Main").append('<div id="disclaimer">* Bracket arrangement subject to change - matchups fixed through Round 4</div>')
+    # $("#Main").append('<div id="disclaimer">* Bracket arrangement subject to change - matchups fixed through Quarterfinals</div>')
     $('#disclaimer').css( 'top', bracketHeight + 130)
     
-    $.getJSON "data/teams.json", (data) ->
+    $.getJSON "data/teams.json?"  + time, (data) ->
       teamsData = data
       # put data in mustache template
       $("#Main").append Mustache.to_html($("#teams-template").html(),
