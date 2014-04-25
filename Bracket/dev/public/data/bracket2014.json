@@ -622,15 +622,15 @@
                     },
                     {
                         "id": "5", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "New York Greek American Atlas",
+                        "awayID": "greekAmerican",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/214/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Ocean City Nor’easters",
+                        "homeID"  : "oceanCityNoreasters", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Ocean City, NJ", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -638,20 +638,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Carey Stadium", 
+                        "time": "7 p.m. ET"
                     },   
                     {
                         "id": "6", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Greater Binghamton FC Thunder",
+                        "awayID": "greaterBinghamton",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Reading United A.C.",
+                        "homeID"  : "readingAC", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Reading, Pa", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -659,20 +659,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Gurski Stadium", 
+                        "time": "7 p.m. ET"
                     },
                     {
                         "id": "7", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Richmond Kickers",
+                        "awayID": "richmondKickers2012",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "RVA FC",
+                        "homeID"  : "rvaFC", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Richmond, Va", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -680,15 +680,15 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Sports Backers Stadium", 
+                        "time": "7 p.m. ET"
                     },
                     {
                         "id": "8", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Harrisburg City Islanders",
+                        "awayID": "harrisburgCityIslanders",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -706,15 +706,15 @@
                     },
                     {
                         "id": "9", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Carolina Dynamo",
+                        "awayID": "carolinaDynamo",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Charlotte Eagles",
+                        "homeID"  : "charlotteEagles", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Charlotte, NC", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -722,15 +722,15 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Queens University Sports Complex", 
+                        "time": "7 p.m. ET"
                     },
                     {
                         "id": "10", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Michigan Bucks ",
+                        "awayID": "michiganBucks",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -748,15 +748,15 @@
                     },
                     {
                         "id": "11", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Ocala Stampede",
+                        "awayID": "ocalaStampede",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Orlando City",
+                        "homeID"  : "orlandoCity", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Sanford, Fla", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -764,20 +764,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Seminole Soccer Complex", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "12", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Panama City Beach Pirates",
+                        "awayID": "panamPirates",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Charleston Battery",
+                        "homeID"  : "charlestonBattery", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Charleston, SC", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -785,15 +785,15 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Blackbaud Stadium", 
+                        "time": "7:30 p.m. ET"
                     },                 
                     {
                         "id": "13", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -814,7 +814,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -835,7 +835,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -856,7 +856,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -877,7 +877,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -898,7 +898,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -919,7 +919,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -940,7 +940,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -961,7 +961,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -982,7 +982,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
@@ -1003,7 +1003,7 @@
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/14/2014",
                         "extraTime" : "", 
                         "homeName": "",
                         "homeID"  : "", 
