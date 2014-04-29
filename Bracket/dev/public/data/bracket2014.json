@@ -91,15 +91,15 @@
                     },
                     {
                         "id": "4", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Vermont Voltage",
+                        "awayID": "vermontVoltage",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "NY Red Bulls U-23s",
+                        "homeID"  : "nyRedBulls", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Whippany, NJ", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -107,8 +107,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Red Bull Training Facility", 
+                        "time": "8 p.m. ET"
                     },
                     {
                         "id": "5", 
@@ -175,15 +175,15 @@
                     },
                     {
                         "id": "8", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "FC Lehigh Valley United Sonic",
+                        "awayID": "lehighValley",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "GPS Portland Phoenix",
+                        "homeID"  : "portlandPhoenix", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Portland, Maine", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -191,8 +191,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Deering High School", 
+                        "time": "7 p.m. ET"
                     },
                     {
                         "id": "9", 
@@ -217,15 +217,15 @@
                     },
                     {
                         "id": "10", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "RWB Adria",
+                        "awayID": "rwbAdria",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Detroit City FC",
+                        "homeID"  : "detroitCity", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Livonia, Mich", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -233,8 +233,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Stevenson High School", 
+                        "time": "7 p.m. ET"
                     },
                     {
                         "id": "11", 
@@ -301,15 +301,15 @@
                     },
                     {
                         "id": "14", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Mass Premier Soccer",
+                        "awayID": "MPS",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Western Mass. Pioneers",
+                        "homeID"  : "WesternMassPioneers", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Ludlow, Mass", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -317,8 +317,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Lusitano Stadium", 
+                        "time": "7:30 p.m. ET"
                     },                   
                     {
                         "id": "15", 
@@ -403,39 +403,18 @@
                         }, 
                         "stadium": "", 
                         "time": ""
-                    },                   
-                    {
-                        "id": "19", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },                   
+                    },                         
                     {
                         "id": "20", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Red Force",
+                        "awayID": "redForce",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Colorado Rovers",
+                        "homeID"  : "coloradoRovers", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Highlands Ranch, Colo", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -443,20 +422,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Shea Stadium", 
+                        "time": "10 p.m. ET"
                     },                   
                     {
                         "id": "21", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "CD Aguiluchos USA",
+                        "awayID": "Aguiluchos",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Ventura County Fusion",
+                        "homeID"  : "venturaCounty", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Ventura, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -464,20 +443,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Ventura College", 
+                        "time": "10 p.m. ET"
                     },                   
                     {
                         "id": "22", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Corinthians",
+                        "awayID": "corinthians",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "San Diego Flash",
+                        "homeID"  : "sanDiegoFlash", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Mira Mesa, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -485,20 +464,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Mira Mesa High School", 
+                        "time": "10 p.m. ET"
                     },                   
                     {
                         "id": "23", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Los Angeles Misioneros FC",
+                        "awayID": "laMisioneros",
                         "awayScore": "", 
-                        "date": "6/26/2012",
+                        "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "PSA Elite",
+                        "homeID"  : "psaElite", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Carson, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -506,8 +485,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "StubHub Center Training Field", 
+                        "time": "10:30 p.m. ET"
                     }
                 ]
             },
@@ -984,8 +963,8 @@
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "PSA Elite",
-                        "homeID"  : "psaElite", 
+                        "homeName": "",
+                        "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
                         "link": "",
