@@ -853,15 +853,15 @@
                     },                   
                     {
                         "id": "40", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Oklahoma City Energy FC",
+                        "awayID": "oklahomaCity",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Tulsa Athletics",
+                        "homeID"  : "tulsaAthletics", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Tulsa, Okla", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -869,20 +869,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Tulsa Athletics Stadium", 
+                        "time": "8:30 p.m. ET"
                     },                   
                     {
                         "id": "41", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Real Colorado Foxes",
+                        "awayID": "coloradoFoxes",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Des Moines Menace",
+                        "homeID"  : "desMoinesMenace", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "West Des Moines, Iowa", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -890,20 +890,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Valley Stadium", 
+                        "time": "8:30 p.m. ET"
                     },                   
                     {
                         "id": "42", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "North Texas Rayados",
+                        "awayID": "ntxRayados",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Austin Aztex",
+                        "homeID"  : "austinAztex", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Austin, Texas", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -911,20 +911,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "House Park", 
+                        "time": "8:30 p.m. ET"
                     },                   
                     {
                         "id": "43", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Orange County Blues",
+                        "awayID": "orangeCountyBlues",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Fresno Fuego",
+                        "homeID"  : "fresnoFuego", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Fresno, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -932,8 +932,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Chukchansi Park", 
+                        "time": "9 p.m. ET"
                     },                   
                     {
                         "id": "44", 
@@ -942,10 +942,10 @@
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Laredo Heat",
+                        "homeID"  : "laredoHeat", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Laredo, Texas", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -953,8 +953,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Texas A&M International University Soccer Complex", 
+                        "time": "9:15 p.m. ET"
                     },                   
                     {
                         "id": "45", 
@@ -963,7 +963,7 @@
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
+                        "homeName": "Sacramento Republic",
                         "homeID"  : "", 
                         "homeScore": "", 
                         "location": "", 
@@ -984,8 +984,8 @@
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "PSA Elite",
+                        "homeID"  : "psaElite", 
                         "homeScore": "", 
                         "location": "", 
                         "link": "",
@@ -1000,15 +1000,15 @@
                     },                   
                     {
                         "id": "47", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Cal FC",
+                        "awayID": "calFC",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "LA Galaxy II",
+                        "homeID"  : "laGalaxy", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Carson, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -1016,8 +1016,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "StubHub Center Track & Field Stadium", 
+                        "time": "10:30 p.m. ET"
                     }
                 ]
             },
