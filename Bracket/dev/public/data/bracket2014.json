@@ -580,8 +580,8 @@
                     },
                     {
                         "id": "28", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "NY Red Bulls U-23s",
+                        "awayID": "nyRedBulls",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
@@ -669,10 +669,10 @@
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "FC Lehigh Valley United Sonic",
+                        "homeID"  : "lehighValley", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Whitehall, Pa", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -680,8 +680,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Whitehall H.S. Soccer Stadium", 
+                        "time": "7:05 p.m ET"
                     },
                     {
                         "id": "33", 
@@ -706,15 +706,15 @@
                     },
                     {
                         "id": "34", 
-                        "awayName": "Michigan Bucks ",
-                        "awayID": "michiganBucks",
+                        "awayName": "RWB Adria",
+                        "awayID": "rwbAdria",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Michigan Bucks",
+                        "homeID"  : "michiganBucks", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Pontiac, Mich", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -722,8 +722,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Ultimate Soccer Arenas", 
+                        "time": "7:30 p.m. ET"
                     },
                     {
                         "id": "35", 
@@ -790,8 +790,8 @@
                     },
                     {
                         "id": "38", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Western Mass. Pioneers",
+                        "awayID": "WesternMassPioneers",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
@@ -916,8 +916,8 @@
                     },                   
                     {
                         "id": "44", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Red Force",
+                        "awayID": "redForce",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
@@ -937,15 +937,15 @@
                     },                   
                     {
                         "id": "45", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Sacramento Republic",
+                        "awayID": "sacramentoRepublic",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "Sacramento Republic",
-                        "homeID"  : "", 
+                        "homeName": "Ventura County Fusion",
+                        "homeID"  : "venturaCounty", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "Ventura, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -953,20 +953,20 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Ventura College", 
+                        "time": "0 p.m. ET"
                     },                   
                     {
                         "id": "46", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "PSA Elite",
+                        "awayID": "psaElite",
                         "awayScore": "", 
                         "date": "5/14/2014",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "San Diego Flash",
+                        "homeID"  : "sanDiegoFlash", 
                         "homeScore": "", 
-                        "location": "", 
+                        "location": "San Diego, Calif", 
                         "link": "",
                         "scoreSheet": {
                             "away": [
@@ -974,8 +974,8 @@
                             "home": [
                             ]  
                         }, 
-                        "stadium": "", 
-                        "time": ""
+                        "stadium": "Mira Mesa High School", 
+                        "time": "10 p.m. ET"
                     },                   
                     {
                         "id": "47", 
