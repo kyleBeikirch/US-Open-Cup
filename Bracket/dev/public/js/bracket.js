@@ -81,6 +81,14 @@
     currentYear = getParameterByName("year");
     return $.getJSON("data/bracket" + currentYear + ".json?" + time, function(data) {
       gameData = data.bracket.round;
+
+      $(data.bracket.round).each(function()
+      {
+        this.game = _.sortBy(this.game, function(game){ 
+          return parseInt(game.id); 
+        });
+      });
+
       $("#Main").append(Mustache.to_html($("#spread-template").html(), {
         bracketData: data
       }));
