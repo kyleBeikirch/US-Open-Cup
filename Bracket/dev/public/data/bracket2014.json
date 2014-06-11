@@ -27,7 +27,7 @@
                         "time": ""
                     },
                     {
-                        "id": "4", 
+                        "id": "2", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -48,7 +48,7 @@
                         "time": ""
                     },
                     {
-                        "id": "5", 
+                        "id": "3", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -90,7 +90,7 @@
                         "time": ""
                     },
                     {
-                        "id": "15", 
+                        "id": "11", 
                         "awayName": "Vermont Voltage",
                         "awayID": "vermontVoltage",
                         "awayScore": "1", 
@@ -111,7 +111,7 @@
                         "time": "8 p.m. ET"
                     },
                     {
-                        "id": "8", 
+                        "id": "7", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -132,7 +132,7 @@
                         "time": ""
                     },   
                     {
-                        "id": "9", 
+                        "id": "8", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -174,7 +174,7 @@
                         "time": ""
                     },
                     {
-                        "id": "22", 
+                        "id": "4", 
                         "awayName": "FC Lehigh Valley United Sonic",
                         "awayID": "lehighValley",
                         "awayScore": "1", 
@@ -195,7 +195,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "11", 
+                        "id": "9", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -216,7 +216,7 @@
                         "time": ""
                     },
                     {
-                        "id": "16", 
+                        "id": "12", 
                         "awayName": "RWB Adria",
                         "awayID": "rwbAdria",
                         "awayScore": "2", 
@@ -237,7 +237,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "12", 
+                        "id": "14", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -300,7 +300,7 @@
                         "time": ""
                     },
                     {
-                        "id": "7", 
+                        "id": "5", 
                         "awayName": "Mass Premier Soccer",
                         "awayID": "MPS",
                         "awayScore": "1", 
@@ -363,7 +363,7 @@
                         "time": ""
                     },                   
                     {
-                        "id": "21", 
+                        "id": "15", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -384,7 +384,7 @@
                         "time": ""
                     },                   
                     {
-                        "id": "23", 
+                        "id": "13", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -405,7 +405,7 @@
                         "time": ""
                     },                         
                     {
-                        "id": "2", 
+                        "id": "16", 
                         "awayName": "Red Force",
                         "awayID": "redForce",
                         "awayScore": "2", 
@@ -426,7 +426,7 @@
                         "time": "10 p.m. ET"
                     },                   
                     {
-                        "id": "3", 
+                        "id": "23", 
                         "awayName": "CD Aguiluchos USA",
                         "awayID": "Aguiluchos",
                         "awayScore": "1", 
@@ -447,7 +447,7 @@
                         "time": "10 p.m. ET"
                     },                   
                     {
-                        "id": "13", 
+                        "id": "21", 
                         "awayName": "Corinthians",
                         "awayID": "corinthians",
                         "awayScore": "0", 
@@ -468,7 +468,7 @@
                         "time": "10 p.m. ET"
                     },                   
                     {
-                        "id": "14", 
+                        "id": "22", 
                         "awayName": "Los Angeles Misioneros FC",
                         "awayID": "laMisioneros",
                         "awayScore": "1", 
