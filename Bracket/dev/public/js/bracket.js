@@ -47,10 +47,10 @@
       var marginAdjust, numGames;
       $(element).css('left', i * 120);
       numGames = $('.bracketGame', element).length;
-      marginAdjust = (padding * (24 / numGames)) + padding + (padding / 2 * ((24 / numGames) - 1));
+      marginAdjust = (padding * (32 / numGames)) + padding + (padding / 2 * ((32 / numGames) - 1));
       return $('.bracketGame', element).each(function(i, element) {
         var topPos;
-        topPos = (i * (padding * (24 / numGames)) + padding + (padding / 2 * ((24 / numGames) - 1))) - 10;
+        topPos = (i * (padding * (32 / numGames)) + padding + (padding / 2 * ((32 / numGames) - 1))) - 10;
         bracketHeight = Math.max(bracketHeight, topPos);
         $(element).css('top', topPos);
         return $(element).click(function() {
