@@ -684,7 +684,7 @@
                 "name": "2nd Round", 
                 "game": [
                     {
-                        "id": "123", 
+                        "id": "117", 
                         "awayName": " Arizona United SC",
                         "awayID": "arizonaUnited",
                         "awayScore": "3", 
@@ -747,7 +747,7 @@
                         "time": "5 p.m. ET"
                     },
                     {
-                        "id": "121", 
+                        "id": "103", 
                         "awayName": "Icon FC",
                         "awayID": "iconFC",
                         "awayScore": "1", 
@@ -768,7 +768,7 @@
                         "time": "5:30 p.m .ET"
                     },
                     {
-                        "id": "115", 
+                        "id": "111", 
                         "awayName": "NY Red Bulls U-23s",
                         "awayID": "nyRedBulls",
                         "awayScore": "1", 
@@ -789,7 +789,7 @@
                         "time": " 7 p.m. ET"
                     },
                     {
-                        "id": "118", 
+                        "id": "108", 
                         "awayName": "New York Greek American Atlas",
                         "awayID": "greekAmerican",
                         "awayScore": "2", 
@@ -810,7 +810,7 @@
                         "time": "7 p.m. ET"
                     },   
                     {
-                        "id": "108", 
+                        "id": "106", 
                         "awayName": "Greater Binghamton FC Thunder",
                         "awayID": "greaterBinghamton",
                         "awayScore": "2", 
@@ -831,7 +831,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "117", 
+                        "id": "107", 
                         "awayName": "Richmond Kickers",
                         "awayID": "richmondKickers2012",
                         "awayScore": "6", 
@@ -852,7 +852,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "122", 
+                        "id": "104", 
                         "awayName": "Harrisburg City Islanders",
                         "awayID": "harrisburgCityIslanders",
                         "awayScore": "4", 
@@ -873,7 +873,7 @@
                         "time": "7:05 p.m ET"
                     },
                     {
-                        "id": "126", 
+                        "id": "120", 
                         "awayName": "Carolina Dynamo",
                         "awayID": "carolinaDynamo",
                         "awayScore": "1", 
@@ -894,7 +894,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "116", 
+                        "id": "112", 
                         "awayName": "RWB Adria",
                         "awayID": "rwbAdria",
                         "awayScore": "1", 
@@ -915,7 +915,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "105", 
+                        "id": "126", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -957,7 +957,7 @@
                         "time": ""
                     },
                     {
-                        "id": "112", 
+                        "id": "113", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -1020,7 +1020,7 @@
                         "time": ""
                     },
                     {
-                        "id": "125", 
+                        "id": "115", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -1083,7 +1083,7 @@
                         "time": ""
                     },
                     {
-                        "id": "131", 
+                        "id": "125", 
                         "awayName": "Ocala Stampede",
                         "awayID": "ocalaStampede",
                         "awayScore": "1", 
@@ -1146,7 +1146,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "107", 
+                        "id": "105", 
                         "awayName": "Western Mass. Pioneers",
                         "awayID": "WesternMassPioneers",
                         "awayScore": "1", 
@@ -1167,7 +1167,7 @@
                         "time": "7:35 p.m. ET"
                     },                   
                     {
-                        "id": "120", 
+                        "id": "102", 
                         "awayName": "Brooklyn Italians SC",
                         "awayID": "brooklynItalians",
                         "awayScore": "4", 
@@ -1188,7 +1188,7 @@
                         "time": "8 p.m. ET"
                     },                   
                     {
-                        "id": "124", 
+                        "id": "118", 
                         "awayName": "Oklahoma City Energy FC",
                         "awayID": "oklahomaCity",
                         "awayScore": "2", 
@@ -1209,7 +1209,7 @@
                         "time": "8:30 p.m. ET"
                     },                   
                     {
-                        "id": "111", 
+                        "id": "131", 
                         "awayName": "Real Colorado Foxes",
                         "awayID": "coloradoFoxes",
                         "awayScore": "0", 
@@ -1230,7 +1230,7 @@
                         "time": "8:30 p.m. ET"
                     },                   
                     {
-                        "id": "106", 
+                        "id": "114", 
                         "awayName": "North Texas Rayados",
                         "awayID": "ntxRayados",
                         "awayScore": "4", 
@@ -1251,7 +1251,7 @@
                         "time": "8:30 p.m. ET"
                     },                   
                     {
-                        "id": "104", 
+                        "id": "124", 
                         "awayName": "Orange County Blues",
                         "awayID": "orangeCountyBlues",
                         "awayScore": "0", 
@@ -1272,7 +1272,7 @@
                         "time": "9 p.m. ET"
                     },                   
                     {
-                        "id": "102", 
+                        "id": "116", 
                         "awayName": "Red Force",
                         "awayID": "redForce",
                         "awayScore": "1", 
@@ -1293,7 +1293,7 @@
                         "time": "9:15 p.m. ET"
                     },                   
                     {
-                        "id": "103", 
+                        "id": "123", 
                         "awayName": "Sacramento Republic",
                         "awayID": "sacramentoRepublic",
                         "awayScore": "2", 
@@ -1314,7 +1314,7 @@
                         "time": "0 p.m. ET"
                     },                   
                     {
-                        "id": "114", 
+                        "id": "122", 
                         "awayName": "PSA Elite",
                         "awayID": "psaElite",
                         "awayScore": "3", 
@@ -1335,7 +1335,7 @@
                         "time": "10 p.m. ET"
                     },                   
                     {
-                        "id": "113", 
+                        "id": "121", 
                         "awayName": "Cal FC",
                         "awayID": "calFC",
                         "awayScore": "1", 
@@ -1362,7 +1362,7 @@
                 "name": "3rd Round", 
                 "game": [
                     {
-                        "id": "48", 
+                        "id": "308", 
                         "awayName": "Laredo Heat",
                         "awayID": "laredoHeat",
                         "awayScore": "3", 
@@ -1383,7 +1383,7 @@
                         "time": " 7:45 p.m. ET"
                     },             
                     {
-                        "id": "49", 
+                        "id": "312", 
                         "awayName": "Fresno Fuego",
                         "awayID": "fresnoFuego",
                         "awayScore": "0", 
@@ -1404,7 +1404,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "50", 
+                        "id": "307", 
                         "awayName": "NTX Rayados",
                         "awayID": "ntxRayados",
                         "awayScore": "2", 
@@ -1425,7 +1425,7 @@
                         "time": "8:30 p.m. ET"
                     },
                     {
-                        "id": "51", 
+                        "id": "303", 
                         "awayName": "Reading United AC",
                         "awayID": "readingAC",
                         "awayScore": "1", 
@@ -1446,7 +1446,7 @@
                         "time": "7:35 p.m. ET"
                     },                          
                     {
-                        "id": "52", 
+                        "id": "305", 
                         "awayName": "Dayton Dutch Lions",
                         "awayID": "dutchLions",
                         "awayScore": "2", 
@@ -1467,7 +1467,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "53", 
+                        "id": "316", 
                         "awayName": "Minnesota United FC",
                         "awayID": "minnesotaUnited",
                         "awayScore": "1", 
@@ -1488,7 +1488,7 @@
                         "time": "8:30 p.m. ET"
                     },                                    
                     {
-                        "id": "54", 
+                        "id": "311", 
                         "awayName": "PSA Elite ",
                         "awayID": "psaElite",
                         "awayScore": "0", 
@@ -1509,7 +1509,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "55", 
+                        "id": "306", 
                         "awayName": "RWB Adria",
                         "awayID": "rwbAdria",
                         "awayScore": "2", 
@@ -1530,7 +1530,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "56", 
+                        "id": "304", 
                         "awayName": "NY Greek American Atlas",
                         "awayID": "greekAmerican",
                         "awayScore": "1", 
@@ -1551,7 +1551,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "57", 
+                        "id": "301", 
                         "awayName": "Brooklyn Italians SC",
                         "awayID": "brooklynItalians",
                         "awayScore": "0", 
@@ -1573,7 +1573,7 @@
                         
                     },
                     {
-                        "id": "58", 
+                        "id": "302", 
                         "awayName": "Harrisburg City Islanders",
                         "awayID": "harrisburgCityIslanders",
                         "awayScore": "4", 
@@ -1594,7 +1594,7 @@
                         "time": "5:30 p.m. ET"
                     },
                     {
-                        "id": "59", 
+                        "id": "309", 
                         "awayName": "Oklahoma City Energy FC",
                         "awayID": "oklahomaCity",
                         "awayScore": "1", 
@@ -1615,7 +1615,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "60", 
+                        "id": "310", 
                         "awayName": "Charlotte Eagles",
                         "awayID": "charlotteEagles",
                         "awayScore": "0", 
@@ -1636,7 +1636,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "61", 
+                        "id": "314", 
                         "awayName": "Atlanta Silverbacks",
                         "awayID": "atlantaSilverbacks",
                         "awayScore": "5", 
@@ -1657,7 +1657,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "62", 
+                        "id": "315", 
                         "awayName": "Orlando City U23s",
                         "awayID": "orlandoCity",
                         "awayScore": "2", 
@@ -1678,7 +1678,7 @@
                         "time": "7:30 p.m. ET"
                     },                  
                     {
-                        "id": "63", 
+                        "id": "313", 
                         "awayName": "Tampa Bay Rowdies",
                         "awayID": "tampaBayRowdies2012",
                         "awayScore": "1", 
@@ -1705,7 +1705,7 @@
                 "name": "4th Round", 
                 "game": [
                     {
-                        "id": "401", 
+                        "id": "408", 
                         "awayName": "Laredo Heat",
                         "awayID": "laredoHeat",
                         "awayScore": "", 
@@ -1726,7 +1726,7 @@
                         "time": "10 p.m. ET"
                     },                
                     {
-                        "id": "402", 
+                        "id": "412", 
                         "awayName": "Sacramento Republic",
                         "awayID": "sacramentoRepublic",
                         "awayScore": "", 
@@ -1747,7 +1747,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "403", 
+                        "id": "407", 
                         "awayName": "San Antonio Scorpions",
                         "awayID": "sanAntonioScorpions",
                         "awayScore": "", 
@@ -1768,7 +1768,7 @@
                         "time": "9:00 p.m. ET"
                     },
                     {
-                        "id": "404", 
+                        "id": "403", 
                         "awayName": "DC United",
                         "awayID": "dcUnited",
                         "awayScore": "", 
@@ -1810,7 +1810,7 @@
                         "time": ""
                     },  
                     {
-                        "id": "406", 
+                        "id": "416", 
                         "awayName": "Minnesota United FC ",
                         "awayID": "minnesotaUnited",
                         "awayScore": "", 
@@ -1831,7 +1831,7 @@
                         "time": ""
                     },                                   
                     {
-                        "id": "407", 
+                        "id": "411", 
                         "awayName": "PSA Elite",
                         "awayID": "psaElite",
                         "awayScore": "", 
@@ -1852,7 +1852,7 @@
                         "time": ""
                     },
                     {
-                        "id": "408", 
+                        "id": "406", 
                         "awayName": "Pittsburgh Riverhounds",
                         "awayID": "pittsburghRiverhounds",
                         "awayScore": "", 
@@ -1873,7 +1873,7 @@
                         "time": ""
                     },
                     {
-                        "id": "409", 
+                        "id": "404", 
                         "awayName": "New England Revolution",
                         "awayID": "newEnglandRevolution",
                         "awayScore": "", 
@@ -1894,7 +1894,7 @@
                         "time": ""
                     },                        
                     {
-                        "id": "410", 
+                        "id": "401", 
                         "awayName": "New York Red Bulls",
                         "awayID": "nyRedBulls",
                         "awayScore": "", 
@@ -1915,7 +1915,7 @@
                         "time": ""
                     },
                     {
-                        "id": "411", 
+                        "id": "402", 
                         "awayName": "Harrisburg City Islanders",
                         "awayID": "harrisburgCityIslanders",
                         "awayScore": "", 
@@ -1936,7 +1936,7 @@
                         "time": ""
                     },
                     {
-                        "id": "412", 
+                        "id": "409", 
                         "awayName": "Los Angeles Galaxy",
                         "awayID": "laGalaxy",
                         "awayScore": "", 
@@ -1957,7 +1957,7 @@
                         "time": ""
                     },
                     {
-                        "id": "413", 
+                        "id": "410", 
                         "awayName": "Chivas USA",
                         "awayID": "chivasUSA",
                         "awayScore": "", 
@@ -2020,7 +2020,7 @@
                         "time": ""
                     },                                        
                     {
-                        "id": "416", 
+                        "id": "413", 
                         "awayName": "Orlando City",
                         "awayID": "orlandoCity",
                         "awayScore": "", 
