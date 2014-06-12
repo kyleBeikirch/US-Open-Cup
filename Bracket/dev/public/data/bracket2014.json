@@ -96,7 +96,7 @@
                         "awayScore": "1", 
                         "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "NY Red Bulls U-23s",
+                        "homeName": "Red Bulls U23s",
                         "homeID"  : "nyRedBulls", 
                         "homeScore": "2", 
                         "location": "Whippany, NJ", 
@@ -306,7 +306,7 @@
                         "awayScore": "1", 
                         "date": "5/7/2014",
                         "extraTime" : "", 
-                        "homeName": "Western Mass. Pioneers",
+                        "homeName": "GPS Mass.",
                         "homeID"  : "WesternMassPioneers", 
                         "homeScore": "4", 
                         "location": "Ludlow, Mass", 
@@ -469,7 +469,7 @@
                     },                   
                     {
                         "id": "22", 
-                        "awayName": "Los Angeles Misioneros FC",
+                        "awayName": "LA Misioneros FC",
                         "awayID": "laMisioneros",
                         "awayScore": "1", 
                         "date": "5/7/2014",
@@ -769,7 +769,7 @@
                     },
                     {
                         "id": "111", 
-                        "awayName": "NY Red Bulls U-23s",
+                        "awayName": "Red Bulls U23s",
                         "awayID": "nyRedBulls",
                         "awayScore": "1", 
                         "date": "5/14/2014",
@@ -790,7 +790,7 @@
                     },
                     {
                         "id": "108", 
-                        "awayName": "New York Greek American Atlas",
+                        "awayName": "NYGAA",
                         "awayID": "greekAmerican",
                         "awayScore": "2", 
                         "date": "5/14/2014",
@@ -811,7 +811,7 @@
                     },   
                     {
                         "id": "106", 
-                        "awayName": "Greater Binghamton FC Thunder",
+                        "awayName": "Greater Bing.",
                         "awayID": "greaterBinghamton",
                         "awayScore": "2", 
                         "date": "5/14/2014",
@@ -853,7 +853,7 @@
                     },
                     {
                         "id": "104", 
-                        "awayName": "Harrisburg City Islanders",
+                        "awayName": "Harrisburg",
                         "awayID": "harrisburgCityIslanders",
                         "awayScore": "4", 
                         "date": "5/14/2014",
@@ -1231,7 +1231,7 @@
                     },                   
                     {
                         "id": "114", 
-                        "awayName": "North Texas Rayados",
+                        "awayName": "NTX Rayados",
                         "awayID": "ntxRayados",
                         "awayScore": "4", 
                         "date": "5/14/2014",
@@ -1531,7 +1531,7 @@
                     },
                     {
                         "id": "304", 
-                        "awayName": "NY Greek American Atlas",
+                        "awayName": "NYGAA",
                         "awayID": "greekAmerican",
                         "awayScore": "1", 
                         "date": "5/28/2014",
@@ -1574,7 +1574,7 @@
                     },
                     {
                         "id": "302", 
-                        "awayName": "Harrisburg City Islanders",
+                        "awayName": "Harrisburg",
                         "awayID": "harrisburgCityIslanders",
                         "awayScore": "4", 
                         "date": "5/28/2014",
@@ -1708,12 +1708,12 @@
                         "id": "408", 
                         "awayName": "Laredo Heat",
                         "awayID": "laredoHeat",
-                        "awayScore": "", 
+                        "awayScore": "0", 
                         "date": "6/11/2014",
                         "extraTime" : "", 
                         "homeName": "Houston Dynamo",
                         "homeID"  : "houstonDynamo", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "Houston, TX", 
                         "link": "",
                         "scoreSheet": {
@@ -1729,12 +1729,12 @@
                         "id": "412", 
                         "awayName": "Sacramento Republic",
                         "awayID": "sacramentoRepublic",
-                        "awayScore": "", 
+                        "awayScore": "1", 
                         "date": "6/11/2014",
                         "extraTime" : "", 
                         "homeName": "San Jose Earthquakes",
                         "homeID"  : "sjQuakes", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": " San Francisco, CA", 
                         "link": "",
                         "scoreSheet": {
@@ -1816,7 +1816,7 @@
                         "awayScore": "", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
-                        "homeName": "Sporting Kansas City",
+                        "homeName": "Sporting KC",
                         "homeID"  : "sportingKC", 
                         "homeScore": "", 
                         "location": "", 
@@ -1895,7 +1895,7 @@
                     },                        
                     {
                         "id": "401", 
-                        "awayName": "New York Red Bulls",
+                        "awayName": "NY Red Bulls",
                         "awayID": "nyRedBulls",
                         "awayScore": "", 
                         "date": "6/26/2012",
@@ -1916,7 +1916,7 @@
                     },
                     {
                         "id": "402", 
-                        "awayName": "Harrisburg City Islanders",
+                        "awayName": "Harrisburg",
                         "awayID": "harrisburgCityIslanders",
                         "awayScore": "", 
                         "date": "6/26/2012",
@@ -1937,7 +1937,7 @@
                     },
                     {
                         "id": "409", 
-                        "awayName": "Los Angeles Galaxy",
+                        "awayName": "LA Galaxy",
                         "awayID": "laGalaxy",
                         "awayScore": "", 
                         "date": "6/26/2012",
@@ -2047,7 +2047,7 @@
                 "name": "5th Round", 
                 "game": [
                     {
-                        "id": "80", 
+                        "id": "501", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2068,7 +2068,7 @@
                         "time": ""
                     },
                     {
-                        "id": "81", 
+                        "id": "502", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2089,7 +2089,7 @@
                         "time": ""
                     },
                     {
-                        "id": "82", 
+                        "id": "503", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2110,7 +2110,28 @@
                         "time": ""
                     },
                     {
-                        "id": "83", 
+                        "id": "504", 
+                        "awayName": "Houston Dynamo",
+                        "awayID": "houstonDynamo",
+                        "awayScore": "", 
+                        "date": "6/26/2012",
+                        "extraTime" : "", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "505", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2131,7 +2152,28 @@
                         "time": ""
                     },
                     {
-                        "id": "84", 
+                        "id": "506", 
+                        "awayName": "San Jose Earthquakes",
+                        "awayID": "sjQuakes",
+                        "awayScore": "", 
+                        "date": "6/26/2012",
+                        "extraTime" : "", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "507", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2152,49 +2194,7 @@
                         "time": ""
                     },
                     {
-                        "id": "85", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
-                    {
-                        "id": "86", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
-                    {
-                        "id": "87", 
+                        "id": "508", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2221,7 +2221,7 @@
                 "name": "Quarterfinals", 
                 "game": [
                     {
-                        "id": "88", 
+                        "id": "601", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2242,7 +2242,7 @@
                         "time": ""
                     },
                     {
-                        "id": "89", 
+                        "id": "602", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2263,7 +2263,7 @@
                         "time": ""
                     },
                     {
-                        "id": "90", 
+                        "id": "603", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2284,7 +2284,7 @@
                         "time": ""
                     },
                     {
-                        "id": "91", 
+                        "id": "604", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2311,7 +2311,7 @@
                 "name": "Semifinals", 
                 "game": [
                     {
-                        "id": "92", 
+                        "id": "701", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2331,7 +2331,7 @@
                         "time": ""
                     },
                     {
-                        "id": "93", 
+                        "id": "702", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -2357,7 +2357,7 @@
                 "name": "Final", 
                 "game": [
                     {
-                        "id": "94", 
+                        "id": "800", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
