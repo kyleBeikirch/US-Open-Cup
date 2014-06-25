@@ -90,7 +90,7 @@
                         "time": ""
                     },
                     {
-                        "id": "11", 
+                        "id": "15", 
                         "awayName": "Vermont Voltage",
                         "awayID": "vermontVoltage",
                         "awayScore": "1", 
@@ -153,7 +153,7 @@
                         "time": ""
                     },
                     {
-                        "id": "10", 
+                        "id": "14", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -195,7 +195,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "9", 
+                        "id": "13", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -216,7 +216,7 @@
                         "time": ""
                     },
                     {
-                        "id": "12", 
+                        "id": "16", 
                         "awayName": "RWB Adria",
                         "awayID": "rwbAdria",
                         "awayScore": "2", 
@@ -237,7 +237,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "14", 
+                        "id": "18", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -258,7 +258,7 @@
                         "time": ""
                     },
                     {
-                        "id": "17", 
+                        "id": "21", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -279,7 +279,7 @@
                         "time": ""
                     },                 
                     {
-                        "id": "18", 
+                        "id": "22", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -321,172 +321,25 @@
                         "time": "7:30 p.m. ET"
                     },                   
                     {
-                        "id": "19", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },                   
-                    {
-                        "id": "20", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },                   
-                    {
-                        "id": "15", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },                   
-                    {
-                        "id": "13", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },                         
-                    {
-                        "id": "16", 
-                        "awayName": "Red Force",
-                        "awayID": "redForce",
-                        "awayScore": "2", 
-                        "date": "5/7/2014",
-                        "extraTime" : "", 
-                        "homeName": "Colorado Rovers",
-                        "homeID"  : "coloradoRovers", 
-                        "homeScore": "1", 
-                        "location": "Highlands Ranch, Colo", 
-                        "link": "http://thecup.us/2014-us-open-cup-round-1-red-force-storms-back-to-beat-colorado-rovers-earn-rare-florida-win/",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "Shea Stadium", 
-                        "time": "10 p.m. ET"
-                    },                   
-                    {
                         "id": "23", 
-                        "awayName": "CD Aguiluchos USA",
-                        "awayID": "Aguiluchos",
-                        "awayScore": "1", 
-                        "date": "5/7/2014",
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/26/2012",
                         "extraTime" : "", 
-                        "homeName": "Ventura County Fusion",
-                        "homeID"  : "venturaCounty", 
-                        "homeScore": "2", 
-                        "location": "Ventura, Calif", 
-                        "link": "http://thecup.us/2014-us-open-cup-round-1-ventura-county-fusion-rallies-to-beat-cd-aguiluchos-to-set-amateur-win-record/",
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
                         "scoreSheet": {
                             "away": [
                             ],
                             "home": [
                             ]  
                         }, 
-                        "stadium": "Ventura College", 
-                        "time": "10 p.m. ET"
-                    },                   
-                    {
-                        "id": "21", 
-                        "awayName": "Corinthians",
-                        "awayID": "corinthians",
-                        "awayScore": "0", 
-                        "date": "5/7/2014",
-                        "extraTime" : "Forfeit", 
-                        "homeName": "San Diego Flash",
-                        "homeID"  : "sanDiegoFlash", 
-                        "homeScore": "3", 
-                        "location": "Mira Mesa, Calif", 
-                        "link": "http://thecup.us/2014-us-open-cup-round-1-san-diego-flash-advance-after-sc-corinthians-forfeit/",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "Mira Mesa High School", 
-                        "time": "10 p.m. ET"
-                    },                   
-                    {
-                        "id": "22", 
-                        "awayName": "LA Misioneros FC",
-                        "awayID": "laMisioneros",
-                        "awayScore": "1", 
-                        "date": "5/7/2014",
-                        "extraTime" : "PSA wins 3-2 on PKs", 
-                        "homeName": "PSA Elite",
-                        "homeID"  : "psaElite", 
-                        "homeScore": "1", 
-                        "location": "Carson, Calif", 
-                        "link": "http://thecup.us/2014-us-open-cup-round-1-psa-elite-need-pks-to-overcome-la-misioneros-reach-round-2/",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "StubHub Center Training Field", 
-                        "time": "10:30 p.m. ET"
+                        "stadium": "", 
+                        "time": ""
                     },                   
                     {
                         "id": "24", 
@@ -510,7 +363,7 @@
                         "time": ""
                     },                   
                     {
-                        "id": "25", 
+                        "id": "19", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -531,7 +384,7 @@
                         "time": ""
                     },                   
                     {
-                        "id": "26", 
+                        "id": "17", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -550,9 +403,93 @@
                         }, 
                         "stadium": "", 
                         "time": ""
+                    },                         
+                    {
+                        "id": "20", 
+                        "awayName": "Red Force",
+                        "awayID": "redForce",
+                        "awayScore": "2", 
+                        "date": "5/7/2014",
+                        "extraTime" : "", 
+                        "homeName": "Colorado Rovers",
+                        "homeID"  : "coloradoRovers", 
+                        "homeScore": "1", 
+                        "location": "Highlands Ranch, Colo", 
+                        "link": "http://thecup.us/2014-us-open-cup-round-1-red-force-storms-back-to-beat-colorado-rovers-earn-rare-florida-win/",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Shea Stadium", 
+                        "time": "10 p.m. ET"
                     },                   
                     {
                         "id": "27", 
+                        "awayName": "CD Aguiluchos USA",
+                        "awayID": "Aguiluchos",
+                        "awayScore": "1", 
+                        "date": "5/7/2014",
+                        "extraTime" : "", 
+                        "homeName": "Ventura County Fusion",
+                        "homeID"  : "venturaCounty", 
+                        "homeScore": "2", 
+                        "location": "Ventura, Calif", 
+                        "link": "http://thecup.us/2014-us-open-cup-round-1-ventura-county-fusion-rallies-to-beat-cd-aguiluchos-to-set-amateur-win-record/",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Ventura College", 
+                        "time": "10 p.m. ET"
+                    },                   
+                    {
+                        "id": "25", 
+                        "awayName": "Corinthians",
+                        "awayID": "corinthians",
+                        "awayScore": "0", 
+                        "date": "5/7/2014",
+                        "extraTime" : "Forfeit", 
+                        "homeName": "San Diego Flash",
+                        "homeID"  : "sanDiegoFlash", 
+                        "homeScore": "3", 
+                        "location": "Mira Mesa, Calif", 
+                        "link": "http://thecup.us/2014-us-open-cup-round-1-san-diego-flash-advance-after-sc-corinthians-forfeit/",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "Mira Mesa High School", 
+                        "time": "10 p.m. ET"
+                    },                   
+                    {
+                        "id": "26", 
+                        "awayName": "LA Misioneros FC",
+                        "awayID": "laMisioneros",
+                        "awayScore": "1", 
+                        "date": "5/7/2014",
+                        "extraTime" : "PSA wins 3-2 on PKs", 
+                        "homeName": "PSA Elite",
+                        "homeID"  : "psaElite", 
+                        "homeScore": "1", 
+                        "location": "Carson, Calif", 
+                        "link": "http://thecup.us/2014-us-open-cup-round-1-psa-elite-need-pks-to-overcome-la-misioneros-reach-round-2/",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "StubHub Center Training Field", 
+                        "time": "10:30 p.m. ET"
+                    },                   
+                    {
+                        "id": "28", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -573,7 +510,70 @@
                         "time": ""
                     },                   
                     {
-                        "id": "28", 
+                        "id": "9", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/26/2012",
+                        "extraTime" : "", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },                   
+                    {
+                        "id": "10", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/26/2012",
+                        "extraTime" : "", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },                   
+                    {
+                        "id": "11", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "6/26/2012",
+                        "extraTime" : "", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },                   
+                    {
+                        "id": "12", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -684,7 +684,7 @@
                 "name": "2nd Round", 
                 "game": [
                     {
-                        "id": "117", 
+                        "id": "121", 
                         "awayName": " Arizona United SC",
                         "awayID": "arizonaUnited",
                         "awayScore": "3", 
@@ -726,7 +726,7 @@
                         "time": "4:30 p.m. ET"
                     },
                     {
-                        "id": "110", 
+                        "id": "114", 
                         "awayName": "Dayton Dutch Lions",
                         "awayID": "dutchLions",
                         "awayScore": "2", 
@@ -768,7 +768,7 @@
                         "time": "5:30 p.m .ET"
                     },
                     {
-                        "id": "111", 
+                        "id": "115", 
                         "awayName": "Red Bulls U23s",
                         "awayID": "nyRedBulls",
                         "awayScore": "1", 
@@ -873,7 +873,7 @@
                         "time": "7:05 p.m ET"
                     },
                     {
-                        "id": "120", 
+                        "id": "124", 
                         "awayName": "Carolina Dynamo",
                         "awayID": "carolinaDynamo",
                         "awayScore": "1", 
@@ -894,7 +894,7 @@
                         "time": "7 p.m. ET"
                     },
                     {
-                        "id": "112", 
+                        "id": "116", 
                         "awayName": "RWB Adria",
                         "awayID": "rwbAdria",
                         "awayScore": "1", 
@@ -915,28 +915,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "126", 
-                        "awayName": "",
-                        "awayID": "",
-                        "awayScore": "", 
-                        "date": "5/14/2014",
-                        "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
-                    {
-                        "id": "109", 
+                        "id": "110", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -978,7 +957,28 @@
                         "time": ""
                     },
                     {
-                        "id": "119", 
+                        "id": "117", 
+                        "awayName": "",
+                        "awayID": "",
+                        "awayScore": "", 
+                        "date": "5/14/2014",
+                        "extraTime" : "", 
+                        "homeName": "",
+                        "homeID"  : "", 
+                        "homeScore": "", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "123", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -1020,7 +1020,7 @@
                         "time": ""
                     },
                     {
-                        "id": "115", 
+                        "id": "119", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -1062,7 +1062,7 @@
                         "time": ""
                     },
                     {
-                        "id": "128", 
+                        "id": "112", 
                         "awayName": "",
                         "awayID": "",
                         "awayScore": "", 
@@ -1083,7 +1083,7 @@
                         "time": ""
                     },
                     {
-                        "id": "125", 
+                        "id": "109", 
                         "awayName": "Ocala Stampede",
                         "awayID": "ocalaStampede",
                         "awayScore": "1", 
@@ -1125,7 +1125,7 @@
                         "time": "7:30 p.m. ET"
                     },                 
                     {
-                        "id": "127", 
+                        "id": "111", 
                         "awayName": "Wilmington Hammerheads",
                         "awayID": "wilmingtonHammerheads",
                         "awayScore": "1", 
@@ -1188,7 +1188,7 @@
                         "time": "8 p.m. ET"
                     },                   
                     {
-                        "id": "118", 
+                        "id": "122", 
                         "awayName": "Oklahoma City Energy FC",
                         "awayID": "oklahomaCity",
                         "awayScore": "2", 
@@ -1230,7 +1230,7 @@
                         "time": "8:30 p.m. ET"
                     },                   
                     {
-                        "id": "114", 
+                        "id": "118", 
                         "awayName": "NTX Rayados",
                         "awayID": "ntxRayados",
                         "awayScore": "4", 
@@ -1251,7 +1251,7 @@
                         "time": "8:30 p.m. ET"
                     },                   
                     {
-                        "id": "124", 
+                        "id": "128", 
                         "awayName": "Orange County Blues",
                         "awayID": "orangeCountyBlues",
                         "awayScore": "0", 
@@ -1272,7 +1272,7 @@
                         "time": "9 p.m. ET"
                     },                   
                     {
-                        "id": "116", 
+                        "id": "120", 
                         "awayName": "Red Force",
                         "awayID": "redForce",
                         "awayScore": "1", 
@@ -1293,7 +1293,7 @@
                         "time": "9:15 p.m. ET"
                     },                   
                     {
-                        "id": "123", 
+                        "id": "127", 
                         "awayName": "Sacramento Republic",
                         "awayID": "sacramentoRepublic",
                         "awayScore": "2", 
@@ -1314,7 +1314,7 @@
                         "time": "0 p.m. ET"
                     },                   
                     {
-                        "id": "122", 
+                        "id": "126", 
                         "awayName": "PSA Elite",
                         "awayID": "psaElite",
                         "awayScore": "3", 
@@ -1335,7 +1335,7 @@
                         "time": "10 p.m. ET"
                     },                   
                     {
-                        "id": "121", 
+                        "id": "125", 
                         "awayName": "Cal FC",
                         "awayID": "calFC",
                         "awayScore": "1", 
@@ -1362,7 +1362,7 @@
                 "name": "3rd Round", 
                 "game": [
                     {
-                        "id": "308", 
+                        "id": "310", 
                         "awayName": "Laredo Heat",
                         "awayID": "laredoHeat",
                         "awayScore": "3", 
@@ -1383,7 +1383,7 @@
                         "time": " 7:45 p.m. ET"
                     },             
                     {
-                        "id": "312", 
+                        "id": "314", 
                         "awayName": "Fresno Fuego",
                         "awayID": "fresnoFuego",
                         "awayScore": "0", 
@@ -1404,7 +1404,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "307", 
+                        "id": "309", 
                         "awayName": "NTX Rayados",
                         "awayID": "ntxRayados",
                         "awayScore": "2", 
@@ -1446,7 +1446,7 @@
                         "time": "7:35 p.m. ET"
                     },                          
                     {
-                        "id": "305", 
+                        "id": "307", 
                         "awayName": "Dayton Dutch Lions",
                         "awayID": "dutchLions",
                         "awayScore": "2", 
@@ -1488,7 +1488,7 @@
                         "time": "8:30 p.m. ET"
                     },                                    
                     {
-                        "id": "311", 
+                        "id": "313", 
                         "awayName": "PSA Elite ",
                         "awayID": "psaElite",
                         "awayScore": "0", 
@@ -1509,7 +1509,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "306", 
+                        "id": "308", 
                         "awayName": "RWB Adria",
                         "awayID": "rwbAdria",
                         "awayScore": "2", 
@@ -1594,7 +1594,7 @@
                         "time": "5:30 p.m. ET"
                     },
                     {
-                        "id": "309", 
+                        "id": "311", 
                         "awayName": "Oklahoma City Energy FC",
                         "awayID": "oklahomaCity",
                         "awayScore": "1", 
@@ -1615,7 +1615,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "310", 
+                        "id": "312", 
                         "awayName": "Charlotte Eagles",
                         "awayID": "charlotteEagles",
                         "awayScore": "0", 
@@ -1636,7 +1636,7 @@
                         "time": "7:30 p.m. ET"
                     },
                     {
-                        "id": "314", 
+                        "id": "306", 
                         "awayName": "Atlanta Silverbacks",
                         "awayID": "atlantaSilverbacks",
                         "awayScore": "5", 
@@ -1678,7 +1678,7 @@
                         "time": "7:30 p.m. ET"
                     },                  
                     {
-                        "id": "313", 
+                        "id": "305", 
                         "awayName": "Tampa Bay Rowdies",
                         "awayID": "tampaBayRowdies2012",
                         "awayScore": "1", 
@@ -1705,7 +1705,7 @@
                 "name": "4th Round", 
                 "game": [
                     {
-                        "id": "408", 
+                        "id": "410", 
                         "awayName": "Laredo Heat",
                         "awayID": "laredoHeat",
                         "awayScore": "0", 
@@ -1726,7 +1726,7 @@
                         "time": "10 p.m. ET"
                     },                
                     {
-                        "id": "412", 
+                        "id": "414", 
                         "awayName": "Sacramento Republic",
                         "awayID": "sacramentoRepublic",
                         "awayScore": "1", 
@@ -1747,7 +1747,7 @@
                         "time": "10:30 p.m. ET"
                     },
                     {
-                        "id": "407", 
+                        "id": "409", 
                         "awayName": "San Antonio Scorpions",
                         "awayID": "sanAntonioScorpions",
                         "awayScore": "0", 
@@ -1789,7 +1789,7 @@
                         "time": "7 p.m ET"
                     },
                     {
-                        "id": "405", 
+                        "id": "407", 
                         "awayName": "Indy Eleven",
                         "awayID": "indyEleven",
                         "awayScore": "1", 
@@ -1831,7 +1831,7 @@
                         "time": ""
                     },                                   
                     {
-                        "id": "411", 
+                        "id": "413", 
                         "awayName": "PSA Elite",
                         "awayID": "psaElite",
                         "awayScore": "0", 
@@ -1852,7 +1852,7 @@
                         "time": ""
                     },
                     {
-                        "id": "406", 
+                        "id": "408", 
                         "awayName": "Pittsburgh Riverhounds",
                         "awayID": "pittsburghRiverhounds",
                         "awayScore": "1", 
@@ -1936,7 +1936,7 @@
                         "time": ""
                     },
                     {
-                        "id": "409", 
+                        "id": "411", 
                         "awayName": "LA Galaxy",
                         "awayID": "laGalaxy",
                         "awayScore": "2", 
@@ -1957,7 +1957,7 @@
                         "time": ""
                     },
                     {
-                        "id": "410", 
+                        "id": "412", 
                         "awayName": "Chivas USA",
                         "awayID": "chivasUSA",
                         "awayScore": "1", 
@@ -1978,7 +1978,7 @@
                         "time": ""
                     },
                     {
-                        "id": "414", 
+                        "id": "406", 
                        "awayName": "Real Salt Lake",
                         "awayID": "realSaltLake",
                         "awayScore": "1", 
@@ -2020,7 +2020,7 @@
                         "time": ""
                     },                                        
                     {
-                        "id": "413", 
+                        "id": "405", 
                         "awayName": "Orlando City",
                         "awayID": "orlandoCity",
                         "awayScore": "2", 
@@ -2050,12 +2050,12 @@
                         "id": "501", 
                         "awayName": "Philadelphia Union",
                         "awayID": "philadelphiaUnion",
-                        "awayScore": "", 
+                        "awayScore": "2", 
                         "date": "6/26/2012",
-                        "extraTime" : "", 
+                        "extraTime" : "AET", 
                         "homeName": "New York Cosmos",
                         "homeID"  : "newYorkCosmos", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "", 
                         "link": "",
                         "scoreSheet": {
@@ -2089,7 +2089,7 @@
                         "time": ""
                     },
                     {
-                        "id": "503", 
+                        "id": "504", 
                         "awayName": "Chicago Fire",
                         "awayID": "chicagoFire",
                         "awayScore": "", 
@@ -2110,36 +2110,15 @@
                         "time": ""
                     },
                     {
-                        "id": "504", 
+                        "id": "505", 
                         "awayName": "Houston Dynamo",
                         "awayID": "houstonDynamo",
-                        "awayScore": "", 
+                        "awayScore": "2", 
                         "date": "6/26/2012",
-                        "extraTime" : "", 
+                        "extraTime" : "AET", 
                         "homeName": "FC Dallas",
                         "homeID"  : "fcDallas", 
-                        "homeScore": "", 
-                        "location": "", 
-                        "link": "",
-                        "scoreSheet": {
-                            "away": [
-                            ],
-                            "home": [
-                            ]  
-                        }, 
-                        "stadium": "", 
-                        "time": ""
-                    },
-                    {
-                        "id": "505", 
-                        "awayName": "Carolina RailHawks",
-                        "awayID": "carolinaRailhawks",
-                        "awayScore": "", 
-                        "date": "6/26/2012",
-                        "extraTime" : "", 
-                        "homeName": "LA Galaxy",
-                        "homeID"  : "laGalaxy", 
-                        "homeScore": "", 
+                        "homeScore": "3", 
                         "location": "", 
                         "link": "",
                         "scoreSheet": {
@@ -2153,6 +2132,27 @@
                     },
                     {
                         "id": "506", 
+                        "awayName": "Carolina RailHawks",
+                        "awayID": "carolinaRailhawks",
+                        "awayScore": "1", 
+                        "date": "6/26/2012",
+                        "extraTime" : "AET", 
+                        "homeName": "LA Galaxy",
+                        "homeID"  : "laGalaxy", 
+                        "homeScore": "0", 
+                        "location": "", 
+                        "link": "",
+                        "scoreSheet": {
+                            "away": [
+                            ],
+                            "home": [
+                            ]  
+                        }, 
+                        "stadium": "", 
+                        "time": ""
+                    },
+                    {
+                        "id": "507", 
                         "awayName": "San Jose Earthquakes",
                         "awayID": "sjQuakes",
                         "awayScore": "", 
@@ -2173,15 +2173,15 @@
                         "time": ""
                     },
                     {
-                        "id": "507", 
+                        "id": "503", 
                         "awayName": "Atlanta Silverbacks",
                         "awayID": "atlantaSilverbacks",
-                        "awayScore": "", 
+                        "awayScore": "2", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
                         "homeName": "Colorado Rapids",
                         "homeID"  : "coloradoRapids", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "", 
                         "link": "",
                         "scoreSheet": {
@@ -2197,12 +2197,12 @@
                         "id": "508", 
                         "awayName": "Sporting KC",
                         "awayID": "sportingKC",
-                        "awayScore": "", 
+                        "awayScore": "1", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
                         "homeName": "Portland Timbers",
                         "homeID"  : "portlandTimbers", 
-                        "homeScore": "", 
+                        "homeScore": "3", 
                         "location": "", 
                         "link": "",
                         "scoreSheet": {
@@ -2227,8 +2227,8 @@
                         "awayScore": "", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Philadelphia Union",
+                        "homeID"  : "philadelphiaUnion", 
                         "homeScore": "", 
                         "location": "", 
                         "link": "",
@@ -2248,8 +2248,8 @@
                         "awayScore": "", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "Atlanta Silverbacks",
+                        "homeID"  : "atlantaSilverbacks", 
                         "homeScore": "", 
                         "location": "", 
                         "link": "",
@@ -2264,13 +2264,13 @@
                     },
                     {
                         "id": "603", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Carolina RailHawks",
+                        "awayID": "carolinaRailhawks",
                         "awayScore": "", 
                         "date": "6/26/2012", 
                         "extraTime" : "",
-                        "homeName": "",
-                        "homeID"  : "", 
+                        "homeName": "FC Dallas",
+                        "homeID"  : "fcDallas", 
                         "homeScore": "", 
                         "location": "", 
                         "link": "",
@@ -2285,8 +2285,8 @@
                     },
                     {
                         "id": "604", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Portland Timbers",
+                        "awayID": "portlandTimbers",
                         "awayScore": "", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
