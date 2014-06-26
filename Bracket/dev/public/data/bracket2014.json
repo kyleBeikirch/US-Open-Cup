@@ -2057,7 +2057,7 @@
                         "homeID"  : "newYorkCosmos", 
                         "homeScore": "1", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2015-us-open-cup-round-5-sebastien-le-touxs-historic-brace-leads-philadelphia-union-past-new-york-cosmos-2-1/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2071,12 +2071,12 @@
                         "id": "502", 
                         "awayName": "New England Revolution",
                         "awayID": "newEnglandRevolution",
-                        "awayScore": "", 
+                        "awayScore": "2", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
                         "homeName": "Rochester Rhinos",
                         "homeID"  : "rochesterRhinos", 
-                        "homeScore": "", 
+                        "homeScore": "1", 
                         "location": "", 
                         "link": "",
                         "scoreSheet": {
@@ -2092,12 +2092,12 @@
                         "id": "504", 
                         "awayName": "Chicago Fire",
                         "awayID": "chicagoFire",
-                        "awayScore": "", 
+                        "awayScore": "4", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
                         "homeName": "Columbus Crew",
                         "homeID"  : "columbusCrew", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": "", 
                         "link": "",
                         "scoreSheet": {
@@ -2120,7 +2120,7 @@
                         "homeID"  : "fcDallas", 
                         "homeScore": "3", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-fc-dallas-wins-texas-size-extra-time-battle-with-houston-dynamo-3-2/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2141,7 +2141,7 @@
                         "homeID"  : "laGalaxy", 
                         "homeScore": "0", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-rookie-gk-scott-goodwin-leads-carolina-railhawks-to-third-straight-win-over-full-strength-la-galaxy/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2162,7 +2162,7 @@
                         "homeID"  : "seattleMLS", 
                         "homeScore": "1", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-seattle-sounders-remain-unbeaten-at-starfire-edge-san-jose-earthquakes-in-penalty-kicks-video/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2183,7 +2183,7 @@
                         "homeID"  : "coloradoRapids", 
                         "homeScore": "1", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-atlanta-silverbacks-upset-of-colorado-rapids-marred-by-chaotic-scene-7-red-cards/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2204,7 +2204,7 @@
                         "homeID"  : "portlandTimbers", 
                         "homeScore": "3", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-portland-timbers-counter-attack-their-way-past-sporting-kansas-city-3-1/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2222,8 +2222,8 @@
                 "game": [
                     {
                         "id": "601", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "New England Revolution",
+                        "awayID": "newEnglandRevolution",
                         "awayScore": "", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
@@ -2243,8 +2243,8 @@
                     },
                     {
                         "id": "602", 
-                        "awayName": "",
-                        "awayID": "",
+                        "awayName": "Chicago Fire",
+                        "awayID": "chicagoFire",
                         "awayScore": "", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
