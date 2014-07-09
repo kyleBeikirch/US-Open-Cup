@@ -2078,7 +2078,7 @@
                         "homeID"  : "rochesterRhinos", 
                         "homeScore": "1", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-new-england-revolution-continue-dominance-of-rochester-rhinos-2-1/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2099,7 +2099,7 @@
                         "homeID"  : "columbusCrew", 
                         "homeScore": "2", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-round-5-chicago-fire-need-extra-time-to-keep-perfect-record-vs-rival-columbus-crew/",
                         "scoreSheet": {
                             "away": [
                             ],
@@ -2224,14 +2224,14 @@
                         "id": "601", 
                         "awayName": "New England Revolution",
                         "awayID": "newEnglandRevolution",
-                        "awayScore": "", 
+                        "awayScore": "0", 
                         "date": "6/26/2012",
                         "extraTime" : "", 
                         "homeName": "Philadelphia Union",
                         "homeID"  : "philadelphiaUnion", 
-                        "homeScore": "", 
+                        "homeScore": "2", 
                         "location": "", 
-                        "link": "",
+                        "link": "http://thecup.us/2014-us-open-cup-quarterfinals-sebastien-le-toux-breaks-goalscoring-record-as-philadelphia-union-blanks-new-england-revolution-2-0/",
                         "scoreSheet": {
                             "away": [
                             ],
